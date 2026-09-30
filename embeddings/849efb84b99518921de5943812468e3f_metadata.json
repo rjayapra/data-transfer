@@ -1,0 +1,5438 @@
+{
+  "source_files": [
+    "Naval Communicator_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Naval Communicator_FlatJobTaskRequirements.json": "3fd4193e463ac7f840be8d086aa91be6"
+  },
+  "source_hash": "849efb84b99518921de5943812468e3f",
+  "tasks_metadata": [
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0005",
+      "text": "Complete call using secure telephone",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0010",
+      "text": "Receive tactical signal information by voice circuit on ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0020",
+      "text": "Transmit tactical signal information by voice circuit on ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0030",
+      "text": "Setup radio teletype circuit to communicate information onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0060",
+      "text": "Setup UHF communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0075",
+      "text": "Setup satelitte communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0090",
+      "text": "Setup HF communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0105",
+      "text": "Setup VHF communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0170",
+      "text": "Hoist flag signals",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0175",
+      "text": "Complete tactical message transmission using flashing light",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0180",
+      "text": "Report tactical signals to ORO/OOW",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0200",
+      "text": "Encode basic tactical information",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0205",
+      "text": "Decode basic tactical information",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0230",
+      "text": "Relay ship's movements to Vessel Traffic Management System (VTMS)",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0240",
+      "text": "Report Search and Rescue communications to the Officer of the Watch",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0255",
+      "text": "Initiate recording of bridge communication equipment during significant events",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0260",
+      "text": "Verify recording of bridge communication equipment during significant events",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0270",
+      "text": "Log messages for external transmission into Master Index file",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0275",
+      "text": "Inspect message for correct formatting",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0280",
+      "text": "Complete Air Gap in preparation for transmission of message",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0285",
+      "text": "Complete Air Gap in preparation for shipboard distribution of messages",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0290",
+      "text": "Obtain authorization for release of message from release authority",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0305",
+      "text": "Transmit messages",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0355",
+      "text": "Maintain tactical communications log",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0360",
+      "text": "Maintain VHF communications log",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0365",
+      "text": "Maintain CCR security access log",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0375",
+      "text": "Draft formatted Messages",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0380",
+      "text": "Muster accountable materials",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "AT0385",
+      "text": "Conduct Communications Checks",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "BT0060",
+      "text": "Communicate with vessels of interest (VOI) for Maritime Interdiction Operations (MIO)",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "BT0070",
+      "text": "Direct vessels of interest (VOI) in accordance with command intent for Maritime Interdiction Operations (MIO)",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "BT0125",
+      "text": "Operate search lights during person overboard at night",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0060",
+      "text": "Connect equipment onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0105",
+      "text": "Troubleshoot basic communications circuits onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0215",
+      "text": "Load keymat into cryptographic equipment onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0230",
+      "text": "Load cryptographic transfer devices",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0235",
+      "text": "Update cryptographic equipment with transfer devices",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0240",
+      "text": "Update cryptographic equipment daily onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0255",
+      "text": "Update keymat requirements based on time period and missions",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0300",
+      "text": "Destroy cryptographic keymat onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0320",
+      "text": "Complete over the air rekeying (OTAR) of cryptographic material onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0350",
+      "text": "Distribute messages onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "DT0395",
+      "text": "Restore of cryptographic equipment after power failures onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "HT0240",
+      "text": "Install IS workstation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "HT0260",
+      "text": "Install IS peripherals",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "HT0270",
+      "text": "Complete configuration of IS workstation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514155",
+      "rank": "S3/S2",
+      "code": "HT0360",
+      "text": "Provide 1st line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0035",
+      "text": "Verify setup of radio teletype circuit to communicate information onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0115",
+      "text": "Verify setup of UHF communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0130",
+      "text": "Verify setup of satellite communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0145",
+      "text": "Verify setup of HF communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0160",
+      "text": "Verify setup of VHF communication circuit onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0180",
+      "text": "Report tactical signals to ORO/OOW",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0210",
+      "text": "Encode advanced tactical information",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0215",
+      "text": "Decode advanced tactical information",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0295",
+      "text": "Update message routing",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0300",
+      "text": "Update Plain Language Address (PLA) database",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "AT0370",
+      "text": "Disseminate radio circuit state",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "BT0060",
+      "text": "Communicate with vessels of interest (VOI) for Maritime Interdiction Operations (MIO)",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "BT0075",
+      "text": "Report maritime interdiction operations (MIO) communications",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "BT0090",
+      "text": "Configure ship communications equipment based on radio frequency (RF) safety",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "BT0210",
+      "text": "Setup communications control and monitoring system (CCMS)",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "BT0215",
+      "text": "Configure message handling distribution system (MHDS) on ship",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0005",
+      "text": "Complete operational tests of HF equipment onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0115",
+      "text": "Troubleshoot SATCOM equipment onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0130",
+      "text": "Troubleshoot HF equipment onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0145",
+      "text": "Troubleshoot VHF equipment onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0155",
+      "text": "Troubleshoot UHF equipment onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0260",
+      "text": "Verify update of keymat requirements based on time period and missions",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0265",
+      "text": "Supervise loading of cryptographic transfer devices",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0270",
+      "text": "Verify update of cryptographic equipment daily onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0285",
+      "text": "Verify destruction of cryptographic keymat onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "DT0410",
+      "text": "Restore communications control and monitoring system (CCMS) after power failures",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514157",
+      "rank": "S1",
+      "code": "ET0080",
+      "text": "Configure satellite circuits onboard ship",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0025",
+      "text": "Transmit tactical signal information by voice circuit on submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0040",
+      "text": "Setup radio teletype circuit to communicate information on submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0065",
+      "text": "Setup UHF communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0080",
+      "text": "Setup satellite communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0095",
+      "text": "Setup HF communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0110",
+      "text": "Setup VHF communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0185",
+      "text": "Report tactical signals onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0220",
+      "text": "Encode tactical information onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "AT0225",
+      "text": "Decode tactical information in submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "BT0040",
+      "text": "Maintain communications stateboards on submarine",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "BT0050",
+      "text": "Draft communications status messages on submarine",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "BT0095",
+      "text": "Configure submarine communications equipment based on radio frequency (RF) safety",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "BT0120",
+      "text": "Coordinate Bridge person overboard actions onboard submarine",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "BT0135",
+      "text": "Fire pyrotechnics for person overboard during surface operations at night on submarine",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "BT0220",
+      "text": "Configure message handling distribution system (MHDS) on submarine",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "CT0245",
+      "text": "Relay information using external communications systems in submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "CT0250",
+      "text": "Relay information using internal communications systems in submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "CT0255",
+      "text": "Monitor interior atmospheric conditions in submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "CT0260",
+      "text": "Deliver training on atmospheric monitoring equipment on submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "CT0270",
+      "text": "Direct flag ceremonial procedures on submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0065",
+      "text": "Connect equipment onboard submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0110",
+      "text": "Troubleshoot communications circuits in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0120",
+      "text": "Troubleshoot SATCOM equipment in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0135",
+      "text": "Troubleshoot HF equipment in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0150",
+      "text": "Troubleshoot VHF equipment in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0160",
+      "text": "Troubleshoot UHF equipment in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0245",
+      "text": "Update cryptographic equipment daily in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0305",
+      "text": "Destroy cryptographic keymat in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0325",
+      "text": "Complete over the air rekeying (OTAR) of cryptographic material in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0355",
+      "text": "Distribute messages in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0400",
+      "text": "Restore of cryptographic equipment after power failures in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0415",
+      "text": "Restore communications systems after power failures in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "DT0425",
+      "text": "Restore information systems after power failures in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "ET0085",
+      "text": "Configure satellite circuits in submarine",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "ET0105",
+      "text": "Monitor satellite connectivity in submarine",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "GT0390",
+      "text": "Report on cyber response to attack/incident on submarine networks to Command",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "GT0405",
+      "text": "Complete IS recovery from cyber attack/incident on submarine network",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "GT0485",
+      "text": "Monitor submarine Network Security",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "GT0510",
+      "text": "Configure software for security monitoring in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "GT0520",
+      "text": "Configure hardware for security monitoring in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0050",
+      "text": "Troubleshoot wireless communications systems in submarines",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0095",
+      "text": "Troubleshoot Information Systems (IS) software in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0120",
+      "text": "Install hardware internal components in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0130",
+      "text": "Remove hardware internal components in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0160",
+      "text": "Troubleshoot hardware internal components in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0235",
+      "text": "Install Information Systems (IS) hardware in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0250",
+      "text": "Remove Information Systems (IS) hardware in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0275",
+      "text": "Install Information Systems (IS) peripherals in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0285",
+      "text": "Remove Information Systems (IS) peripherals in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0305",
+      "text": "Control inventory of Information Technology (IT) assets in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0360",
+      "text": "Provide 1st line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0380",
+      "text": "Report network disruptions/outages in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0390",
+      "text": "Troubleshoot network disruptions/outages in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0400",
+      "text": "Restore Information Systems (IS) from backup in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514158",
+      "rank": "S1",
+      "code": "HT0410",
+      "text": "Initiate River City conditions in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0070",
+      "text": "Setup UHF communication circuit at shore establishment",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0085",
+      "text": "Setup satellite communication circuit at shore establishment",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0100",
+      "text": "Setup HF communication circuit at shore establishment",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0310",
+      "text": "Reconcile message errors with originator",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0315",
+      "text": "Control Ratt Ship Shore (RSS) operating system to relay message traffic",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0320",
+      "text": "Record Ratt Ship Shore (RSS) System faults",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0325",
+      "text": "Configure Maritime Air Console System (MACS)/Air Ground Air (AGA) Console",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0330",
+      "text": "Configure High Frequency (HF) prediction software",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "AT0340",
+      "text": "Transmit weather data to aircraft",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0070",
+      "text": "Connect equipment at shore establishment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0075",
+      "text": "Verify DAMA satellite connectivity",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0080",
+      "text": "Verify Non-DAMA satellite connectivity",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0125",
+      "text": "Troubleshoot SATCOM equipment at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0140",
+      "text": "Troubleshoot HF equipment at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0165",
+      "text": "Troubleshoot UHF equipment at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0225",
+      "text": "Load keymat into cryptographic equipment at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0250",
+      "text": "Update cryptographic equipment daily at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0310",
+      "text": "Destroy cryptographic keymat at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0330",
+      "text": "Complete over the air transfer (OTAT) of cryptographic material at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0360",
+      "text": "Distribute messages at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0405",
+      "text": "Restore of cryptographic equipment after power failures in shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0520",
+      "text": "Configure Net Control Station (NCS) circuits using Remote Control Monitoring System (RCMS)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0565",
+      "text": "Control communication distribution using Maritime Semi Automatic Exchange (MSAX)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514159",
+      "rank": "S1",
+      "code": "DT0585",
+      "text": "Troubleshoot Maritime Semi Automatic Exchange (MSAX) system operations with Node Pearkes",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "DT0420",
+      "text": "Restore information systems after power failures onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "GT0400",
+      "text": "Complete IS recovery from cyber attack/incident on shipboard network",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "GT0410",
+      "text": "Complete IS recovery from cyber attack/incident on shore unit network",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "GT0480",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "GT0490",
+      "text": "Monitor shore unit Network Security",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "GT0505",
+      "text": "Configure software for security monitoring",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "GT0515",
+      "text": "Configure hardware for security monitoring",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0035",
+      "text": "Install wireless communications systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0040",
+      "text": "Remove wireless communications systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0045",
+      "text": "Troubleshoot wireless communications systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0070",
+      "text": "Install Information Systems (IS) software",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0080",
+      "text": "Remove Information Systems (IS) software",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0090",
+      "text": "Troubleshoot Information Systems (IS) software",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0100",
+      "text": "Install Information Systems (IS) network cables",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0105",
+      "text": "Remove Information Systems (IS) network cables",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0110",
+      "text": "Configure enclaves utilizing Linux Basic Text User Interface (TUI)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0115",
+      "text": "Install hardware internal components",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0125",
+      "text": "Remove hardware internal components",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0135",
+      "text": "Install uninterrupted power supply (UPS)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0140",
+      "text": "Remove uninterrupted power supply (UPS)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0145",
+      "text": "Install videoconferencing equipment and systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0150",
+      "text": "Remove videoconferencing equipment and systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0155",
+      "text": "Troubleshoot hardware internal components",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0195",
+      "text": "Install servers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0200",
+      "text": "Remove Servers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0205",
+      "text": "Complete basic troubleshooting on remote servers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0210",
+      "text": "Install Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0215",
+      "text": "Remove Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0220",
+      "text": "Install routers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0225",
+      "text": "Remove routers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0230",
+      "text": "Install Information Systems (IS) hardware",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0240",
+      "text": "Install IS workstation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0245",
+      "text": "Remove Information Systems (IS) hardware",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0255",
+      "text": "Install Information Systems (IS) peripherals",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0265",
+      "text": "Complete basic configuration of IS workstation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0280",
+      "text": "Remove Information Systems (IS) peripherals",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0310",
+      "text": "Coordinate the lifecycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0320",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0360",
+      "text": "Provide 1st line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0365",
+      "text": "Provide 2nd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0375",
+      "text": "Report network disruptions/outages",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0385",
+      "text": "Troubleshoot network disruptions/outages",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "HT0405",
+      "text": "Initiate River City conditions onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "AT0045",
+      "text": "Verify setup of radio teletype circuit to communicate information on submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Supervise setup of radio teletype circuit to communicate information onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "BT0035",
+      "text": "Maintain communications stateboards on ship",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "BT0045",
+      "text": "Draft communications status messages on ship",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "BT0100",
+      "text": "Verify communications equipment meets radio frequency (RF) safety",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "BT0225",
+      "text": "Configure navy multi-band terminal (NMT)",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "DT0085",
+      "text": "Supervise communications checks onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "DT0170",
+      "text": "Supervise troubleshooting of communication circuits onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "DT0365",
+      "text": "Direct distribution of messages onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "DT0430",
+      "text": "Supervise communication equipment restoral after power failure onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "ET0100",
+      "text": "Monitor satellite connectivity onboard ship",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514162",
+      "rank": "MS",
+      "code": "IT0625",
+      "text": "Configure shipboard IWS systems for training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "AT0055",
+      "text": "Supervise setup of radio teletype circuit to communicate information onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "AT0120",
+      "text": "Verify setup of UHF communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "AT0135",
+      "text": "Verify setup of satellite communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "AT0150",
+      "text": "Verify setup of HF communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "AT0165",
+      "text": "Verify setup of VHF communication circuit onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "AT0195",
+      "text": "Supervise the reporting of tactical signals onboard submarine",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "CT0275",
+      "text": "Supervise flag ceremonial procedures on submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0090",
+      "text": "Supervise communications checks in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0190",
+      "text": "Supervise troubleshooting of communication circuits in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0275",
+      "text": "Verify update of cryptographic equipment daily in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0290",
+      "text": "Verify destruction of cryptographic keymat in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0370",
+      "text": "Direct distribution of messages in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0435",
+      "text": "Supervise communication equipment restoral after power failure in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "DT0465",
+      "text": "Supervise information systems equipment restoral after power failure in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "ET0015",
+      "text": "Assess communications exercises and training in submarine",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "ET0055",
+      "text": "Submit unit frequency clearance requests in submarine",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "FT0015",
+      "text": "Coordinate Information Management battle plan for mission in submarine",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "FT0025",
+      "text": "Transfer information between media systems in submarine",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0220",
+      "text": "Report initial submarine information systems (IS) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0235",
+      "text": "Maintain submarine Information Systems Security Incident Report (ISSIR) log and file",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0250",
+      "text": "Investigate submarine Information System Security Incident Report (ISSIR) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0280",
+      "text": "Verify submarine compliance of Information Systems Security with Technical Compliance Inspections (TCI) direction",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0300",
+      "text": "Submit requests for Information Systems (IS) configuration management changes in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0360",
+      "text": "Implement cyber defense strategy for submarine networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0420",
+      "text": "Supervise response to cyber attack/incident on submarine networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0440",
+      "text": "Instruct cyber awareness training in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "GT0500",
+      "text": "Manage network anomalies and events in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0010",
+      "text": "Manage Information Systems (IS) in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0020",
+      "text": "Direct Information Systems (IS) technical comm checks in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0075",
+      "text": "Install Information Systems (IS) software in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0085",
+      "text": "Remove Information Systems (IS) software in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0180",
+      "text": "Initiate IS disaster response plan (critical server failures) in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0340",
+      "text": "Administer network user accounts in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0365",
+      "text": "Provide 2nd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514163",
+      "rank": "MS",
+      "code": "HT0420",
+      "text": "Manage implementation of River City conditions in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "AT0125",
+      "text": "Verify setup of UHF communication circuit at shore establishment",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "AT0140",
+      "text": "Verify setup of satellite communication circuit at shore establishment",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "AT0155",
+      "text": "Verify setup of HF communication circuit at shore establishment",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "AT0345",
+      "text": "Control Air Ground Air (AGA) circuits and radio nets",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0195",
+      "text": "Direct troubleshooting of communication circuits at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0280",
+      "text": "Verify update of cryptographic equipment daily at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0295",
+      "text": "Verify destruction of cryptographic keymat at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0375",
+      "text": "Direct distribution of messages at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0440",
+      "text": "Supervise communication equipment restoral after power failure in shore establishment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0525",
+      "text": "Direct Net Control Station (NCS) circuits using Remote Control Monitoring System (RCMS)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0550",
+      "text": "Configure Maritime Semi Automatic Exchange (MSAX) lines",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0555",
+      "text": "Maintain Maritime Semi Automatic Exchange (MSAX) tables",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0560",
+      "text": "Complete Maritime Semi Automatic Exchange (MSAX) initialization",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0570",
+      "text": "Direct communication distribution using Maritime Semi Automatic Exchange (MSAX)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "DT0595",
+      "text": "Direct message distribution in Communications Centre",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "ET0045",
+      "text": "Submit unit frequency clearance requests on combatant ships",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514164",
+      "rank": "MS",
+      "code": "ET0050",
+      "text": "Submit unit frequency clearance requests on non-combatant ships",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0005",
+      "text": "Prepare Systems Specialist content for lesson plans",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0035",
+      "text": "Prepare Systems Specialist (Sys Spec) DP1 lessons",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0045",
+      "text": "Configure Systems Specialist (Sys Spec) systems for synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0055",
+      "text": "Instruct Systems Specialist (Sys Spec) DP1 lessons",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0080",
+      "text": "Control Systems Specialist (Sys Spec) DP1 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0100",
+      "text": "Draft Systems Specialist (Sys Spec) DP1 training evaluation reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0130",
+      "text": "Instruct Systems Specialist (Sys Spec) content for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0155",
+      "text": "Prepare Systems Specialist (Sys Spec) DP1 joining instructions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0180",
+      "text": "Prepare Systems Specialist (Sys Spec) DP1 classrooms and training areas",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0205",
+      "text": "Coordinate Systems Specialist (Sys Spec) DP1 training review boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0235",
+      "text": "Invigilate Systems Specialist (Sys Spec) DP1 tests and exams",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0270",
+      "text": "Prepare Systems Specialist (Sys Spec) DP1 course schedules",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0300",
+      "text": "Prepare Systems Specialist (Sys Spec) DP1 course reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0330",
+      "text": "Control Systems Specialist (Sys Spec) DP1 classified publications, documents and records",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0360",
+      "text": "Control Systems Specialist (Sys Spec) DP1 classified equipment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0385",
+      "text": "Request Systems Specialist (Sys Spec) DP1 course trainer time for scheduling",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0410",
+      "text": "Draft Systems Specialist (Sys Spec) DP1 lesson plans for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0440",
+      "text": "Draft Systems Specialist (Sys Spec) training plans for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0470",
+      "text": "Prepare Systems Specialist (Sys Spec) online course content for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514165",
+      "rank": "MS",
+      "code": "IT0510",
+      "text": "Rectify minor system faults during Systems Specialist (Sys Spec) DP1 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "DT0315",
+      "text": "Configure cryptographic equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "DT0460",
+      "text": "Supervise information systems equipment restoral after power failure onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "DT0470",
+      "text": "Supervise information systems equipment restoral after power failure in shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "GT0215",
+      "text": "Report initial shipboard information systems (IS) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "GT0295",
+      "text": "Submit requests for Information Systems (IS) configuration management changes onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "GT0385",
+      "text": "Report on cyber response to attack/incident on shipboard networks to Command",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "GT0435",
+      "text": "Instruct cyber awareness training onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "GT0445",
+      "text": "Instruct cyber awareness training in shore establishments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "GT0495",
+      "text": "Manage network anomalies and events",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0015",
+      "text": "Direct Information Systems (IS) technical comm checks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0175",
+      "text": "Initiate IS disaster response plan (critical server failures)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0300",
+      "text": "Control inventory of Information Technology (IT) assets",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0330",
+      "text": "Administer workstation software",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0335",
+      "text": "Administer network user accounts",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0360",
+      "text": "Provide 1st line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0365",
+      "text": "Provide 2nd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "HT0395",
+      "text": "Restore Information Systems (IS) from backup",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0040",
+      "text": "Prepare Network Specialist (Net Spec) DP1 lessons",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0050",
+      "text": "Configure Network Specialist (Net Spec) systems for synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0060",
+      "text": "Instruct Network Specialist (Net Spec) DP1 lessons",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0085",
+      "text": "Control Network Specialist (Net Spec) DP1 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0105",
+      "text": "Draft Network Specialist (Net Spec) DP1 training evaluation reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0135",
+      "text": "Instruct Network Specialist (Net Spec) content for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0160",
+      "text": "Prepare Network Specialist (Net Spec) DP1 joining instructions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0185",
+      "text": "Prepare Network Specialist (Net Spec) DP1 classrooms and training areas",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0210",
+      "text": "Coordinate Network Specialist (Net Spec) DP1 training review boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0240",
+      "text": "Invigilate Network Specialist (Net Spec) DP1 tests and exams",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0275",
+      "text": "Prepare Network Specialist (Net Spec) DP1 course schedules",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0305",
+      "text": "Prepare Network Specialist (Net Spec) DP1 course reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0335",
+      "text": "Control Network Specialist (Net Spec) DP1 classified publications, documents and records",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0365",
+      "text": "Control Network Specialist (Net Spec) DP1 classified equipment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0390",
+      "text": "Request Network Specialist (Net Spec) DP1 course trainer time for scheduling",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0415",
+      "text": "Draft Network Specialist (Net Spec) DP1 lesson plans for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0445",
+      "text": "Draft Network Specialist (Net Spec) training plans for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0475",
+      "text": "Prepare Network Specialist (Net Spec) online course content for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0515",
+      "text": "Rectify minor system faults during Network Specialist (Net Spec) DP1 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "IT0620",
+      "text": "Configure IWS systems for synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "AT0180",
+      "text": "Report tactical signals to ORO/OOW",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "AT0190",
+      "text": "Supervise the reporting of tactical signals onboard ship",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "AT0235",
+      "text": "Supervise the relay of ship's movements to Vessel Traffic Management System (VTMS)",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "AT0245",
+      "text": "Direct communications during Search and Rescue (SAR) mission",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0005",
+      "text": "Direct flashup of Nav Comm equipment onboard ship",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0015",
+      "text": "Direct shut down of Nav Comm equipment onboard ship",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0055",
+      "text": "Draft an Optask Comms",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0060",
+      "text": "Communicate with vessels of interest (VOI) for Maritime Interdiction Operations (MIO)",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0065",
+      "text": "Draft an Optask MIO",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0080",
+      "text": "Supervise Maritime Interdiction Operations (MIO) communications",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0105",
+      "text": "Advise command on fleet manoeuvring signals",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0115",
+      "text": "Coordinate Bridge person overboard actions onboard ship",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "BT0130",
+      "text": "Fire pyrotechnics for person overboard at night on ship",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "DT0095",
+      "text": "Direct communications checks onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "DT0185",
+      "text": "Direct troubleshooting of communication circuits onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "DT0445",
+      "text": "Coordinate communication equipment restoral after power failure onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "DT0515",
+      "text": "Submit information exchange requirements to Fleet Commander for non-combatant ships",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "DT0615",
+      "text": "Advise command on IS systems status onboard non-combatant ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "DT0625",
+      "text": "Advise command on radio frequency (RF) safety onboard Non-Combatant Ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "DT0630",
+      "text": "Create ship's communications plan",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "ET0010",
+      "text": "Assess communications exercises and training onboard ship",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "ET0040",
+      "text": "Verify NCS Junior Watchkeepers qualifications are current",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "FT0005",
+      "text": "Maintain classified website(s) during watch",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "FT0010",
+      "text": "Coordinate Information Management battle plan for mission onboard ships",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "FT0020",
+      "text": "Transfer information between media systems onboard ship",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "FT0030",
+      "text": "Coordinate Unit's Requests for Information (RFIs) onboard ship",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "FT0040",
+      "text": "Coordinate data collection requirements during evolutions/trials onboard ship",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514169",
+      "rank": "PO2",
+      "code": "FT0050",
+      "text": "Archive unit lessons learned onboard ship",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "BT0010",
+      "text": "Direct flashup of Nav Comm equipment in submarine",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "BT0020",
+      "text": "Direct shut down of Nav Comm equipment in submarine",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0015",
+      "text": "Coordinate submarine radio records",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0025",
+      "text": "Defend the submarine with Underwater Warfare (UWW) weapon",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0050",
+      "text": "Direct communications during Search and Rescue (SAR) mission on submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0055",
+      "text": "Advise Command on Search and Rescue (SAR) communications",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0065",
+      "text": "Supervise ship control of submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0075",
+      "text": "Navigate submarine on surface",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0080",
+      "text": "Advise Command on navigation related matters (Surfaced) for submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0085",
+      "text": "Maintain threat database for submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0200",
+      "text": "Operate fire control in submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0220",
+      "text": "Coordinate the Watch (Surface)",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0225",
+      "text": "Maintain tactical plots on submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0235",
+      "text": "Maintain Operational readiness of assigned section in submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0240",
+      "text": "Manage Submarine Fire Control System (CCS-876) Target Motion Analysis (TMA)",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "CT0280",
+      "text": "Advise command on flag ceremonial procedures on submarine",
+      "duty_area": "Duty Area C - Submarine Operations"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0100",
+      "text": "Supervise communications checks in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0175",
+      "text": "Supervise troubleshooting of communication circuits in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0205",
+      "text": "Manage troubleshooting of communication circuits in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0385",
+      "text": "Manage distribution of messages in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0450",
+      "text": "Coordinate communication equipment restoral after power failure in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0480",
+      "text": "Coordinate information systems equipment restoral after power failure in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0495",
+      "text": "Manage IS equipment restoral after power failure in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0510",
+      "text": "Submit information exchange requirements to Fleet Commander for submarines",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0610",
+      "text": "Advise command on IS systems status in submarine",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "DT0635",
+      "text": "Create submarine's communications plan",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "ET0025",
+      "text": "Manage communications exercises and training in submarine",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "FT0035",
+      "text": "Coordinate Unit's Requests for Information (RFIs) in submarine",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "FT0055",
+      "text": "Archive unit lessons learned in submarine",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0010",
+      "text": "Submit information systems (IS) security assessments forms in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0025",
+      "text": "Audit security compliance assessment in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0040",
+      "text": "Draft submarine Information System Security orders",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0075",
+      "text": "Advise command on new information systems (IS) requests in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0170",
+      "text": "Manage submarine information systems (IS) Security education programme",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0205",
+      "text": "Coordinate submarine response to information systems (IS) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0315",
+      "text": "Submit Threat & Risk Analysis documents (TRA) in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0330",
+      "text": "Submit Security Assessment and Authorization (SA&A) documents in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0370",
+      "text": "Verify implementation of cyber defense strategy for submarine networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0380",
+      "text": "Advise command on defense strategy for submarine networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0455",
+      "text": "Supervise cyber awareness training in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "GT0470",
+      "text": "Manage cyber awareness training in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0030",
+      "text": "Manage Information Systems (IS) technical comm checks in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0060",
+      "text": "Manage submarine wireless communications systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0170",
+      "text": "Manage installation of hardware on workstation/server in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0190",
+      "text": "Prepare IS disaster response plan (critical server failures) in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0295",
+      "text": "Manage movement of servers between submarine and shore",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0350",
+      "text": "Manage network user accounts in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0370",
+      "text": "Provide 3rd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514170",
+      "rank": "PO2",
+      "code": "HT0430",
+      "text": "Advise command on bandwidth management in submarine",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "AT0350",
+      "text": "Supervise the control of Air Ground Air (AGA) circuits and radio nets",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "BT0025",
+      "text": "Direct flashup of Nav Comm equipment ashore",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "BT0030",
+      "text": "Direct shut down of Nav Comm equipment ashore",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0180",
+      "text": "Supervise troubleshooting of communication circuits at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0340",
+      "text": "Supervise correct handling of all COMSEC material held on Ops Floor",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0345",
+      "text": "Supervise securing of all COMSEC material held on Ops Floor",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0455",
+      "text": "Coordinate communication equipment restoral after power failure in shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0530",
+      "text": "Supervise Net Control Station (NCS) circuits using Remote Control Monitoring System (RCMS)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0540",
+      "text": "Manage Net Control Station (NCS) communications equipment",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0545",
+      "text": "Coordinate NCS resources to maintain operational commitments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0575",
+      "text": "Supervise communication distribution using Maritime Semi Automatic Exchange (MSAX)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0600",
+      "text": "Supervise message distribution in Communications Centre",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514171",
+      "rank": "PO2",
+      "code": "DT0660",
+      "text": "Coordinate watch personnel and positions",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0015",
+      "text": "Verify Systems Specialist content for lesson plans",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0025",
+      "text": "Supervise configuration of Information Warfare systems for synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0065",
+      "text": "Instruct Systems Specialist (Sys Spec) DP2 and lower lessons",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0090",
+      "text": "Control Systems Specialist (Sys Spec) DP2 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0110",
+      "text": "Draft Systems Specialist (Sys Spec) DP2 training evaluation reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0140",
+      "text": "Instruct Systems Specialist (Sys Spec) content for DP2 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0165",
+      "text": "Prepare Systems Specialist (Sys Spec) DP2 joining instructions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0190",
+      "text": "Prepare Systems Specialist (Sys Spec) DP2 classrooms and training areas",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0215",
+      "text": "Coordinate Systems Specialist (Sys Spec) DP2 training review boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0245",
+      "text": "Invigilate Systems Specialist (Sys Spec) DP2 tests and exams",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0280",
+      "text": "Prepare Systems Specialist (Sys Spec) DP2 course schedules",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0310",
+      "text": "Prepare Systems Specialist (Sys Spec) DP2 course reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0340",
+      "text": "Control Systems Specialist (Sys Spec) DP2 classified publications, documents and records",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0370",
+      "text": "Control Systems Specialist (Sys Spec) DP2 classified equipment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0395",
+      "text": "Request Systems Specialist (Sys Spec) DP2 course trainer time for scheduling",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0420",
+      "text": "Draft Systems Specialist (Sys Spec) DP2 lesson plans for DP2 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0450",
+      "text": "Draft Systems Specialist (Sys Spec) training plans for DP2 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0480",
+      "text": "Prepare Systems Specialist (Sys Spec) online course content forDP2 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514172",
+      "rank": "PO2",
+      "code": "IT0520",
+      "text": "Rectify minor system faults during Systems Specialist (Sys Spec) DP2 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "DT0475",
+      "text": "Coordinate information systems equipment restoral after power failure onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "DT0485",
+      "text": "Coordinate information systems equipment restoral after power failure in shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0005",
+      "text": "Submit information systems (IS) security assessments forms onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0020",
+      "text": "Audit security compliance assessment onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0035",
+      "text": "Draft shipboard Information System Security orders",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0070",
+      "text": "Advise command on new information systems (IS) requests onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0100",
+      "text": "Advise on Information Systems (IS)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0145",
+      "text": "Verify Information Systems (IS) Distribution Account/Supply Customer Account (DA/SCA)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0150",
+      "text": "Brief new users on information systems (IS) Security onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0165",
+      "text": "Manage shipboard information systems (IS) Security education programme",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0200",
+      "text": "Coordinate shipboard response to information systems (IS) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0230",
+      "text": "Maintain shipboard Information Systems Security Incident Report (ISSIR) log and file",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0245",
+      "text": "Investigate shipboard Information System Security Incident Report (ISSIR) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0260",
+      "text": "Draft shipboard Information System Security Incident Report (ISSIR)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0275",
+      "text": "Verify shipboard compliance of Information Systems Security with Technical Compliance Inspections (TCI) direction",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0310",
+      "text": "Submit Threat & Risk Analysis documents (TRA) onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0325",
+      "text": "Submit Security Assessment and Authorization (SA&A) documents onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0355",
+      "text": "Implement cyber defense strategy for shipboard networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0415",
+      "text": "Supervise response to cyber attack/incident on shipboard networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0450",
+      "text": "Supervise cyber awareness training onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "GT0460",
+      "text": "Supervise cyber awareness training in shore establishments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0005",
+      "text": "Manage Information Systems (IS)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0055",
+      "text": "Manage shipboard wireless communications systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0165",
+      "text": "Manage installation of hardware on workstation/server",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0185",
+      "text": "Prepare IS disaster response plan (critical server failures)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0290",
+      "text": "Manage movement of servers between ship and shore",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0345",
+      "text": "Manage network user accounts",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0370",
+      "text": "Provide 3rd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "HT0415",
+      "text": "Manage implementation of River City conditions onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "IT0635",
+      "text": "Direct shipboard IWS training exercises",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0010",
+      "text": "Prepare Network Specialist content for lesson plans",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0020",
+      "text": "Verify Network Specialist content for lesson plans",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0030",
+      "text": "Supervise configuration of Network systems for synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0070",
+      "text": "Instruct Network Specialist (Net Spec) DP2 and lower lessons",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0095",
+      "text": "Control Network Specialist (Net Spec) DP2 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0115",
+      "text": "Draft Network Specialist (Net Spec) DP2 training evaluation reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0145",
+      "text": "Instruct Network Specialist (Net Spec) content for DP2 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0170",
+      "text": "Prepare Network Specialist (Net Spec) DP2 joining instructions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0195",
+      "text": "Prepare Network Specialist (Net Spec) DP2 classrooms and training areas",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0220",
+      "text": "Coordinate Network Specialist (Net Spec) DP2 training review boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0250",
+      "text": "Invigilate Network Specialist (Net Spec) DP2 tests and exams",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0285",
+      "text": "Prepare Network Specialist (Net Spec) DP2 course schedules",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0315",
+      "text": "Prepare Network Specialist (Net Spec) DP2 course reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0345",
+      "text": "Control Network Specialist (Net Spec) DP2 classified publications, documents and records",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0375",
+      "text": "Control Network Specialist (Net Spec) DP2 classified equipment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0400",
+      "text": "Request Network Specialist (Net Spec) DP2 course trainer time for scheduling",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0425",
+      "text": "Draft Network Specialist (Net Spec) DP2 lesson plans for DP1 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0455",
+      "text": "Draft Network Specialist (Net Spec) training plans for DP2 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0485",
+      "text": "Prepare Network Specialist (Net Spec) online course content forDP2 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0525",
+      "text": "Rectify minor system faults during Network Specialist (Net Spec) DP2 synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "IT0630",
+      "text": "Direct IWS exercises in synthetic training environment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "AT0180",
+      "text": "Report tactical signals to ORO/OOW",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "AT0250",
+      "text": "Advise Command on Search and Rescue (SAR) communications",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "BT0085",
+      "text": "Manage Maritime Interdiction Operations (MIO) communications",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Advise Command on Nav Comm operations requirements",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "BT0205",
+      "text": "Coordinate Nav Comm support for submarine during deployment",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0200",
+      "text": "Manage troubleshooting of communication circuits onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0210",
+      "text": "Manage troubleshooting of communication circuits at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0380",
+      "text": "Manage distribution of messages onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0390",
+      "text": "Manage distribution of messages at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0490",
+      "text": "Manage IS equipment restoral after power failure onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0505",
+      "text": "Submit information exchange requirements to Fleet Commander for combatant ships",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0535",
+      "text": "Manage Net Control Station (NCS) circuits using Remote Control Monitoring System (RCMS)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0580",
+      "text": "Manage communication distribution using Maritime Semi Automatic Exchange (MSAX)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0605",
+      "text": "Advise command on IS systems status onboard combatant ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0620",
+      "text": "Advise command on radio frequency (RF) safety onboard Combatant Ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0650",
+      "text": "Coordinate Communications Information Systems (CIS) requirements for combat Ops",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0655",
+      "text": "Coordinate Communications Information Systems (CIS) requirements for non combat Ops",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "DT0665",
+      "text": "Manage NCS Watches",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0005",
+      "text": "Manage communication circuits based on warfare priority",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0020",
+      "text": "Manage communications exercises and training onboard ship",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0035",
+      "text": "Coordinate NCS Junior Watchkeepers training",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0115",
+      "text": "Plan satellite communication mission assignments for submarines",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0120",
+      "text": "Manage Canadian Armed Forces (CAF) Frequency Spectrum",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0125",
+      "text": "Coordinate frequency authorization in Canada, including Allied and visiting forces",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0130",
+      "text": "Obtain temporary frequency authorization for Canadian Armed Forces (CAF) unit in foreign countries",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0135",
+      "text": "Obtain authorization for communications frequencies for Canadian vessels in foreign ports",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "ET0140",
+      "text": "Obtain authorization for communications for foreign naval vessels while in Canadian waters or ports",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "GT0375",
+      "text": "Advise command on defense strategy for shipboard networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "GT0465",
+      "text": "Manage cyber awareness training onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "HT0025",
+      "text": "Manage Information Systems (IS) technical comm checks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "HT0370",
+      "text": "Provide 3rd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514176",
+      "rank": "PO1",
+      "code": "HT0425",
+      "text": "Advise command on bandwidth management",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0050",
+      "text": "Draft fleet policies and regulations related to COMPUSEC, EMSEC, CRYPTOSEC, TRANSEC, NETSEC",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0055",
+      "text": "Draft fleet security orders for stand alone computers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0060",
+      "text": "Draft fleet security orders for computers connected to networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0065",
+      "text": "Draft fleet training plan to enhance IS Security",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0085",
+      "text": "Advise fleet commander on new information systems (IS) requests",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0105",
+      "text": "Promulgate fleet IS security program (posters, RO's entries, briefings)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0110",
+      "text": "Review fleet Information System Security Incident (ISSI) policies",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0115",
+      "text": "Review fleet ISSI reporting procedures for shipboard breaches and violations",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0120",
+      "text": "Review fleet IS access agreement forms to ensure they are up to date",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0125",
+      "text": "Advise fleet commander on IT infrastructure security and related issues",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0130",
+      "text": "Maintain active security vulnerability assessments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0135",
+      "text": "Monitor all computer systems and network infrastructure",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0140",
+      "text": "Implement Fleet IS Security policies",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0335",
+      "text": "Submit fleet Security Assessment and Authorization (SA&A) documentation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0340",
+      "text": "Implement Security Assessment and Authorization (SA&A) education programs",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0345",
+      "text": "Maintain fleet  Security Assessment and Authorization (SA&A) documents",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "GT0430",
+      "text": "Coordinate Fleet Cyber training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "HT0370",
+      "text": "Provide 3rd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0010",
+      "text": "Prepare Reserve Force occupational posting plots",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0020",
+      "text": "Brief Reserve Force personnel on occupational career management issues",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0030",
+      "text": "Brief Reserve unit on occupational career management issues",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0040",
+      "text": "Manage Reserve Force occupation qualification standards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0050",
+      "text": "Interview Reserve Force occupational personnel",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0060",
+      "text": "Prepare Reserve Force occupational personnel files for selection boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0070",
+      "text": "Prepare Reserve Force occupational personnel files for administrative reviews",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0080",
+      "text": "Prepare Reserve Force occupational personnel files for release from CAF",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0090",
+      "text": "Advise RCN on Reserve Force occupational personnel issues",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0100",
+      "text": "Brief Reserve Force annual military occupation review (AMOR) boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514178",
+      "rank": "PO1",
+      "code": "KT0110",
+      "text": "Release Reserve Force occupational personnel messages",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0075",
+      "text": "Instruct Information Warfare Specialist DP4 and lower lessons",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0120",
+      "text": "Draft Information Warfare Specialist (IWS) DP3/4 training evaluation reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0150",
+      "text": "Manage Information Warfare Specialist  courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0175",
+      "text": "Review Information Warfare Specialist   joining instructions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0200",
+      "text": "Manage Information Warfare Specialist classrooms and training areas",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0225",
+      "text": "Coordinate Information Warfare Specialist (IWS) DP3/4 training review boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0255",
+      "text": "Invigilate Information Warfare Specialist DP4 and lower tests/ exams/PC/ECs",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0260",
+      "text": "Mark Information Warfare Specialist  DP3/4 Test/ exams/PC/EC",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0265",
+      "text": "Debrief Information Warfare Specialist  exam/test/pc/ec s for  DP3/4 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0290",
+      "text": "Prepare  Information Warfare Specialist DP3/4 course schedules",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0295",
+      "text": "Approve Information Warfare Specialist DP4 and lower course schedules",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0320",
+      "text": "Prepare  Information Warfare Specialist DP3/4 course reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0325",
+      "text": "Review  Information Warfare Specialist DP4 and lower course reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0350",
+      "text": "Control Information Warfare Specialist (IWS) classified publications, documents and records for DP4 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0355",
+      "text": "Maintain course files for  Information Warfare Specialist DP3/4 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0380",
+      "text": "Control Information Warfare Specialist (IWS) classified equipment for DP4 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0405",
+      "text": "Request  Information Warfare Specialist DP3/4 course trainer time for scheduling",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0430",
+      "text": "Draft Information Warfare specialist lesson plans for DP3/4  courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0435",
+      "text": "Review Information Warfare specialist lesson plans for DP4 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0460",
+      "text": "Draft Information Warfare Specialist training plans for DP3/4 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0465",
+      "text": "Review Information Warfare Specialist training plans for DP4 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0490",
+      "text": "Prepare Information Warfare Specialist online course content for DP3/4 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0495",
+      "text": "Review Information Warfare Specialist online course content for DP3 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0530",
+      "text": "Approve Nav Comm lesson plans",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0535",
+      "text": "Manage IWS DP1/2/3 instruction for Fleet School",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0540",
+      "text": "Manage CCD for Information Warfare Specialist DP4 and lower courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0545",
+      "text": "Manage Information Warfare Specialist personnel for synthetic trainers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0550",
+      "text": "Manage Information Warfare Specialist instructors",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0555",
+      "text": "Manage Information Warfare Specialist CCD personnel",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0570",
+      "text": "Approve IWS synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0640",
+      "text": "Manage configuration of  Information Warfare Specialist systems for synthetic training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0645",
+      "text": "Manage IWS exercises in synthetic training environment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0670",
+      "text": "Coordinate upgrades to IWS synthetic trainers",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0695",
+      "text": "Coordinate occupational Qualification and Standard Plans (QSPs) writing boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0705",
+      "text": "Update occupational Qualification and Standard Plans (QSPs)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0725",
+      "text": "Report results of Information Warfare Specialist course evaluations/course critiques to CoC",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514179",
+      "rank": "PO1",
+      "code": "IT0735",
+      "text": "Advise on Information Warfare Specialist course validation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0575",
+      "text": "Coordinate Sea Training Information Warfare exercises",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0585",
+      "text": "Coordinate Sea Training Man overboard exercises",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0595",
+      "text": "Brief Operations Team on Sea Training exercise performance",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0600",
+      "text": "Brief Commander Sea Training on exercise performance",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0615",
+      "text": "Advise Commander Sea Training on Information Warfare systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0755",
+      "text": "Brief unit occupational personnel following harbour/at sea training exercises",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0790",
+      "text": "Draft Post Work-ups Report",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0795",
+      "text": "Draft Post serial critiques",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0835",
+      "text": "Recommend amendments to Readiness Training Guide to IWS Sea Training CPO",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514180",
+      "rank": "PO1",
+      "code": "IT0925",
+      "text": "Advise Information Warfare Specialist directors on performance during Sea Training evolutions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "DT0500",
+      "text": "Manage IS equipment restoral after power failure in shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0015",
+      "text": "Submit information systems (IS) security assessments forms in shore establishments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0030",
+      "text": "Audit security compliance assessment in shore establishments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0045",
+      "text": "Draft shore unit Information System Security orders",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0080",
+      "text": "Advise command on new information systems (IS) requests in shore establishments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0160",
+      "text": "Brief new users on information systems (IS) Security in shore establishments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0175",
+      "text": "Manage shore unit information systems (IS) Security education programme",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0180",
+      "text": "Coordinate network vulnerability rectification",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0185",
+      "text": "Report network vulnerabilities",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0190",
+      "text": "Report threats to client (IT) infrastructures",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0195",
+      "text": "Submit Request For Change (RFCs)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0210",
+      "text": "Coordinate shore unit response to information systems (IS) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0225",
+      "text": "Report initial shore unit information systems (IS) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0240",
+      "text": "Maintain shore unit Information Systems Security Incident Report (ISSIR) log and file",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0255",
+      "text": "Investigate shore unit Information System Security Incident Report (ISSIR) security incident",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0270",
+      "text": "Draft shore unit Information System Security Incident Report (ISSIR)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0285",
+      "text": "Verify shore unit compliance of Information Systems Security with Technical Compliance Inspections (TCI) direction",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0290",
+      "text": "Manage requests for Technical Compliance Inspections (TCI)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0305",
+      "text": "Manage change management procedures",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0320",
+      "text": "Manage submission of Threat & Risk Analysis (TRA) documents",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0395",
+      "text": "Report on cyber response to attack/incident on unit networks to Command",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0425",
+      "text": "Supervise response to cyber attack/incident on shore unit networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "GT0475",
+      "text": "Manage cyber awareness training in shore establishments",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "HT0065",
+      "text": "Manage shore unit wireless communications systems",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "HT0355",
+      "text": "Manage Information Systems (IS) trouble tickets",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "HT0370",
+      "text": "Provide 3rd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "AT0250",
+      "text": "Advise Command on Search and Rescue (SAR) communications",
+      "duty_area": "Duty Area  A - Communications"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "GT0090",
+      "text": "Advise commander sea training on new information systems (IS) requests",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "GT0095",
+      "text": "Advise Commander Sea Training on unit Information Systems Security (ISS) certification",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "GT0365",
+      "text": "Verify implementation of cyber defense strategy for shipboard networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "HT0370",
+      "text": "Provide 3rd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0650",
+      "text": "Approve sea training Information Systems Security (ISS) training scenarios",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0655",
+      "text": "Coordinate Sea Training Network Specialist exercises",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0660",
+      "text": "Brief Network Specialist Team on Sea Training exercise performance",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0665",
+      "text": "Brief Commander Sea Training on Information Systems Security (ISS) exercise performance",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0800",
+      "text": "Draft Post Work-ups Information Systems Security (ISS) Report",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0805",
+      "text": "Draft Post serial Information Systems Security (ISS) critiques",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0820",
+      "text": "Liaise with fleet cyber team (FCT)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0840",
+      "text": "Recommend ISS amendments to Readiness Training Guide to IWS Sea Training CPO",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "IT0920",
+      "text": "Advise Information Warfare Specialists on ISS performance during Sea Training evolutions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "BT0140",
+      "text": "Coordinate operational tests and trials",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "BT0190",
+      "text": "Provide recommendations on unit Nav Comm equipment capabilities",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "DT0335",
+      "text": "Manage monthly over the air distribution (OTAD) message",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "DT0640",
+      "text": "Coordinate communications with Other Government Departments (OGD)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "DT0645",
+      "text": "Advise on Communications Information Systems (CIS) technology",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "ET0110",
+      "text": "Plan satellite communication mission assignments for ships",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "GT0350",
+      "text": "Plan cyber defense strategy for shipboard networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "IT0860",
+      "text": "Manage National and Allied publications for occupation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "IT0875",
+      "text": "Represent Royal Canadian Navy (RCN) for National/International liaison requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514185",
+      "rank": "CPO2",
+      "code": "KT0115",
+      "text": "Manage external requests for unit personnel",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0760",
+      "text": "Draft occupational training needs analysis (TNA) reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0765",
+      "text": "Coordinate occupational training needs analysis (TNA) information for projects",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0775",
+      "text": "Draft occupational equipment unsatisfactory condition reports (UCR)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0785",
+      "text": "Draft occupation project reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0825",
+      "text": "Coordinate occupation project requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0865",
+      "text": "Liaise with RCN stakeholders for IWS Project requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0870",
+      "text": "Liaise with external agencies for IWS Project requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0885",
+      "text": "Represent Royal Canadian Navy (RCN) for National/International project requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0890",
+      "text": "Validate projects for occupational requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0895",
+      "text": "Develop test requirements for occupational projects",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0900",
+      "text": "Advise on technologies for occupational projects",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0905",
+      "text": "Report on project data results occupational projects",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0910",
+      "text": "Review Bids/Evaluation of bids",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0915",
+      "text": "Validate equipment meets project requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0975",
+      "text": "Draft a Statement of Work (SOW) to procure equipment and/or services for occupation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0980",
+      "text": "Draft the Statement of Requirements (SOR) for the acquisition of new information warfare capabilities",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT0985",
+      "text": "Define information warfare related requirements for occupation",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514186",
+      "rank": "CPO2",
+      "code": "IT1010",
+      "text": "Complete procurement of occupational naval equipment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0005",
+      "text": "Prepare Regular Force occupational posting plots",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0015",
+      "text": "Brief Regular Force personnel on occupational career management issues",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0035",
+      "text": "Manage Regular Force occupation qualification standards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0045",
+      "text": "Interview Regular Force occupational personnel",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0055",
+      "text": "Prepare Regular Force occupational personnel files for selection boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0065",
+      "text": "Prepare Regular Force occupational personnel files for administrative reviews",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0075",
+      "text": "Prepare Regular Force occupational personnel files for release from CAF",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0085",
+      "text": "Advise RCN on Regular Force occupational personnel issues",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0095",
+      "text": "Brief Regular Force annual military occupation review (AMOR) boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514188",
+      "rank": "CPO2",
+      "code": "KT0105",
+      "text": "Release Regular Force occupational personnel messages",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0125",
+      "text": "Review Information Warfare Specialist  training evaluation reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0230",
+      "text": "Advise Information Warfare Specialist (IWS) training review boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0500",
+      "text": "Review Information Warfare Specialist (IWS) online course content for DP4 courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0505",
+      "text": "Advise command on status of Information Warfare Specialist courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0560",
+      "text": "Liaise with base services to resolve quality of life issues for Information Warfare Specialist personnel",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0565",
+      "text": "Manage divisional issues for Information Warfare Specialist students",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0675",
+      "text": "Advise command on upgrades to synthetic trainers for Information Warfare Specialist courses",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0680",
+      "text": "Advise on occupational course control documentation (CCD)",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0685",
+      "text": "Advise command on Information Warfare Specialist course curriculum development",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0690",
+      "text": "Advise on development of occupational courseware",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0700",
+      "text": "Plan occupational Qualification and Standard plan (QSP) writing boards",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0710",
+      "text": "Recommend occupational Qualification and Standard Plans (QSPs) for approval",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0715",
+      "text": "Advise on occupational training contracts/proposals",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0720",
+      "text": "Advise instructional staff on occupational training technologies",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0730",
+      "text": "Advise command on Information Warfare Specialist course evaluations/course critiques reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0740",
+      "text": "Advise chain of command (CoC) on validation results of occupational training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0745",
+      "text": "Advise chain of command (CoC) on evaluation results of occupational training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0750",
+      "text": "Evaluate occupational prior learning assessment and recognition (PLAR) applications",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514189",
+      "rank": "CPO2",
+      "code": "IT0770",
+      "text": "Coordinate occupational training needs analysis (TNA) information for fleet schools",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "BT0110",
+      "text": "Coordinate Task Group (TG) Level fleet manoeuvring",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "BT0175",
+      "text": "Direct communications during Task Group (TG) operations",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "BT0185",
+      "text": "Advise on Naval Communicator unit readiness levels to Fleet Commander",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "BT0195",
+      "text": "Provide recommendations to the Fleet Commander on fleet Nav Comm equipment capabilities",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "BT0200",
+      "text": "Coordinate Nav Comm support for ships during deployment",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "ET0030",
+      "text": "Manage fleet communications exercises and training",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "ET0060",
+      "text": "Coordinate Satellite Access Agreement",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "ET0065",
+      "text": "Manage radio licences",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "ET0070",
+      "text": "Request military satellite circuits",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "ET0075",
+      "text": "Request civilian satellite circuits",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "ET0090",
+      "text": "Manage military satellite assets",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "ET0095",
+      "text": "Manage civilian satellite assets",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "FT0060",
+      "text": "Archive fleet's lessons learned",
+      "duty_area": "Duty Area  F - Information Management"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "IT0780",
+      "text": "Draft occupation fleet policy and direction",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "IT0830",
+      "text": "Recommend occupational related amendments to NAVORDs",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514190",
+      "rank": "CPO2",
+      "code": "IT0880",
+      "text": "Represent the Fleet for National/International liaison requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0580",
+      "text": "Manage Sea Training Information Warfare exercises",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0590",
+      "text": "Manage Sea Training Man overboard exercises",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0605",
+      "text": "Brief Unit Command Team on Sea Training exercise performance",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0610",
+      "text": "Brief Commander Sea Training on unit exercise performance",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0810",
+      "text": "Review Post Work-ups Report",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0815",
+      "text": "Submit Post Work-ups Report to Commander Sea Training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0845",
+      "text": "Recommend amendments to CFCD 102 to Commander Sea Training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0850",
+      "text": "Recommend amendments to SSOs to Commander Sea Training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0855",
+      "text": "Recommend amendments to Readiness Training Guide to Commander Sea Training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0930",
+      "text": "Advise Information Warfare Specialist senior personnel on performance during Sea Training evolutions",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0935",
+      "text": "Advise Commander Sea Training on ships readiness",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0940",
+      "text": "Advise Commander Sea Training on unit mission readiness",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0945",
+      "text": "Advise Commander Sea Training on unit safe for sea",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0955",
+      "text": "Verify force protection equipment preparedness",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0965",
+      "text": "Verify compliance of force protection policies",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514191",
+      "rank": "CPO2",
+      "code": "IT0990",
+      "text": "Advise IWS Occupation Manager recommended amendments to occupation specifications",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "BT0145",
+      "text": "Verify Force Protection (FP) posture",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "BT0150",
+      "text": "Coordinate Force Protection (FP) duty watch requirements",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "BT0155",
+      "text": "Verify qualifications of Force Protection (FP) personnel",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "BT0160",
+      "text": "Investigate Force Protection (FP) violations",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "BT0165",
+      "text": "Advise Command on Force Protection (FP) operations",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "BT0170",
+      "text": "Liaise with other government departments (OGD) on Force Protection (FP)",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "IT0950",
+      "text": "Coordinate force protection equipment preparedness",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "IT0960",
+      "text": "Manage force protection team",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "IT0970",
+      "text": "Report training status to Command using training reports",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "KT0025",
+      "text": "Brief unit on occupational career management issues",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "KT0120",
+      "text": "Advise Command on Operations Watch and Station Bill requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "KT0125",
+      "text": "Schedule shipboard personnel for courses and training",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "KT0130",
+      "text": "Manage external requests for shipboard Combat Department personnel",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "KT0135",
+      "text": "Report shipboard monthly status of external requests to Command",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "KT0140",
+      "text": "Coordinate individual training requirements for shipboard employment",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514248",
+      "rank": "CPO2",
+      "code": "KT0160",
+      "text": "Coordinate individual training requirements for shipboard incremental taskings",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "BT0085",
+      "text": "Manage Maritime Interdiction Operations (MIO) communications",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Advise Command on Nav Comm operations requirements",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "BT0205",
+      "text": "Coordinate Nav Comm support for submarine during deployment",
+      "duty_area": "Duty Area  B - Operations"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0200",
+      "text": "Manage troubleshooting of communication circuits onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0210",
+      "text": "Manage troubleshooting of communication circuits at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0390",
+      "text": "Manage distribution of messages at shore establishments",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0490",
+      "text": "Manage IS equipment restoral after power failure onboard ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0505",
+      "text": "Submit information exchange requirements to Fleet Commander for combatant ships",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0535",
+      "text": "Manage Net Control Station (NCS) circuits using Remote Control Monitoring System (RCMS)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0580",
+      "text": "Manage communication distribution using Maritime Semi Automatic Exchange (MSAX)",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0605",
+      "text": "Advise command on IS systems status onboard combatant ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0620",
+      "text": "Advise command on radio frequency (RF) safety onboard Combatant Ship",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0650",
+      "text": "Coordinate Communications Information Systems (CIS) requirements for combat Ops",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0655",
+      "text": "Coordinate Communications Information Systems (CIS) requirements for non combat Ops",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "DT0665",
+      "text": "Manage NCS Watches",
+      "duty_area": "Duty Area  D - Communication Support"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0005",
+      "text": "Manage communication circuits based on warfare priority",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0020",
+      "text": "Manage communications exercises and training onboard ship",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0035",
+      "text": "Coordinate NCS Junior Watchkeepers training",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0115",
+      "text": "Plan satellite communication mission assignments for submarines",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0120",
+      "text": "Manage Canadian Armed Forces (CAF) Frequency Spectrum",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0125",
+      "text": "Coordinate frequency authorization in Canada, including Allied and visiting forces",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0130",
+      "text": "Obtain temporary frequency authorization for Canadian Armed Forces (CAF) unit in foreign countries",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0135",
+      "text": "Obtain authorization for communications frequencies for Canadian vessels in foreign ports",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "ET0140",
+      "text": "Obtain authorization for communications for foreign naval vessels while in Canadian waters or ports",
+      "duty_area": "Duty Area E -  Communication Planning"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "GT0375",
+      "text": "Advise command on defense strategy for shipboard networks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "GT0465",
+      "text": "Manage cyber awareness training onboard ship",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "HT0025",
+      "text": "Manage Information Systems (IS) technical comm checks",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "HT0370",
+      "text": "Provide 3rd line support for Information Systems (IS) requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514249",
+      "rank": "PO1",
+      "code": "HT0425",
+      "text": "Advise command on bandwidth management",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514530",
+      "rank": "CPO2",
+      "code": "KT0145",
+      "text": "Coordinate with Fleet staff personnel occupation training requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514530",
+      "rank": "CPO2",
+      "code": "KT0150",
+      "text": "Advise Personnel Coordination Centre (PCC) on personnel movements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514530",
+      "rank": "CPO2",
+      "code": "KT0155",
+      "text": "Manage accurate occupational and personnel data",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514531",
+      "rank": "CPO2",
+      "code": "KT0145",
+      "text": "Coordinate with Fleet staff personnel occupation training requirements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514531",
+      "rank": "CPO2",
+      "code": "KT0150",
+      "text": "Advise Personnel Coordination Centre (PCC) on personnel movements",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514531",
+      "rank": "CPO2",
+      "code": "KT0155",
+      "text": "Manage accurate occupational and personnel data",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514532",
+      "rank": "CPO2",
+      "code": "IT0995",
+      "text": "Manage training design, development and conduct",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514532",
+      "rank": "CPO2",
+      "code": "IT1000",
+      "text": "Manage creattion, amendment and deviation of approved training documents",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    },
+    {
+      "jobcode": "514532",
+      "rank": "CPO2",
+      "code": "IT1005",
+      "text": "Advise on requirements of the Naval Training System",
+      "duty_area": "Duty Area  G - Information Systems Security"
+    }
+  ]
+}

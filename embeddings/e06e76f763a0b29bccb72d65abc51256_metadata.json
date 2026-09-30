@@ -1,0 +1,5508 @@
+{
+  "source_files": [
+    "Naval Engineer_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Naval Engineer_FlatJobTaskRequirements.json": "763593f206c1318e0459eb094ffd3917"
+  },
+  "source_hash": "e06e76f763a0b29bccb72d65abc51256",
+  "tasks_metadata": [
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0010",
+      "text": "Advise on technical readiness publications",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0030",
+      "text": "Manage a technical readiness publication",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0040",
+      "text": "Report on a ship's technical readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0050",
+      "text": "Advise on a task group's technical readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0060",
+      "text": "Advise on a ship's operational limitations due to personnel shortages",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0070",
+      "text": "Advise on a ship's combat systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0080",
+      "text": "Advise on a ship's information systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0100",
+      "text": "Advise on a ship's marine systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0110",
+      "text": "Advise on a ship's cargo systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0120",
+      "text": "Advise on a ship's lifting appliance readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0130",
+      "text": "Advise on a ship class's / fleet's combat systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0140",
+      "text": "Advise on a ship class's / fleet's information systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0150",
+      "text": "Advise on a ship class's / fleet's marine systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0160",
+      "text": "Advise on a ship class's / fleet's cargo systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0170",
+      "text": "Advise on a ship class's / fleet's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0180",
+      "text": "Advise on a ship class's / fleet's combat systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0190",
+      "text": "Advise on a ship class's / fleet's information systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0200",
+      "text": "Advise on a ship class's / fleet's marine systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0210",
+      "text": "Advise on a ship class's / fleet's cargo systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "AT0220",
+      "text": "Advise on a ship's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0060",
+      "text": "Advise on the capabilities / limitations of a ship's information systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0070",
+      "text": "Advise on the capabilities / limitations of a ship's combat systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0080",
+      "text": "Advise on the capabilities / limitations of a ship's marine systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0090",
+      "text": "Advise on the capabilities / limitations of a ship's cargo systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0100",
+      "text": "Advise on the capabilities / limitations of a submarine's information systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0110",
+      "text": "Advise on the capabilities / limitations of a submarine's combat systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0120",
+      "text": "Advise on the capabilities / limitations of a submarine's marine systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0130",
+      "text": "Advise on the capabilities / limitations of a ship's information system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0140",
+      "text": "Advise on the capabilities / limitations of a ship's combat system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0150",
+      "text": "Advise on the capabilities / limitations of a ship's marine system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0160",
+      "text": "Advise on the capabilities / limitations of a ship's cargo system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0170",
+      "text": "Advise on the capabilities / limitations of a submarine's information system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0180",
+      "text": "Advise on the capabilities / limitations of a submarine's combat system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0190",
+      "text": "Advise on the capabilities / limitations of a submarine's marine system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0200",
+      "text": "Advise on the operation of a information system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0210",
+      "text": "Advise on the operation of a combat system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0220",
+      "text": "Advise on the operation of a marine system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0230",
+      "text": "Advise on the operation of a cargo system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0240",
+      "text": "Advise on a ship's structural capabilities / limitations",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0250",
+      "text": "Advise on naval signature management",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0260",
+      "text": "Advise on the operational impact of a ship's system defect",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0270",
+      "text": "Advise on the ship's operational courses of action in response to a system defect",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0280",
+      "text": "Advise on development of a formation's Operational Schedule (OPSKED)",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0290",
+      "text": "Advise on the feasibility of the fleet schedule (FLTSCHED)",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0300",
+      "text": "Manage Operational Deficiency (OPDEF) publications",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "BT0310",
+      "text": "Advise on a fleet's Operational Deficiencies (OPDEFs)",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "CT0010",
+      "text": "Advise on damage control publications",
+      "duty_area": "Duty Area C - Internal Battle"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "DT0010",
+      "text": "Advise on Petroleum, Oil, and Lubricant (POL) publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "DT0021",
+      "text": "Advise on fuelling operation publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "DT0022",
+      "text": "Manage fuelling operation publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ET0010",
+      "text": "Advise on cargo management publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ET0020",
+      "text": "Manage cargo management publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ET0030",
+      "text": "Advise on cargo transfer publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ET0040",
+      "text": "Manage cargo transfer publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "FT0010",
+      "text": "Advise on ship stability publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "FT0020",
+      "text": "Manage ship stability publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "FT0030",
+      "text": "Advise on submarine buoyancy publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "FT0040",
+      "text": "Manage submarine buoyancy publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "GT0010",
+      "text": "Advise on naval weapon safety publications",
+      "duty_area": "Duty Area G - Weapons Safety"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "GT0020",
+      "text": "Manage a ship's weapon safety publication",
+      "duty_area": "Duty Area G - Weapons Safety"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "HT0010",
+      "text": "Advise on ammunition storage / handling / transfer publications",
+      "duty_area": "Duty Area H - Ammunition Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "IT0010",
+      "text": "Advise on ship environmental publications",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "IT0020",
+      "text": "Advise on ship's environmental impacts and mitigation measures",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "IT0030",
+      "text": "Advise on ship's Environmental Program",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "IT0040",
+      "text": "Advise on ship's liquid effluent",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "IT0050",
+      "text": "Advise on ship's Halocarbon Management Program",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "JT0010",
+      "text": "Advise on the hazardous materials within a ship's structure / system",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0020",
+      "text": "Information technology publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0040",
+      "text": "Information system operation publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0060",
+      "text": "Capabilities / limitations of on-premise technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0070",
+      "text": "Networking principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0080",
+      "text": "Capabilities / limitations of information systems for Harry DeWolf-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0120",
+      "text": "Capabilities / limitations of information systems for Victoria-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0130",
+      "text": "Capabilities / limitations of integrated C4I systems for Harry DeWolf-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0150",
+      "text": "Capabilities / limitations of integrated C4I systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0160",
+      "text": "Capabilities / limitations of integrated C4I systems for Protecteur-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0170",
+      "text": "Capabilities / limitations of integrated C4I systems for Victoria-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0200",
+      "text": "Naval information system (NavIS) user access management process",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0220",
+      "text": "IT Service Management (ITSM) principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0250",
+      "text": "IT Service Management (ITSM) information systems",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0260",
+      "text": "Organizations involved in IT Service Management (ITSM)",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0380",
+      "text": "Advise on a ship's Inspection of Naval Ordinance (INO)",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0390",
+      "text": "Advise on a Technical Investigation (TI)",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0400",
+      "text": "Manage an investigation into materiel defects and failures",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0410",
+      "text": "Report on system defect / failure trends",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0420",
+      "text": "Manage an emergency repair for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0430",
+      "text": "Manage a repair procedure for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "KT0450",
+      "text": "Advise on Objective Quality Evidence (OQE) quality",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "LT0010",
+      "text": "Advise on materiel management publications",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "LT0020",
+      "text": "Advise on the national stock of a system's equipment spares",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0030",
+      "text": "Advise on the design of an Engineering Change",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0040",
+      "text": "Advise on the impact of an Engineering Change",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0050",
+      "text": "Advise on the implementation of an Engineering Change",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0110",
+      "text": "Manage formation level configuration change work",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0150",
+      "text": "Advise on a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0160",
+      "text": "Advise on resolving a naval capability deficiency",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "MT0170",
+      "text": "Advise on a Maritime Evaluation (MAREVAL)",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "RT0120",
+      "text": "Advise on international military coalition interoperability technical requirements",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "RT0150",
+      "text": "Advise on a class of ship's Design Intent (DI)",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ST0230",
+      "text": "Advise on docking / undocking publications",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ST0250",
+      "text": "Advise on the management of dockyard assets / services",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ST0330",
+      "text": "Report on cyber security risks to naval operations",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ST0340",
+      "text": "Manage cyber security risks to naval operations",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "ST0370",
+      "text": "Manage the response to a cybersecurity incident",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "VT0090",
+      "text": "Advise on the reliability, availability, and maintainability (RAM) of a naval system",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "WT0040",
+      "text": "Report on formation compliance with Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "WT0090",
+      "text": "Advise on a naval materiel risk assessment",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "WT0100",
+      "text": "Advise on aggregate risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "WT0150",
+      "text": "Advise on naval materiel cyber risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0010",
+      "text": "Advise on surface ship materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0020",
+      "text": "Advise on submarine materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0030",
+      "text": "Advise on naval materiel deviation and waiver publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0080",
+      "text": "Advise on technical compliance with classification society / naval ship code rules",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0100",
+      "text": "Advise on information systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0110",
+      "text": "Advise on combat systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0120",
+      "text": "Advise on marine systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0130",
+      "text": "Advise on structural certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0230",
+      "text": "Advise on Materiel Baseline Standard (MBS) information system requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0240",
+      "text": "Advise on Materiel Baseline Standard (MBS) combat system requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0250",
+      "text": "Advise on Materiel Baseline Standard (MBS) marine system requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0260",
+      "text": "Advise on Materiel Baseline Standard (MBS) structural requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "XT0280",
+      "text": "Advise on the impact of a ship's deviations / waivers",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "YT0010",
+      "text": "Manage naval test and trial publications",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "YT0020",
+      "text": "Advise on naval test / trial requirements",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "YT0030",
+      "text": "Report on the quality of a test / trial's conduct",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "YT0040",
+      "text": "Report on the results of a test / trial",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "Cdr",
+      "code": "YT0070",
+      "text": "Manage naval test / trial programs",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "AT0010",
+      "text": "Advise on technical readiness publications",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "AT0040",
+      "text": "Report on a ship's technical readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0040",
+      "text": "Information system operation publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0050",
+      "text": "Capabilities / limitations of cloud technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0060",
+      "text": "Capabilities / limitations of on-premise technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0090",
+      "text": "Capabilities / limitations of information systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0100",
+      "text": "Capabilities / limitations of information systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0120",
+      "text": "Capabilities / limitations of information systems for Victoria-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0140",
+      "text": "Capabilities / limitations of integrated C4I systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0200",
+      "text": "Naval information system (NavIS) user access management process",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0230",
+      "text": "IT Service Management (ITSM) publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0240",
+      "text": "IT Service Management (ITSM) processes",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0270",
+      "text": "Software Requirements Specification (SRS) principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "KT0440",
+      "text": "Report on the quality of contractor / repair facility maintenance work",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "LT0010",
+      "text": "Advise on materiel management publications",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "MT0020",
+      "text": "Manage naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0010",
+      "text": "Advise on ship design and construction process",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0020",
+      "text": "Advise on emerging / innovative naval technology",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0030",
+      "text": "Advise on Technology Readiness Levels (TRLs) of a naval system",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0070",
+      "text": "Manage a shipbuilding project's design change request",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0100",
+      "text": "Lead a shipbuilding project's design review",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0110",
+      "text": "Advise on national / international standards for ship design / construction",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0120",
+      "text": "Advise on international military coalition interoperability technical requirements",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "RT0130",
+      "text": "Manage naval scientific research priorities",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "VT0020",
+      "text": "Draft an Integrated Logistics Support (ILS) publication",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "VT0030",
+      "text": "Manage an In Service Support (ISS) solution",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "WT0030",
+      "text": "Manage Naval Materiel Assurance Publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "WT0080",
+      "text": "Manage naval materiel risk management publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "WT0150",
+      "text": "Advise on naval materiel cyber risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "XT0010",
+      "text": "Advise on surface ship materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "XT0020",
+      "text": "Advise on submarine materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "XT0190",
+      "text": "Manage submarine materiel certification",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "XT0200",
+      "text": "Manage submarine licencing",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "YT0010",
+      "text": "Manage naval test and trial publications",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "YT0060",
+      "text": "Manage submarine testing / evaluation",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0010",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0020",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0030",
+      "text": "Advise on funding sources for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0040",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0050",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0060",
+      "text": "Report on a contractor's capability to support naval Materiel Acquisition and Support (MA&S)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0070",
+      "text": "Report on the national industrial capability to support naval Materiel Acquisition and Support",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0090",
+      "text": "Determine the quality of a Statement of Work (SoW)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0110",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0120",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0130",
+      "text": "Report on the technical suitability of a Contractor's proposal",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0140",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0150",
+      "text": "Manage a contract task",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0160",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0170",
+      "text": "Manage the provision of Government Furnished Information (GFI) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0180",
+      "text": "Manage the provision of Government Furnished Equipment (GFE) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0190",
+      "text": "Manage the provision of Government Supplied Materiel (GSM) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0200",
+      "text": "Advise on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0210",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0220",
+      "text": "Manage a Quality Assurance inspection",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0240",
+      "text": "Manage a Quality Assurance audits",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "Cdr",
+      "code": "ZT0260",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "AT0080",
+      "text": "Advise on a ship's information systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "AT0140",
+      "text": "Advise on a ship class's / fleet's information systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "AT0190",
+      "text": "Advise on a ship class's / fleet's information systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "BT0030",
+      "text": "Manage a information system operation publications",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "BT0060",
+      "text": "Advise on the capabilities / limitations of a ship's information systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "BT0100",
+      "text": "Advise on the capabilities / limitations of a submarine's information systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "BT0130",
+      "text": "Advise on the capabilities / limitations of a ship's information system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "BT0170",
+      "text": "Advise on the capabilities / limitations of a submarine's information system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "BT0200",
+      "text": "Advise on the operation of a information system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "JT0010",
+      "text": "Advise on the hazardous materials within a ship's structure / system",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "JT0020",
+      "text": "Advise on HAZMAT publications",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0020",
+      "text": "Information technology publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0030",
+      "text": "Organizations involved in information technology management",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0040",
+      "text": "Information system operation publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0060",
+      "text": "Capabilities / limitations of on-premise technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0090",
+      "text": "Capabilities / limitations of information systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0100",
+      "text": "Capabilities / limitations of information systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0110",
+      "text": "Capabilities / limitations of information systems for Protecteur-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0130",
+      "text": "Capabilities / limitations of integrated C4I systems for Harry DeWolf-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0280",
+      "text": "Software Requirements Specification (SRS) requirements",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0330",
+      "text": "Service Level Agreement (SLA) principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0420",
+      "text": "Manage an emergency repair for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "KT0430",
+      "text": "Manage a repair procedure for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "LT0010",
+      "text": "Advise on materiel management publications",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "LT0030",
+      "text": "Direct the national stock of a ship class's equipment spares",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "LT0040",
+      "text": "Direct equipment Repair and Overhaul (R&O)",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "LT0050",
+      "text": "Direct system disposal",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "MT0060",
+      "text": "Manage an information systems Engineering Change program",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "NT0010",
+      "text": "Manage naval information systems engineering publications",
+      "duty_area": "Duty Area N - Naval Information Systems Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "NT0020",
+      "text": "Manage a naval information system design study",
+      "duty_area": "Duty Area N - Naval Information Systems Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "NT0030",
+      "text": "Direct the design and development of a ship's naval information system",
+      "duty_area": "Duty Area N - Naval Information Systems Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "NT0040",
+      "text": "Direct the rectification of an in-service naval information system's technical / performance issue",
+      "duty_area": "Duty Area N - Naval Information Systems Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "NT0050",
+      "text": "Advise on the design of a naval information system Engineering Change",
+      "duty_area": "Duty Area N - Naval Information Systems Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0010",
+      "text": "Advise on ship design and construction process",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0020",
+      "text": "Advise on emerging / innovative naval technology",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0030",
+      "text": "Advise on Technology Readiness Levels (TRLs) of a naval system",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0040",
+      "text": "Manage a ship's design and build margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0050",
+      "text": "Manage a ship's in-service margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0070",
+      "text": "Manage a shipbuilding project's design change request",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0090",
+      "text": "Lead a system design review",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0110",
+      "text": "Advise on national / international standards for ship design / construction",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0120",
+      "text": "Advise on international military coalition interoperability technical requirements",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0130",
+      "text": "Manage naval scientific research priorities",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "RT0160",
+      "text": "Direct the management of a system's Design Intent (DI) documentation",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0010",
+      "text": "Assess an information system characteristics, capabilities, limitations and applications",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0020",
+      "text": "Direct network configuration to meet mission requirements",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0030",
+      "text": "Advise on the operation of an information system",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0040",
+      "text": "Advise on information system requirements for inter-operability with other CAF and non-CAF organizations",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0050",
+      "text": "Advise on the capabilities / limitations of integrated C4I systems",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0060",
+      "text": "Advise on an IT Service Management (ITSM) publication",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0070",
+      "text": "Direct the management of an enterprise management systems",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0080",
+      "text": "Manage an information system's obsolescence",
+      "duty_area": "Skills - Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0090",
+      "text": "Advise on international naval security protocols",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0100",
+      "text": "Report on naval cyber threat intelligence",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0110",
+      "text": "Report on project security requirements",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0120",
+      "text": "Manage project security requirements",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0130",
+      "text": "Report on naval materiel security requirements",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0140",
+      "text": "Manage naval materiel security requirements",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0150",
+      "text": "Report on infrastructure security requirements",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0160",
+      "text": "Manage infrastructure security requirements",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0170",
+      "text": "Report on the quality of security requirements and procedures",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0180",
+      "text": "Manage security requirements and procedures",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0190",
+      "text": "Manage cyber vulnerability assessments",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0200",
+      "text": "Report on a system's / ship's cyber vulnerabilities / mitigations",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0210",
+      "text": "Manage the cyber vulnerability mitigations for systems / ships",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0220",
+      "text": "Report on the quality of cyber vulnerability mitigations for systems / ships",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0230",
+      "text": "Advise on docking / undocking publications",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0240",
+      "text": "Manage a docking / undocking publication",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0250",
+      "text": "Advise on the management of dockyard assets / services",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0260",
+      "text": "Manage dockyard assets / services",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0270",
+      "text": "Report on the quality of a naval materiel cyber incident response",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0280",
+      "text": "Manage the cyber security requirements for a system / project",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0290",
+      "text": "Determine cyber threats to a naval asset",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0300",
+      "text": "Determine the impact of emerging cyber threats on a system / ship",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0310",
+      "text": "Manage cyber risk mitigation plans",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0320",
+      "text": "Advise on cyber security risks to naval operations",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0330",
+      "text": "Report on cyber security risks to naval operations",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0340",
+      "text": "Manage cyber security risks to naval operations",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0350",
+      "text": "Report on unauthorized activities, behaviors and anomalies in a system or network",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0360",
+      "text": "Report on compliance with security policies during operations",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0370",
+      "text": "Manage the response to a cybersecurity incident",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0380",
+      "text": "Manage system security baselines",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0390",
+      "text": "Report on security misconfigurations in deployed systems",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0400",
+      "text": "Report on compliance of system configurations with security policies",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0410",
+      "text": "Report on cybersecurity incident findings",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0420",
+      "text": "Manage cyber security training",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ST0430",
+      "text": "Manage cyber security training development",
+      "duty_area": "Duty Area S - Naval Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0010",
+      "text": "Manage information systems availability",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0020",
+      "text": "Advise on information system operation publication",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0030",
+      "text": "Manage the operation of an information system",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0040",
+      "text": "Advise on the capabilities / limitations of a an information system",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0050",
+      "text": "Advise on the capabilities / limitations of integrated C4I systems",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0060",
+      "text": "Manage the configuration of an information system",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0070",
+      "text": "Advise on an IT Service Management (ITSM) publication",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0080",
+      "text": "Manage the delivery of IT Service Management (ITSM)",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0090",
+      "text": "Advise on the selection of information technology to meet operational requirements",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0100",
+      "text": "Manage an information system's obsolescence",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0110",
+      "text": "Report on digital solutions / services",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0120",
+      "text": "Manage the development of digital solutions / services",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "TT0130",
+      "text": "Manage digital solutions / services",
+      "duty_area": "Duty Area T  - Information Technology / Information Systems"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0010",
+      "text": "Advise on an information management publication",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0030",
+      "text": "Manage an information knowledge management plan",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0040",
+      "text": "Advise the release and disclosure of classified information",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0050",
+      "text": "Manage the release and disclosure of classified information",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0060",
+      "text": "Advise on an enterprise architecture view",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0070",
+      "text": "Draft an enterprise architecture view",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0090",
+      "text": "Advise on an information system security concept of operation (Sec ConOps)",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "UT0100",
+      "text": "Advise on an information system security order",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "VT0020",
+      "text": "Draft an Integrated Logistics Support (ILS) publication",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "VT0030",
+      "text": "Manage an In Service Support (ISS) solution",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "VT0070",
+      "text": "Manage a system's Technical Data Package (TDP)",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "VT0100",
+      "text": "Direct the lifecycle management of information systems",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "VT0150",
+      "text": "Report on the sustainability of naval materiel",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "VT0160",
+      "text": "Direct the management of information systems obsolescence",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "WT0110",
+      "text": "Direct in-service information systems materiel risk management",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "WT0150",
+      "text": "Advise on naval materiel cyber risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "WT0160",
+      "text": "Advise on cyber risk to information systems",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "WT0200",
+      "text": "Direct naval materiel cyber security risk management",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0010",
+      "text": "Advise on surface ship materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0020",
+      "text": "Advise on submarine materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0070",
+      "text": "Advise on a classification society  / naval ship code certification plan",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0080",
+      "text": "Advise on technical compliance with classification society / naval ship code rules",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0090",
+      "text": "Advise on a ship / system's departure from Design Intent (DI)",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0100",
+      "text": "Advise on information systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0140",
+      "text": "Direct information systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0230",
+      "text": "Advise on Materiel Baseline Standard (MBS) information system requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "XT0290",
+      "text": "Endorse technical information systems deviations / waivers",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "YT0010",
+      "text": "Manage naval test and trial publications",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "YT0050",
+      "text": "Manage system testing / evaluation",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0010",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0020",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0030",
+      "text": "Advise on funding sources for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0040",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0050",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0060",
+      "text": "Report on a contractor's capability to support naval Materiel Acquisition and Support (MA&S)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0070",
+      "text": "Report on the national industrial capability to support naval Materiel Acquisition and Support",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0090",
+      "text": "Determine the quality of a Statement of Work (SoW)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0110",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0120",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0130",
+      "text": "Report on the technical suitability of a Contractor's proposal",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0140",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0150",
+      "text": "Manage a contract task",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0160",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0170",
+      "text": "Manage the provision of Government Furnished Information (GFI) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0180",
+      "text": "Manage the provision of Government Furnished Equipment (GFE) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0190",
+      "text": "Manage the provision of Government Supplied Materiel (GSM) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0200",
+      "text": "Advise on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0210",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0220",
+      "text": "Manage a Quality Assurance inspection",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0240",
+      "text": "Manage a Quality Assurance audits",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "Cdr",
+      "code": "ZT0260",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "AT0070",
+      "text": "Advise on a ship's combat systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "AT0120",
+      "text": "Advise on a ship's lifting appliance readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "AT0130",
+      "text": "Advise on a ship class's / fleet's combat systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "AT0180",
+      "text": "Advise on a ship class's / fleet's combat systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "BT0020",
+      "text": "Manage a combat system operation publications",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "BT0070",
+      "text": "Advise on the capabilities / limitations of a ship's combat systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "BT0110",
+      "text": "Advise on the capabilities / limitations of a submarine's combat systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "BT0140",
+      "text": "Advise on the capabilities / limitations of a ship's combat system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "BT0180",
+      "text": "Advise on the capabilities / limitations of a submarine's combat system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "BT0210",
+      "text": "Advise on the operation of a combat system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "JT0010",
+      "text": "Advise on the hazardous materials within a ship's structure / system",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "JT0020",
+      "text": "Advise on HAZMAT publications",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0020",
+      "text": "Information technology publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0030",
+      "text": "Organizations involved in information technology management",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0040",
+      "text": "Information system operation publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0060",
+      "text": "Capabilities / limitations of on-premise technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0090",
+      "text": "Capabilities / limitations of information systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0100",
+      "text": "Capabilities / limitations of information systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0110",
+      "text": "Capabilities / limitations of information systems for Protecteur-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0130",
+      "text": "Capabilities / limitations of integrated C4I systems for Harry DeWolf-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0290",
+      "text": "Data exchange protocols principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0340",
+      "text": "Service Level Agreement (SLA) requirements",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0420",
+      "text": "Manage an emergency repair for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "KT0430",
+      "text": "Manage a repair procedure for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "LT0010",
+      "text": "Advise on materiel management publications",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "LT0030",
+      "text": "Direct the national stock of a ship class's equipment spares",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "LT0040",
+      "text": "Direct equipment Repair and Overhaul (R&O)",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "LT0050",
+      "text": "Direct system disposal",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "MT0070",
+      "text": "Manage a combat systems Engineering Change program",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "OT0010",
+      "text": "Manage combat systems engineering publications",
+      "duty_area": "Duty Area O - Naval Combat Systems Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "OT0020",
+      "text": "Manage a combat systems engineering design study",
+      "duty_area": "Duty Area O - Naval Combat Systems Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "OT0030",
+      "text": "Manage combat system technical requirements",
+      "duty_area": "Duty Area O - Naval Combat Systems Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "OT0040",
+      "text": "Direct the design and development of a ship's combat system",
+      "duty_area": "Duty Area O - Naval Combat Systems Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "OT0050",
+      "text": "Direct the rectification of an in-service combat system's technical / performance issue",
+      "duty_area": "Duty Area O - Naval Combat Systems Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "OT0060",
+      "text": "Advise on the design of a combat system Engineering Change",
+      "duty_area": "Duty Area O - Naval Combat Systems Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0010",
+      "text": "Advise on ship design and construction process",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0020",
+      "text": "Advise on emerging / innovative naval technology",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0030",
+      "text": "Advise on Technology Readiness Levels (TRLs) of a naval system",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0040",
+      "text": "Manage a ship's design and build margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0050",
+      "text": "Manage a ship's in-service margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0070",
+      "text": "Manage a shipbuilding project's design change request",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0090",
+      "text": "Lead a system design review",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0110",
+      "text": "Advise on national / international standards for ship design / construction",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0120",
+      "text": "Advise on international military coalition interoperability technical requirements",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0130",
+      "text": "Manage naval scientific research priorities",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "RT0160",
+      "text": "Direct the management of a system's Design Intent (DI) documentation",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "VT0020",
+      "text": "Draft an Integrated Logistics Support (ILS) publication",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "VT0030",
+      "text": "Manage an In Service Support (ISS) solution",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "VT0070",
+      "text": "Manage a system's Technical Data Package (TDP)",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "VT0110",
+      "text": "Direct the lifecycle management of combat systems",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "VT0150",
+      "text": "Report on the sustainability of naval materiel",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "VT0170",
+      "text": "Direct the management of combat systems obsolescence",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "WT0120",
+      "text": "Direct in-service combat systems materiel risk management",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "WT0150",
+      "text": "Advise on naval materiel cyber risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "WT0170",
+      "text": "Advise on cyber risk to combat systems",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0010",
+      "text": "Advise on surface ship materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0020",
+      "text": "Advise on submarine materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0030",
+      "text": "Advise on naval materiel deviation and waiver publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0070",
+      "text": "Advise on a classification society  / naval ship code certification plan",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0080",
+      "text": "Advise on technical compliance with classification society / naval ship code rules",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0090",
+      "text": "Advise on a ship / system's departure from Design Intent (DI)",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0110",
+      "text": "Advise on combat systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0150",
+      "text": "Direct combat systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0240",
+      "text": "Advise on Materiel Baseline Standard (MBS) combat system requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "XT0300",
+      "text": "Endorse technical combat systems deviations / waivers",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "YT0010",
+      "text": "Manage naval test and trial publications",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "YT0050",
+      "text": "Manage system testing / evaluation",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0010",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0020",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0030",
+      "text": "Advise on funding sources for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0040",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0050",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0060",
+      "text": "Report on a contractor's capability to support naval Materiel Acquisition and Support (MA&S)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0070",
+      "text": "Report on the national industrial capability to support naval Materiel Acquisition and Support",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0090",
+      "text": "Determine the quality of a Statement of Work (SoW)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0110",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0120",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0130",
+      "text": "Report on the technical suitability of a Contractor's proposal",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0140",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0150",
+      "text": "Manage a contract task",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0160",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0170",
+      "text": "Manage the provision of Government Furnished Information (GFI) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0180",
+      "text": "Manage the provision of Government Furnished Equipment (GFE) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0190",
+      "text": "Manage the provision of Government Supplied Materiel (GSM) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0200",
+      "text": "Advise on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0210",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0220",
+      "text": "Manage a Quality Assurance inspection",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0240",
+      "text": "Manage a Quality Assurance audits",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "Cdr",
+      "code": "ZT0260",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "AT0100",
+      "text": "Advise on a ship's marine systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "AT0110",
+      "text": "Advise on a ship's cargo systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "AT0120",
+      "text": "Advise on a ship's lifting appliance readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "AT0150",
+      "text": "Advise on a ship class's / fleet's marine systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "AT0160",
+      "text": "Advise on a ship class's / fleet's cargo systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "AT0200",
+      "text": "Advise on a ship class's / fleet's marine systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "AT0210",
+      "text": "Advise on a ship class's / fleet's cargo systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0010",
+      "text": "Advise on ship handling publications",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0040",
+      "text": "Manage a marine system operation publications",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0050",
+      "text": "Manage a cargo system operation publications",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0080",
+      "text": "Advise on the capabilities / limitations of a ship's marine systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0090",
+      "text": "Advise on the capabilities / limitations of a ship's cargo systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0120",
+      "text": "Advise on the capabilities / limitations of a submarine's marine systems",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0150",
+      "text": "Advise on the capabilities / limitations of a ship's marine system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0160",
+      "text": "Advise on the capabilities / limitations of a ship's cargo system in an abnormal / degraded operating state",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0220",
+      "text": "Advise on the operation of a marine system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "BT0230",
+      "text": "Advise on the operation of a cargo system",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "CT0010",
+      "text": "Advise on damage control publications",
+      "duty_area": "Duty Area C - Internal Battle"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "DT0010",
+      "text": "Advise on Petroleum, Oil, and Lubricant (POL) publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "DT0020",
+      "text": "Manage Petroleum, Oil, and Lubricant (POL) publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "DT0021",
+      "text": "Advise on fuelling operation publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ET0010",
+      "text": "Advise on cargo management publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ET0030",
+      "text": "Advise on cargo transfer publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "IT0010",
+      "text": "Advise on ship environmental publications",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "IT0020",
+      "text": "Advise on ship's environmental impacts and mitigation measures",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "IT0030",
+      "text": "Advise on ship's Environmental Program",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "IT0040",
+      "text": "Advise on ship's liquid effluent",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "IT0050",
+      "text": "Advise on ship's Halocarbon Management Program",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "JT0010",
+      "text": "Advise on the hazardous materials within a ship's structure / system",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "JT0020",
+      "text": "Advise on HAZMAT publications",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0020",
+      "text": "Information technology publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0030",
+      "text": "Organizations involved in information technology management",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0040",
+      "text": "Information system operation publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0060",
+      "text": "Capabilities / limitations of on-premise technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0090",
+      "text": "Capabilities / limitations of information systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0100",
+      "text": "Capabilities / limitations of information systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0110",
+      "text": "Capabilities / limitations of information systems for Protecteur-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0130",
+      "text": "Capabilities / limitations of integrated C4I systems for Harry DeWolf-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0300",
+      "text": "User acceptance testing principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0350",
+      "text": "Security Categorization Assessment Report (SCAR) requirements",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0420",
+      "text": "Manage an emergency repair for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "KT0430",
+      "text": "Manage a repair procedure for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "LT0010",
+      "text": "Advise on materiel management publications",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "LT0030",
+      "text": "Direct the national stock of a ship class's equipment spares",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "LT0040",
+      "text": "Direct equipment Repair and Overhaul (R&O)",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "LT0050",
+      "text": "Direct system disposal",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "MT0080",
+      "text": "Manage a marine system Engineering Change program",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "PT0010",
+      "text": "Manage marine engineering publications",
+      "duty_area": "Duty Area P - Marine Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "PT0020",
+      "text": "Manage a marine engineering design study",
+      "duty_area": "Duty Area P - Marine Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "PT0030",
+      "text": "Manage marine system technical requirements",
+      "duty_area": "Duty Area P - Marine Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "PT0040",
+      "text": "Direct the design and development of a ship's marine system",
+      "duty_area": "Duty Area P - Marine Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "PT0050",
+      "text": "Direct the rectification of an in-service marine system's technical / performance issue",
+      "duty_area": "Duty Area P - Marine Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "PT0060",
+      "text": "Advise on the design of a marine system Engineering Change",
+      "duty_area": "Duty Area P - Marine Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0010",
+      "text": "Advise on ship design and construction process",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0020",
+      "text": "Advise on emerging / innovative naval technology",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0030",
+      "text": "Advise on Technology Readiness Levels (TRLs) of a naval system",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0040",
+      "text": "Manage a ship's design and build margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0050",
+      "text": "Manage a ship's in-service margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0070",
+      "text": "Manage a shipbuilding project's design change request",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0090",
+      "text": "Lead a system design review",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0110",
+      "text": "Advise on national / international standards for ship design / construction",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0120",
+      "text": "Advise on international military coalition interoperability technical requirements",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0130",
+      "text": "Manage naval scientific research priorities",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "RT0160",
+      "text": "Direct the management of a system's Design Intent (DI) documentation",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "VT0020",
+      "text": "Draft an Integrated Logistics Support (ILS) publication",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "VT0030",
+      "text": "Manage an In Service Support (ISS) solution",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "VT0070",
+      "text": "Manage a system's Technical Data Package (TDP)",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "VT0120",
+      "text": "Direct the lifecycle management of marine systems",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "VT0150",
+      "text": "Report on the sustainability of naval materiel",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "VT0180",
+      "text": "Direct the management of marine systems obsolescence",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "WT0130",
+      "text": "Direct in-service marine systems materiel risk management",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "WT0150",
+      "text": "Advise on naval materiel cyber risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "WT0180",
+      "text": "Advise on cyber risk to marine systems",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0010",
+      "text": "Advise on surface ship materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0020",
+      "text": "Advise on submarine materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0030",
+      "text": "Advise on naval materiel deviation and waiver publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0070",
+      "text": "Advise on a classification society  / naval ship code certification plan",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0080",
+      "text": "Advise on technical compliance with classification society / naval ship code rules",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0090",
+      "text": "Advise on a ship / system's departure from Design Intent (DI)",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0120",
+      "text": "Advise on marine systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0160",
+      "text": "Direct marine systems certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0250",
+      "text": "Advise on Materiel Baseline Standard (MBS) marine system requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "XT0310",
+      "text": "Endorse technical marine systems deviations / waivers",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "YT0010",
+      "text": "Manage naval test and trial publications",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "YT0050",
+      "text": "Manage system testing / evaluation",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0010",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0020",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0030",
+      "text": "Advise on funding sources for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0040",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0050",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0060",
+      "text": "Report on a contractor's capability to support naval Materiel Acquisition and Support (MA&S)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0070",
+      "text": "Report on the national industrial capability to support naval Materiel Acquisition and Support",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0090",
+      "text": "Determine the quality of a Statement of Work (SoW)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0110",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0120",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0130",
+      "text": "Report on the technical suitability of a Contractor's proposal",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0140",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0150",
+      "text": "Manage a contract task",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0160",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0170",
+      "text": "Manage the provision of Government Furnished Information (GFI) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0180",
+      "text": "Manage the provision of Government Furnished Equipment (GFE) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0190",
+      "text": "Manage the provision of Government Supplied Materiel (GSM) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0200",
+      "text": "Advise on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0210",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0220",
+      "text": "Manage a Quality Assurance inspection",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0240",
+      "text": "Manage a Quality Assurance audits",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "Cdr",
+      "code": "ZT0260",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "AT0170",
+      "text": "Advise on a ship class's / fleet's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "AT0220",
+      "text": "Advise on a ship's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "BT0010",
+      "text": "Advise on ship handling publications",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "BT0240",
+      "text": "Advise on a ship's structural capabilities / limitations",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "BT0250",
+      "text": "Advise on naval signature management",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "BT0320",
+      "text": "Advise on RCNs technical capabilities and readiness for a grounding / collision / allision response",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "CT0010",
+      "text": "Advise on damage control publications",
+      "duty_area": "Duty Area C - Internal Battle"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "DT0010",
+      "text": "Advise on Petroleum, Oil, and Lubricant (POL) publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "DT0020",
+      "text": "Manage Petroleum, Oil, and Lubricant (POL) publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "DT0021",
+      "text": "Advise on fuelling operation publications",
+      "duty_area": "Duty Area D - Liquid Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ET0010",
+      "text": "Advise on cargo management publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ET0030",
+      "text": "Advise on cargo transfer publications",
+      "duty_area": "Duty Area E - Cargo Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "FT0010",
+      "text": "Advise on ship stability publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "FT0020",
+      "text": "Manage ship stability publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "FT0030",
+      "text": "Advise on submarine buoyancy publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "FT0040",
+      "text": "Manage submarine buoyancy publications",
+      "duty_area": "Duty Area F - Ship's Stability"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "IT0010",
+      "text": "Advise on ship environmental publications",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "IT0020",
+      "text": "Advise on ship's environmental impacts and mitigation measures",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "IT0030",
+      "text": "Advise on ship's Environmental Program",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "IT0040",
+      "text": "Advise on ship's liquid effluent",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "IT0050",
+      "text": "Advise on ship's Halocarbon Management Program",
+      "duty_area": "Duty Area I - Environmental"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "JT0010",
+      "text": "Advise on the hazardous materials within a ship's structure / system",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "JT0020",
+      "text": "Advise on HAZMAT publications",
+      "duty_area": "Duty Area J - Hazardous Materiel (HAZMAT) and Spill Response"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0020",
+      "text": "Information technology publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0030",
+      "text": "Organizations involved in information technology management",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0040",
+      "text": "Information system operation publications",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0060",
+      "text": "Capabilities / limitations of on-premise technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0090",
+      "text": "Capabilities / limitations of information systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0100",
+      "text": "Capabilities / limitations of information systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0110",
+      "text": "Capabilities / limitations of information systems for Protecteur-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0130",
+      "text": "Capabilities / limitations of integrated C4I systems for Harry DeWolf-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0310",
+      "text": "Software product management principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0360",
+      "text": "Security Assessment & Authorization (SA&A) process",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0420",
+      "text": "Manage an emergency repair for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "KT0430",
+      "text": "Manage a repair procedure for a ship's structure / system",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "LT0010",
+      "text": "Advise on materiel management publications",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "LT0030",
+      "text": "Direct the national stock of a ship class's equipment spares",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "LT0040",
+      "text": "Direct equipment Repair and Overhaul (R&O)",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "LT0050",
+      "text": "Direct system disposal",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "MT0090",
+      "text": "Manage a structural Engineering Change program",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "QT0010",
+      "text": "Manage naval architecture publications",
+      "duty_area": "Duty Area Q - Naval Architecture"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "QT0020",
+      "text": "Lead a structural design study",
+      "duty_area": "Duty Area Q - Naval Architecture"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "QT0030",
+      "text": "Manage a structural design study",
+      "duty_area": "Duty Area Q - Naval Architecture"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "QT0040",
+      "text": "Manage a ship design study",
+      "duty_area": "Duty Area Q - Naval Architecture"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "QT0050",
+      "text": "Manage naval architecture technical requirements",
+      "duty_area": "Duty Area Q - Naval Architecture"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "QT0060",
+      "text": "Direct the design and development of a ship's structure",
+      "duty_area": "Duty Area Q - Naval Architecture"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "QT0070",
+      "text": "Direct the rectification of an in-service structural technical / performance issue",
+      "duty_area": "Duty Area Q - Naval Architecture"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0010",
+      "text": "Advise on ship design and construction process",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0020",
+      "text": "Advise on emerging / innovative naval technology",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0030",
+      "text": "Advise on Technology Readiness Levels (TRLs) of a naval system",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0040",
+      "text": "Manage a ship's design and build margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0050",
+      "text": "Manage a ship's in-service margins",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0070",
+      "text": "Manage a shipbuilding project's design change request",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0090",
+      "text": "Lead a system design review",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0110",
+      "text": "Advise on national / international standards for ship design / construction",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0120",
+      "text": "Advise on international military coalition interoperability technical requirements",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0130",
+      "text": "Manage naval scientific research priorities",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "RT0160",
+      "text": "Direct the management of a system's Design Intent (DI) documentation",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ST0240",
+      "text": "Manage a docking / undocking publication",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "VT0020",
+      "text": "Draft an Integrated Logistics Support (ILS) publication",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "VT0030",
+      "text": "Manage an In Service Support (ISS) solution",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "VT0070",
+      "text": "Manage a system's Technical Data Package (TDP)",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "VT0130",
+      "text": "Direct the lifecycle management of ships' structures",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "VT0150",
+      "text": "Report on the sustainability of naval materiel",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "VT0190",
+      "text": "Direct the management of ship's structure obsolescence",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "WT0140",
+      "text": "Direct in-service structural risk management",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "WT0150",
+      "text": "Advise on naval materiel cyber risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "WT0190",
+      "text": "Advise on cyber risk to hull / IR signature systems",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0010",
+      "text": "Advise on surface ship materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0020",
+      "text": "Advise on submarine materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0030",
+      "text": "Advise on naval materiel deviation and waiver publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0070",
+      "text": "Advise on a classification society  / naval ship code certification plan",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0080",
+      "text": "Advise on technical compliance with classification society / naval ship code rules",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0090",
+      "text": "Advise on a ship / system's departure from Design Intent (DI)",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0130",
+      "text": "Advise on structural certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0170",
+      "text": "Direct structural certifications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0260",
+      "text": "Advise on Materiel Baseline Standard (MBS) structural requirements",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "XT0320",
+      "text": "Endorse technical structural deviations / waivers",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "YT0010",
+      "text": "Manage naval test and trial publications",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "YT0050",
+      "text": "Manage system testing / evaluation",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0010",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0020",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0030",
+      "text": "Advise on funding sources for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0040",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0050",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0060",
+      "text": "Report on a contractor's capability to support naval Materiel Acquisition and Support (MA&S)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0070",
+      "text": "Report on the national industrial capability to support naval Materiel Acquisition and Support",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0090",
+      "text": "Determine the quality of a Statement of Work (SoW)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0110",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0120",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0130",
+      "text": "Report on the technical suitability of a Contractor's proposal",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0140",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0150",
+      "text": "Manage a contract task",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0160",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0170",
+      "text": "Manage the provision of Government Furnished Information (GFI) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0180",
+      "text": "Manage the provision of Government Furnished Equipment (GFE) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0190",
+      "text": "Manage the provision of Government Supplied Materiel (GSM) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0200",
+      "text": "Advise on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0210",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0220",
+      "text": "Manage a Quality Assurance inspection",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0240",
+      "text": "Manage a Quality Assurance audits",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "Cdr",
+      "code": "ZT0260",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0010",
+      "text": "Advise on technical readiness publications",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0030",
+      "text": "Manage a technical readiness publication",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0040",
+      "text": "Report on a ship's technical readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0130",
+      "text": "Advise on a ship class's / fleet's combat systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0140",
+      "text": "Advise on a ship class's / fleet's information systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0150",
+      "text": "Advise on a ship class's / fleet's marine systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0160",
+      "text": "Advise on a ship class's / fleet's cargo systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0170",
+      "text": "Advise on a ship class's / fleet's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0180",
+      "text": "Advise on a ship class's / fleet's combat systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0190",
+      "text": "Advise on a ship class's / fleet's information systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0200",
+      "text": "Advise on a ship class's / fleet's marine systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0210",
+      "text": "Advise on a ship class's / fleet's cargo systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "AT0220",
+      "text": "Advise on a ship's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "BT0270",
+      "text": "Advise on the ship's operational courses of action in response to a system defect",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "BT0280",
+      "text": "Advise on development of a formation's Operational Schedule (OPSKED)",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "BT0310",
+      "text": "Advise on a fleet's Operational Deficiencies (OPDEFs)",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0070",
+      "text": "Networking principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0080",
+      "text": "Capabilities / limitations of information systems for Harry DeWolf-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0120",
+      "text": "Capabilities / limitations of information systems for Victoria-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0150",
+      "text": "Capabilities / limitations of integrated C4I systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0160",
+      "text": "Capabilities / limitations of integrated C4I systems for Protecteur-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0180",
+      "text": "Information system configuration management principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "KT0190",
+      "text": "Information system user access management principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "MT0120",
+      "text": "Direct formation level configuration change work",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "RT0170",
+      "text": "Direct formation level naval engineering",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "ST0260",
+      "text": "Manage dockyard assets / services",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "UT0020",
+      "text": "Manage information management publications",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "UT0030",
+      "text": "Manage an information knowledge management plan",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "UT0050",
+      "text": "Manage the release and disclosure of classified information",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "UT0080",
+      "text": "Manage enterprise architecture views",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "WT0040",
+      "text": "Report on formation compliance with Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "WT0100",
+      "text": "Advise on aggregate risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "Capt(N)",
+      "code": "ZT0010",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0010",
+      "text": "Advise on technical readiness publications",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0040",
+      "text": "Report on a ship's technical readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0130",
+      "text": "Advise on a ship class's / fleet's combat systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0140",
+      "text": "Advise on a ship class's / fleet's information systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0150",
+      "text": "Advise on a ship class's / fleet's marine systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0160",
+      "text": "Advise on a ship class's / fleet's cargo systems readiness",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0170",
+      "text": "Advise on a ship class's / fleet's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0180",
+      "text": "Advise on a ship class's / fleet's combat systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0190",
+      "text": "Advise on a ship class's / fleet's information systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0200",
+      "text": "Advise on a ship class's / fleet's marine systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0210",
+      "text": "Advise on a ship class's / fleet's cargo systems availability",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "AT0220",
+      "text": "Advise on a ship's structural materiel state",
+      "duty_area": "Duty Area A - Readiness and Availability"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "BT0270",
+      "text": "Advise on the ship's operational courses of action in response to a system defect",
+      "duty_area": "Duty Area B - Operations"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0010",
+      "text": "Information technology / operational technology / platform technology principles",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0050",
+      "text": "Capabilities / limitations of cloud technology",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0090",
+      "text": "Capabilities / limitations of information systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0100",
+      "text": "Capabilities / limitations of information systems for River-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0120",
+      "text": "Capabilities / limitations of information systems for Victoria-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0140",
+      "text": "Capabilities / limitations of integrated C4I systems for Halifax-class",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0210",
+      "text": "Information systems configuration management principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0320",
+      "text": "Information system obsolescence management principle",
+      "duty_area": "Knowledge - Duty Area T - Information Technology/ Information Systems"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "KT0370",
+      "text": "Direct preventive / corrective maintenance requirement management",
+      "duty_area": "Duty Area K - Maintenance"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "LT0060",
+      "text": "Direct naval materiel management",
+      "duty_area": "Duty Area L - Materiel Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "MT0010",
+      "text": "Advise on naval configuration management publications",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "MT0100",
+      "text": "Direct Engineering Changes",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "MT0130",
+      "text": "Manage a ship class's configuration",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "MT0140",
+      "text": "Direct naval configuration management",
+      "duty_area": "Duty Area M - Configuration Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0010",
+      "text": "Advise on ship design and construction process",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0020",
+      "text": "Advise on emerging / innovative naval technology",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0030",
+      "text": "Advise on Technology Readiness Levels (TRLs) of a naval system",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0060",
+      "text": "Direct naval margins management",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0080",
+      "text": "Direct a shipbuilding project's design change management",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0100",
+      "text": "Lead a shipbuilding project's design review",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0110",
+      "text": "Advise on national / international standards for ship design / construction",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0140",
+      "text": "Direct naval scientific research priorities",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "RT0180",
+      "text": "Manage naval engineering program policy",
+      "duty_area": "Duty Area R - Naval Engineering"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "UT0020",
+      "text": "Manage information management publications",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "UT0030",
+      "text": "Manage an information knowledge management plan",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "UT0050",
+      "text": "Manage the release and disclosure of classified information",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "UT0080",
+      "text": "Manage enterprise architecture views",
+      "duty_area": "Duty Area U - Information Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0010",
+      "text": "Advise on Integrated Logistics Support (ILS) publications",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0020",
+      "text": "Draft an Integrated Logistics Support (ILS) publication",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0040",
+      "text": "Direct the development of a class of ship's In Service Support (ISS) solution",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0050",
+      "text": "Direct a project's Integrated Logistics Support (ILS) planning",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0060",
+      "text": "Direct the management of Integrated Logistics Support (ILS) for a project",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0080",
+      "text": "Direct the management of a ship class's Technical Data Package (TDP)",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0140",
+      "text": "Direct the lifecycle management of a class of ships",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "VT0200",
+      "text": "Direct the management of naval materiel obsolescence",
+      "duty_area": "Duty Area V - Integrated Logistics Support"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "WT0010",
+      "text": "Advise on Naval Materiel Assurance publications",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "WT0050",
+      "text": "Direct Naval Materiel Assurance",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "WT0060",
+      "text": "Advise on naval materiel risk management publication",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "WT0100",
+      "text": "Advise on aggregate risk",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "WT0210",
+      "text": "Direct ship / submarine class materiel risk management",
+      "duty_area": "Duty Area W - Naval Materiel Risk Management"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0040",
+      "text": "Manage surface ship materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0050",
+      "text": "Manage submarine materiel certification publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0060",
+      "text": "Manage naval materiel deviation and waiver publications",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0180",
+      "text": "Direct naval materiel certification",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0210",
+      "text": "Direct submarine materiel certification",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0220",
+      "text": "Direct submarine licencing",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0270",
+      "text": "Manage the Materiel Baseline Standard (MBS)",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "XT0330",
+      "text": "Approve technical deviations / waivers",
+      "duty_area": "Duty Area X - Materiel Certifications, Deviations, and Waivers"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "YT0080",
+      "text": "Direct naval test / trial programs",
+      "duty_area": "Duty Area Y - Tests and Trials"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0010",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0020",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0030",
+      "text": "Advise on funding sources for the procurement of goods / services",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0040",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0050",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0070",
+      "text": "Report on the national industrial capability to support naval Materiel Acquisition and Support",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0080",
+      "text": "Report on the international industrial capability to support naval Materiel Acquisition and Support",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0100",
+      "text": "Direct the development of a Statement of Work (SoW)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0110",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0120",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0130",
+      "text": "Report on the technical suitability of a Contractor's proposal",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0140",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0150",
+      "text": "Manage a contract task",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0160",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0170",
+      "text": "Manage the provision of Government Furnished Information (GFI) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0180",
+      "text": "Manage the provision of Government Furnished Equipment (GFE) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0190",
+      "text": "Manage the provision of Government Supplied Materiel (GSM) to industry",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0200",
+      "text": "Advise on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0210",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0230",
+      "text": "Direct Quality Assurance inspections",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0250",
+      "text": "Direct Quality Assurance audits",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "Capt(N)",
+      "code": "ZT0260",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area Z - Contracting and Procurement"
+    }
+  ]
+}

@@ -1,0 +1,2568 @@
+{
+  "source_files": [
+    "Information Systems Specialist_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Information Systems Specialist_FlatJobTaskRequirements.json": "949fecb77e8035c5afaa6b5cd39e1df1"
+  },
+  "source_hash": "7c13ea4b2cfeec204be63c15519b1de9",
+  "tasks_metadata": [
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0005",
+      "text": "Flashup and shutdown of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0020",
+      "text": "Draft network outage reports",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0040",
+      "text": "Complete Information systems (IS) equipment restoral after power failures",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0045",
+      "text": "Monitor IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0065",
+      "text": "Advise on Ship IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0075",
+      "text": "Complete bandwidth management on ship",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0090",
+      "text": "Distribute an incoming message",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0095",
+      "text": "Send messages via message distribution system",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0100",
+      "text": "Apply Network Defense in a C2D2E environment",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0115",
+      "text": "Carry-out Network Hardening measures",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "AT0130",
+      "text": "Isolate systems IAW network reconfiguration plans",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "BT0005",
+      "text": "Setup User accounts for ships operational networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "BT0015",
+      "text": "Troubleshoot user account issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "BT0155",
+      "text": "Setup Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00060",
+      "text": "Setup videoconferencing equipment and systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00110",
+      "text": "Setup an IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT0015",
+      "text": "Setup wireless communications systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00160",
+      "text": "Provide 1st Line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT00185",
+      "text": "Initiate Operational Security Orders conditions onboard (Rivercity)",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT0045",
+      "text": "Setup enclaves with Linux Basic Text User Interface (TUI)",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514160",
+      "rank": "S1",
+      "code": "CT0075",
+      "text": "Setup Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0005",
+      "text": "Flashup and shutdown of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0010",
+      "text": "Lead flashup and shut down of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0015",
+      "text": "Supervise flashup and shut down of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Lead Network test and trials",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Lead Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0080",
+      "text": "Lead bandwidth management on ship",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0105",
+      "text": "Lead Network Defense in a C2D2E environment",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0120",
+      "text": "Lead Network Hardening measures",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "AT0135",
+      "text": "Lead the Isolattion of systems IAW network reconfiguration plans",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0085",
+      "text": "Lead reSpeconse to information systems (IS) security incident onboard Ship/Submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0145",
+      "text": "Lead Cyber reSpeconse to attack/incident on ship/submarine networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0190",
+      "text": "Lead Cyber awareness training on ship/submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0205",
+      "text": "Monitor Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0215",
+      "text": "Lead monitoring of network anomalies and events ashore",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "BT0220",
+      "text": "Lead monitoring of network anomalies and events in ship/submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00045",
+      "text": "Lead the Setup of enclaves Linux Basic Text User Interface (TUI)",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00055",
+      "text": "Lead  the Setup of videoconferencing equipment and systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00065",
+      "text": "Lead the setup of servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00085",
+      "text": "Lead the Setup pf Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00095",
+      "text": "Lead the Setup of routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT0010",
+      "text": "Lead the setup of wireless communications systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00105",
+      "text": "Lead the Install of IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00110",
+      "text": "Setup an IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00115",
+      "text": "Lead the control of Information Technology (IT) Assets Inventory",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00130",
+      "text": "Lead Administration of Information systems onboard ship/submarine",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00145",
+      "text": "Lead administration of network user accounts in ship/submarine",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00160",
+      "text": "Provide 1st Line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT00190",
+      "text": "Lead Operational Security Orders conditions on ship (Rivercity)",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT0020",
+      "text": "Lead the troubleshooting of wireless communications systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT0040",
+      "text": "Lead the setup of Information Systems Networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514166",
+      "rank": "MS",
+      "code": "CT0080",
+      "text": "Lead the setup of Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "CT0080",
+      "text": "Lead the setup of Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "DT0075",
+      "text": "Report on the quality of Information Systems Specilaist (IS Spec) Individual Training and Eductaion (IT&E)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "DT0080",
+      "text": "Develop Computer Network Adminstrator (CNA Specec) Qualifcation Standards (QS)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514167",
+      "rank": "MS",
+      "code": "DT0085",
+      "text": "Develop Computer Network Administrator (CNA Specec) Teaching Points (TP)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0015",
+      "text": "Supervise flashup and shut down of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0020",
+      "text": "Draft network outage reports",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0035",
+      "text": "Supervise network tests and trials",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0055",
+      "text": "Supervise Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0070",
+      "text": "Advise Command on network operations requirements",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0085",
+      "text": "Advise on bandwidth management",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0110",
+      "text": "Supervise Network Defense in a C2D2E environment",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0125",
+      "text": "Supervise Network Hardening measures",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "AT0140",
+      "text": "Supervise the Isolattion of systems IAW network reconfiguration plans",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0020",
+      "text": "Draft shipboard Information System Security orders for Ship",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0025",
+      "text": "Draft shore unit Information System Security orders",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0040",
+      "text": "Advise on Information Systems (IS) status/capabilities",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0065",
+      "text": "Supervise the Information Systems (IS) Distribution Account/Supply Customer Account (DA/SCA)",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0070",
+      "text": "Supervise information systems (IS) Security onboard ship/Submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0075",
+      "text": "Draft Request For Change (RFCs) on IS systems and networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0100",
+      "text": "Supervise the Investigation of Information System Security Incident Report (ISSIR) security incidents onboard Ship/Submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0115",
+      "text": "Supervise cyber defense procedures for ship/submarine networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0165",
+      "text": "Supervise the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0195",
+      "text": "Supervise Cyber awarenes training on Ship/Submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT0005",
+      "text": "Supervise Information Systems (IS) workstation installs onboard ship/submarine",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00110",
+      "text": "Setup an IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00150",
+      "text": "Supervise network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00155",
+      "text": "Supervise network user accounts onboard Ship/Submarine",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00160",
+      "text": "Provide 1st Line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00175",
+      "text": "Troubleshoot an Information Systems (IS) issue with 3rd line support",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT00195",
+      "text": "Supervise implementation of Operational Security conditions on Ship (Rivercity)",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT0025",
+      "text": "Supervise wireless communications systems onboard Ship/Submarine",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT0030",
+      "text": "Supervise wireless communications systems at shore unit",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514173",
+      "rank": "PO2",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "DT0075",
+      "text": "Report on the quality of Information Systems Specilaist (IS Spec) Individual Training and Eductaion (IT&E)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514174",
+      "rank": "PO2",
+      "code": "DT0090",
+      "text": "Supervise CNA Specec Qualification and Training plan development (QS/TPs)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0030",
+      "text": "Draft fleet policies and regulations related to COMPUSEC, EMSEC, CRYPTOSEC, TRANSEC, NETSEC",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0035",
+      "text": "Advise on new information systems (IS) advancements",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0045",
+      "text": "Advise on IT infrastructure security and related issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0050",
+      "text": "Manage all Fleet computer systems and network infrastructure",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0060",
+      "text": "Manage the Implementation of Fleet IS Security policies",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0075",
+      "text": "Draft Request For Change (RFCs) on IS systems and networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0080",
+      "text": "Manage shore units reSpeconse to information systems (IS) security incident",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0095",
+      "text": "Manage the Investigation of Information System Security Incident Report (ISSIR) security incident onboard Ship/Submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0105",
+      "text": "Manage Unit IS procedures",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Plan cyber defense strategy for shipboard networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0120",
+      "text": "Manage Unit Information Systems (IS) readiness training serials during collective training (CT) program",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage the conduct of Fleet Cyber training",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "CT00170",
+      "text": "Manage Cyber Defense procedures and readiness during collective training",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "CT00175",
+      "text": "Troubleshoot an Information Systems (IS) issue with 3rd line support",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "DT0095",
+      "text": "Manage 1st, 2nd and 3rd line support of Information Systems (IS) requirements",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "DT0100",
+      "text": "Report on unit Cyber Defense procedures and readiness during CT program",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "DT0105",
+      "text": "Manage coordination of Cyber training and procedures with Fleet Cyber Team (FCT)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514177",
+      "rank": "PO1",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0030",
+      "text": "Draft fleet policies and regulations related to COMPUSEC, EMSEC, CRYPTOSEC, TRANSEC, NETSEC",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0035",
+      "text": "Advise on new information systems (IS) advancements",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0045",
+      "text": "Advise on IT infrastructure security and related issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0050",
+      "text": "Manage all Fleet computer systems and network infrastructure",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0060",
+      "text": "Manage the Implementation of Fleet IS Security policies",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0095",
+      "text": "Manage the Investigation of Information System Security Incident Report (ISSIR) security incident onboard Ship/Submarine",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Plan cyber defense strategy for shipboard networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0120",
+      "text": "Manage Unit Information Systems (IS) readiness training serials during collective training (CT) program",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage the conduct of Fleet Cyber training",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "CT00170",
+      "text": "Manage Cyber Defense procedures and readiness during collective training",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "CT00175",
+      "text": "Troubleshoot an Information Systems (IS) issue with 3rd line support",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "DT0100",
+      "text": "Report on unit Cyber Defense procedures and readiness during CT program",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "DT0105",
+      "text": "Manage coordination of Cyber training and procedures with Fleet Cyber Team (FCT)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514181",
+      "rank": "PO1",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "BT0120",
+      "text": "Manage Unit Information Systems (IS) readiness training serials during collective training (CT) program",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "BT0125",
+      "text": "Report on quality of IS readiness performance during CT program",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "BT0130",
+      "text": "Manage Collective training of CNA Specec serials during program development",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "BT0135",
+      "text": "Manage Collective training of CNA Specec performance during CT program",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "BT0140",
+      "text": "Manage Cyber Defense implementation for Ship/Submarine networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "CT00170",
+      "text": "Manage Cyber Defense procedures and readiness during collective training",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "DT0100",
+      "text": "Report on unit Cyber Defense procedures and readiness during CT program",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "DT0105",
+      "text": "Manage coordination of Cyber training and procedures with Fleet Cyber Team (FCT)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "514182",
+      "rank": "PO1",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0005",
+      "text": "Flashup and shutdown of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0025",
+      "text": "Complete Network tests and trials",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0040",
+      "text": "Complete Information systems (IS) equipment restoral after power failures",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0045",
+      "text": "Monitor IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0065",
+      "text": "Advise on Ship IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0075",
+      "text": "Complete bandwidth management on ship",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0090",
+      "text": "Distribute an incoming message",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0095",
+      "text": "Send messages via message distribution system",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0100",
+      "text": "Apply Network Defense in a C2D2E environment",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0115",
+      "text": "Carry-out Network Hardening measures",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0130",
+      "text": "Isolate systems IAW network reconfiguration plans",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0005",
+      "text": "Setup User accounts for ships operational networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0015",
+      "text": "Troubleshoot user account issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0155",
+      "text": "Setup Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT00060",
+      "text": "Setup videoconferencing equipment and systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT00110",
+      "text": "Setup an IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT0015",
+      "text": "Setup wireless communications systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT00160",
+      "text": "Provide 1st Line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT00185",
+      "text": "Initiate Operational Security Orders conditions onboard (Rivercity)",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "CT0075",
+      "text": "Setup Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0045",
+      "text": "Monitor IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0060",
+      "text": "Advise on IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Setup User accounts for operational networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0015",
+      "text": "Troubleshoot user account issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0155",
+      "text": "Setup Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0175",
+      "text": "Complete IS recovery from cyber attack/incident at shore unit network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0205",
+      "text": "Monitor Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0210",
+      "text": "Monitor shore unit Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00060",
+      "text": "Setup videoconferencing equipment and systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00110",
+      "text": "Setup an IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0015",
+      "text": "Setup wireless communications systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00160",
+      "text": "Provide 1st Line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0075",
+      "text": "Setup Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0045",
+      "text": "Monitor IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0060",
+      "text": "Advise on IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Setup User accounts for operational networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0015",
+      "text": "Troubleshoot user account issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0155",
+      "text": "Setup Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0210",
+      "text": "Monitor shore unit Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0075",
+      "text": "Setup Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0005",
+      "text": "Flashup and shutdown of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0045",
+      "text": "Monitor IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0060",
+      "text": "Advise on IS systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Setup User accounts for operational networks",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0015",
+      "text": "Troubleshoot user account issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0155",
+      "text": "Setup Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "CT0075",
+      "text": "Setup Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Lead Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "CT0080",
+      "text": "Lead the setup of Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0005",
+      "text": "Instruct Computer Network Administration Spececialist (CNA Specec) lessons",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0010",
+      "text": "Instruct basic Information Systems (IS) Procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0015",
+      "text": "Instruct IS Hardware",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0020",
+      "text": "Instruct IS Software",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0025",
+      "text": "Instruct Cyber Defence procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0030",
+      "text": "Instruct on Network security",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0035",
+      "text": "Instruct on Wireless communciations",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0040",
+      "text": "Instruct on Flashup/Shutdown of Networks",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0045",
+      "text": "Instruct on IS troubleshooting procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "MS",
+      "code": "DT0075",
+      "text": "Report on the quality of Information Systems Specilaist (IS Spec) Individual Training and Eductaion (IT&E)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Lead Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0175",
+      "text": "Complete IS recovery from cyber attack/incident at shore unit network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0185",
+      "text": "Lead Cyber awareness training ashore",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0205",
+      "text": "Monitor Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0210",
+      "text": "Monitor shore unit Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00060",
+      "text": "Setup videoconferencing equipment and systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00110",
+      "text": "Setup an IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT0015",
+      "text": "Setup wireless communications systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00160",
+      "text": "Provide 1st Line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "CT0080",
+      "text": "Lead the setup of Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Lead Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0175",
+      "text": "Complete IS recovery from cyber attack/incident at shore unit network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0185",
+      "text": "Lead Cyber awareness training ashore",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0210",
+      "text": "Monitor shore unit Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "CT0080",
+      "text": "Lead the setup of Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0010",
+      "text": "Lead flashup and shut down of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Lead Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0185",
+      "text": "Lead Cyber awareness training ashore",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00135",
+      "text": "Lead Adminsitration of Information systems ashore",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00140",
+      "text": "Lead administration of network user accounts ashore",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "CT0080",
+      "text": "Lead the setup of Network Cabling",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "PO2",
+      "code": "DT0050",
+      "text": "Supervise instruction of  Information Systems (IS) Security procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "PO2",
+      "code": "DT0055",
+      "text": "Supervise instruction of Cyber Defense procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "PO2",
+      "code": "DT0060",
+      "text": "Supervise Instruction of Network Security Procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "PO2",
+      "code": "DT0065",
+      "text": "Supervise Instruction of Wireless communications procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "PO2",
+      "code": "DT0070",
+      "text": "Supervise Instruction of IS troubleshooting procedures",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "PO2",
+      "code": "DT0075",
+      "text": "Report on the quality of Information Systems Specilaist (IS Spec) Individual Training and Eductaion (IT&E)",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "AT0055",
+      "text": "Supervise Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "BT0165",
+      "text": "Supervise the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "BT0175",
+      "text": "Complete IS recovery from cyber attack/incident at shore unit network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "BT0205",
+      "text": "Monitor Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "BT0210",
+      "text": "Monitor shore unit Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00060",
+      "text": "Setup videoconferencing equipment and systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00110",
+      "text": "Setup an IS workstations",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT0015",
+      "text": "Setup wireless communications systems",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00160",
+      "text": "Provide 1st Line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "PO2",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "AT0055",
+      "text": "Supervise Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "BT0165",
+      "text": "Supervise the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "BT0175",
+      "text": "Complete IS recovery from cyber attack/incident at shore unit network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "BT0210",
+      "text": "Monitor shore unit Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "CT00125",
+      "text": "Create network user accounts",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "PO2",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "AT0015",
+      "text": "Supervise flashup and shut down of networks",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "AT0055",
+      "text": "Supervise Monitoring IS Systems status",
+      "duty_area": "Duty Area  A - Information Systems Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "BT0150",
+      "text": "Supervise Monitoring IS Systems status",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "BT0165",
+      "text": "Supervise the setup of Cryptographic equiptment",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "BT0170",
+      "text": "Complete IS recovery from cyber attack/incident on ship/submarine network",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "BT0200",
+      "text": "Monitor shipboard Network Security",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "CT00070",
+      "text": "Setup servers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "CT00090",
+      "text": "Setup Local Area Network (LAN) switches",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "CT00100",
+      "text": "Setup routers",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "CT00120",
+      "text": "Complete the life cycling of Information Technology (IT) assets",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "CT00165",
+      "text": "Provide 2nd line support requirements for an Information Systems (IS) issue",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "CT00180",
+      "text": "Resolve network disruptions/outages",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "PO2",
+      "code": "CT0035",
+      "text": "Setup Information Systems networks",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "BT0030",
+      "text": "Draft fleet policies and regulations related to COMPUSEC, EMSEC, CRYPTOSEC, TRANSEC, NETSEC",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "BT0035",
+      "text": "Advise on new information systems (IS) advancements",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "BT0045",
+      "text": "Advise on IT infrastructure security and related issues",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "BT0055",
+      "text": "Manage the Implementation of Unit IS Security policies",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "BT0090",
+      "text": "Manage the Investigation of an Unit Information System Security Incident Report (ISSIR) security incident",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "BT0120",
+      "text": "Manage Unit Information Systems (IS) readiness training serials during collective training (CT) program",
+      "duty_area": "Duty Area  B - Information Systems Security"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "CT00170",
+      "text": "Manage Cyber Defense procedures and readiness during collective training",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "CT00175",
+      "text": "Troubleshoot an Information Systems (IS) issue with 3rd line support",
+      "duty_area": "Duty Area  C - Information Technology"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "DT0100",
+      "text": "Report on unit Cyber Defense procedures and readiness during CT program",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO1",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO1",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO1",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO1",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO1",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "CPO2",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "CPO2",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "CPO2",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "CPO2",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "CPO2",
+      "code": "GT0010",
+      "text": "Advise on ISS career management",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "CPO2",
+      "code": "GT0025",
+      "text": "Advise on ISS personnel generation requirements",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "CPO2",
+      "code": "GT0040",
+      "text": "Advise on ISS force employment requirements",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "CPO2",
+      "code": "GT0055",
+      "text": "Advise on ISS professional development requirements",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "CPO2",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "CPO2",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "CPO2",
+      "code": "GT0010",
+      "text": "Advise on ISS career management",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "CPO2",
+      "code": "GT0015",
+      "text": "Advise on ISS personnel generation requirements",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "CPO2",
+      "code": "GT0030",
+      "text": "Advise on ISS force employment requirements",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "CPO2",
+      "code": "GT0045",
+      "text": "Advise on ISS professional development requirements",
+      "duty_area": "Duty Area E - Personnel Management"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "CPO2",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "CPO2",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "CPO2",
+      "code": "DT0110",
+      "text": "Draft occupational fleet policy and direction",
+      "duty_area": "Duty Area D - Training and Development"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "CPO2",
+      "code": "DT0115",
+      "text": "Advise on Information Systems and network related requirements for Info systems capability development",
+      "duty_area": "Duty Area D - Training and Development"
+    }
+  ]
+}

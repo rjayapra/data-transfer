@@ -1,0 +1,4948 @@
+{
+  "source_files": [
+    "Underwater Warfare Specialist V1.0_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Underwater Warfare Specialist V1.0_FlatJobTaskRequirements.json": "8295e159e6e6f9e9e45e90d7bdb1c9e2"
+  },
+  "source_hash": "d8bad9286e030113bfc335d20d2de593",
+  "tasks_metadata": [
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "AT0001",
+      "text": "Report on a sonar contact",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "AT0002",
+      "text": "Report hazard and threat activities using Underwater telephone",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0001",
+      "text": "Report naval platform capabilities",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0002",
+      "text": "Report on oceanographic data",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0003",
+      "text": "Report on Tactical Oceanographic analysis",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0017",
+      "text": "Report on Acoustic Range Prediction (ARP) analysis",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0001",
+      "text": "Monitor Hull Mounted Sonar (HMS) system",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0002",
+      "text": "Monitor Sonobuoy processing system (SPS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0003",
+      "text": "Monitor Towed Array system",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0004",
+      "text": "Monitor Towed Active Passive Sonar (TAPS) (UWSU)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0005",
+      "text": "Monitor Underwater telephone",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0006",
+      "text": "Monitor Torpedo Sonar Intercept and Classification (TORSIC) system (UWSU)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0011",
+      "text": "Identify a sub-surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0012",
+      "text": "Report a sub-surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0013",
+      "text": "Identify a surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0014",
+      "text": "Report a surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0026",
+      "text": "Identify Marine Mammal activity",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "CT0027",
+      "text": "Report Marine Mammal activity",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "DT0001",
+      "text": "Monitor noise control",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "DT0005",
+      "text": "Report mine contact",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "ET0002",
+      "text": "Monitor acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "ET0003",
+      "text": "Report acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "FT0001",
+      "text": "Setup Expendable Mobile ASW Training Target (EMATT)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "IT0053",
+      "text": "Start/Stop an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "IT0054",
+      "text": "Repair an Underwater Telephone System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "IT0055",
+      "text": "Maintain an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "IT0060",
+      "text": "Start/Stop a bathythermograph (Bathy) System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "IT0061",
+      "text": "Repair a Bathy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "IT0062",
+      "text": "Maintain a Bathy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0001",
+      "text": "Report on a sonar contact",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0002",
+      "text": "Report hazard and threat activities using Underwater telephone",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0008",
+      "text": "Report surface vessel torpedo tube (SVTT) state",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0001",
+      "text": "Report naval platform capabilities",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0002",
+      "text": "Report on oceanographic data",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0003",
+      "text": "Report on Tactical Oceanographic analysis",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0017",
+      "text": "Report on Acoustic Range Prediction (ARP) analysis",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0001",
+      "text": "Monitor Hull Mounted Sonar (HMS) system",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0002",
+      "text": "Monitor Sonobuoy processing system (SPS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0003",
+      "text": "Monitor Towed Array system",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0004",
+      "text": "Monitor Towed Active Passive Sonar (TAPS) (UWSU)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0005",
+      "text": "Monitor Underwater telephone",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0006",
+      "text": "Monitor Torpedo Sonar Intercept and Classification (TORSIC) system (UWSU)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0009",
+      "text": "Lead Towed sensors system monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0011",
+      "text": "Identify a sub-surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0012",
+      "text": "Report a sub-surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0013",
+      "text": "Identify a surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0014",
+      "text": "Report a surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0026",
+      "text": "Identify Marine Mammal activity",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "CT0027",
+      "text": "Report Marine Mammal activity",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "DT0001",
+      "text": "Monitor noise control",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "DT0005",
+      "text": "Report mine contact",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "DT0016",
+      "text": "Monitor surface vessel torpedo tube (SVTT) weapon system",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "DT0019",
+      "text": "Engage a target with surface vessel torpedo tube (SVTT) system (local/manually)",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "ET0002",
+      "text": "Monitor acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "ET0003",
+      "text": "Report acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "FT0001",
+      "text": "Setup Expendable Mobile ASW Training Target (EMATT)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "HT0002",
+      "text": "Draft Defence Resource Management Information System (DRMIS) Work Orders",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "HT0010",
+      "text": "Draft a Statement of Work (SOW)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "HT0022",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "HT0030",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0001",
+      "text": "Maintain Test Equipment Maintenance Management Information System (TEMMIS)",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0002",
+      "text": "Start/Stop a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0003",
+      "text": "Repair a Torpedo handling System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0004",
+      "text": "Maintain a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0009",
+      "text": "Start/Stop a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0010",
+      "text": "Repair a Torpedo Tube Assembly System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0011",
+      "text": "Maintain a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0016",
+      "text": "Load/Unload Torpedoes",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0019",
+      "text": "Start/Stop a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0020",
+      "text": "Repair a Towed Array System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0021",
+      "text": "Maintain a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0022",
+      "text": "Deploy/Retrieve a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0029",
+      "text": "Start/Stop Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0030",
+      "text": "Repair a Torpedo Decoy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0031",
+      "text": "Maintain a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0032",
+      "text": "Deploy/Retrieve a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0039",
+      "text": "Start/Stop a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0040",
+      "text": "Repair a Hull Mounted Sonar System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0041",
+      "text": "Maintain a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0046",
+      "text": "Start/Stop a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0047",
+      "text": "Repair a Sonobuoy Processing System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0048",
+      "text": "Maintain a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0053",
+      "text": "Start/Stop an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0054",
+      "text": "Repair an Underwater Telephone System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0055",
+      "text": "Maintain an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0060",
+      "text": "Start/Stop a bathythermograph (Bathy) System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0061",
+      "text": "Repair a Bathy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "IT0062",
+      "text": "Maintain a Bathy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0001",
+      "text": "Report on a sonar contact",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0002",
+      "text": "Report hazard and threat activities using Underwater telephone",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0010",
+      "text": "Report on sub-surface terrain (Victoria class)",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0001",
+      "text": "Report naval platform capabilities",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0007",
+      "text": "Report on sonar contacts intelligence (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0011",
+      "text": "Report on Tactical Oceanographic information (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0005",
+      "text": "Monitor Underwater telephone",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0026",
+      "text": "Identify Marine Mammal activity",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0027",
+      "text": "Report Marine Mammal activity",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0034",
+      "text": "Monitor Victoria class Sonar suite system",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0035",
+      "text": "Monitor Echo Sounder system (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0039",
+      "text": "Identify a surface sonar contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0040",
+      "text": "Report a surface sonar contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0041",
+      "text": "Identify a sub-surface contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0042",
+      "text": "Report a sub-surface contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0043",
+      "text": "Identify an air contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0044",
+      "text": "Report an air contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0045",
+      "text": "Identify sub-surface terrain (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "CT0046",
+      "text": "Report on sub-surface terrain (Victoria Class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "DT0001",
+      "text": "Monitor noise control",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "ET0007",
+      "text": "Identify acoustic intelligence data using Victoria class Sonar suite",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Report acoustic intelligence information",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "ET0002",
+      "text": "Monitor acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "ET0003",
+      "text": "Report acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "ET0009",
+      "text": "Report on Acoustic Intelligence (ACINT) analysis",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Report acoustic intelligence information",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "CT0091",
+      "text": "Monitor Neptune/Venus arrays data",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "ET0009",
+      "text": "Report on Acoustic Intelligence (ACINT) analysis",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "ET0017",
+      "text": "Monitor acoustic equipment trials",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "AT0001",
+      "text": "Report on a sonar contact",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "CT0061",
+      "text": "Monitor Integrated Undersea Surveillance System",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "CT0063",
+      "text": "Monitor SURTASS (Surface Towed Array Surveillance Sytem)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "CT0066",
+      "text": "Identify a sub-surface acoustic sensors contact (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "CT0068",
+      "text": "Identify a surface acoustic sensors contact (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "ET0002",
+      "text": "Monitor acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "AT0001",
+      "text": "Report on a sonar contact",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "BT0027",
+      "text": "Report IUSS watch acoustic intelligence information",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "CT0061",
+      "text": "Monitor Integrated Undersea Surveillance System",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "CT0063",
+      "text": "Monitor SURTASS (Surface Towed Array Surveillance Sytem)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "CT0067",
+      "text": "Report a sub-surface acoustic sensors contact (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "CT0069",
+      "text": "Report a surface acoustic sensors contact (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "ET0002",
+      "text": "Monitor acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "ET0003",
+      "text": "Report acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "ET0009",
+      "text": "Report on Acoustic Intelligence (ACINT) analysis",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "BT0001",
+      "text": "Report naval platform capabilities",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Report acoustic intelligence information",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "BT0023",
+      "text": "Report on UWW platform intelligence",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "BT0002",
+      "text": "Report on oceanographic data",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "BT0017",
+      "text": "Report on Acoustic Range Prediction (ARP) analysis",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0077",
+      "text": "Monitor Seabotix Remotely Operated Vehicle (ROV)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0078",
+      "text": "Monitor Deep Trekker Remotely Operated Vehicle (ROV)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0079",
+      "text": "Monitor Side Scan Sonars (SSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0080",
+      "text": "Monitor Automated Underwater vehicle (AUV)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0081",
+      "text": "Identify objects on seafloor (ROV)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0082",
+      "text": "Report objects on seafloor (ROV)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0086",
+      "text": "Report Underwater unmaned vehicle (UUV) data",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "CT0087",
+      "text": "Report Side Scan Sonars (SSS) data",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "S1",
+      "code": "DT0005",
+      "text": "Report mine contact",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "HT0002",
+      "text": "Draft Defence Resource Management Information System (DRMIS) Work Orders",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "HT0030",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0001",
+      "text": "Maintain Test Equipment Maintenance Management Information System (TEMMIS)",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0002",
+      "text": "Start/Stop a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0003",
+      "text": "Repair a Torpedo handling System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0004",
+      "text": "Maintain a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0009",
+      "text": "Start/Stop a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0010",
+      "text": "Repair a Torpedo Tube Assembly System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0011",
+      "text": "Maintain a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0019",
+      "text": "Start/Stop a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0020",
+      "text": "Repair a Towed Array System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0021",
+      "text": "Maintain a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0029",
+      "text": "Start/Stop Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0030",
+      "text": "Repair a Torpedo Decoy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0031",
+      "text": "Maintain a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0039",
+      "text": "Start/Stop a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0040",
+      "text": "Repair a Hull Mounted Sonar System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0041",
+      "text": "Maintain a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0046",
+      "text": "Start/Stop a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0047",
+      "text": "Repair a Sonobuoy Processing System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0048",
+      "text": "Maintain a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0053",
+      "text": "Start/Stop an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0054",
+      "text": "Repair an Underwater Telephone System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0055",
+      "text": "Maintain an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0060",
+      "text": "Start/Stop a bathythermograph (Bathy) System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0061",
+      "text": "Repair a Bathy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "S1",
+      "code": "IT0062",
+      "text": "Maintain a Bathy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "AT0003",
+      "text": "Lead the reporting of sonar contacts",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "AT0004",
+      "text": "Lead Underwater telephone reporting",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "BT0003",
+      "text": "Report on Tactical Oceanographic analysis",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "BT0004",
+      "text": "Lead Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "BT0015",
+      "text": "Lead Oceanographic data reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "BT0018",
+      "text": "Lead Acoustic Range Prediction (ARP) reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "BT0021",
+      "text": "Lead acoustic intelligence information reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "BT0028",
+      "text": "Lead sonar contact intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0007",
+      "text": "Lead Hull Mounted Sonar (HMS) system monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0008",
+      "text": "Lead Sonobuoy Processing System (SPS) monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0009",
+      "text": "Lead Towed sensors system monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0010",
+      "text": "Lead Underwater telephone monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0015",
+      "text": "Lead sub-surface acoustic sensors contact identification",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0016",
+      "text": "Lead surface acoustic sensors contact identification",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0017",
+      "text": "Lead the reporting of a surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0018",
+      "text": "Lead the reporting of a sub-surface acoustic sensors contact",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0019",
+      "text": "Lead Sonobuoy launch",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0020",
+      "text": "Lead Data Fusion (DFO) monitoring (UWSU)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0028",
+      "text": "Lead Marine Mammal Mitigation activities",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0031",
+      "text": "Report Target Motion Analysis (TMA)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "CT0032",
+      "text": "Lead Target Motion Analysis (TMA) reporting",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "DT0002",
+      "text": "Lead noise control activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "DT0006",
+      "text": "Lead mine reporting activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "DT0022",
+      "text": "Lead Combat Management System (CMS) operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "DT0025",
+      "text": "Lead Torpedo Detect and Track (TDT) operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "DT0031",
+      "text": "Lead Tactical picture monitoring",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "ET0004",
+      "text": "Lead acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0002",
+      "text": "Lead Expendable Mobile ASW Training Target (EMATT) setup",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "HT0002",
+      "text": "Draft Defence Resource Management Information System (DRMIS) Work Orders",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "HT0003",
+      "text": "Draft DRMIS Notifications",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "HT0017",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "HT0018",
+      "text": "Lead work period maintenance requirements",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "HT0022",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "HT0030",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "HT0031",
+      "text": "Lead Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0001",
+      "text": "Maintain Test Equipment Maintenance Management Information System (TEMMIS)",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0002",
+      "text": "Start/Stop a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0003",
+      "text": "Repair a Torpedo handling System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0004",
+      "text": "Maintain a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0005",
+      "text": "Lead the repair of a Torpedo handling System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0007",
+      "text": "Lead the maintenance of a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0009",
+      "text": "Start/Stop a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0010",
+      "text": "Repair a Torpedo Tube Assembly System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0011",
+      "text": "Maintain a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0012",
+      "text": "Lead the repair of a Torpedo Tube Assembly System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0014",
+      "text": "Lead the maintenance of a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0016",
+      "text": "Load/Unload Torpedoes",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0017",
+      "text": "Lead the loading/unloading of Torpedoes",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0019",
+      "text": "Start/Stop a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0020",
+      "text": "Repair a Towed Array System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0021",
+      "text": "Maintain a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0022",
+      "text": "Deploy/Retrieve a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0023",
+      "text": "Lead the repair of a Towed Array System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0027",
+      "text": "Lead the deployment/retrieval of a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0029",
+      "text": "Start/Stop Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0030",
+      "text": "Repair a Torpedo Decoy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0031",
+      "text": "Maintain a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0032",
+      "text": "Deploy/Retrieve a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0033",
+      "text": "Lead the repair of a Torpedo Decoy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0035",
+      "text": "Lead the deployment/retrieval of a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0037",
+      "text": "Lead the maintenance of a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0039",
+      "text": "Start/Stop a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0040",
+      "text": "Repair a Hull Mounted Sonar System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0041",
+      "text": "Maintain a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0042",
+      "text": "Lead the repair of a Hull Mounted Sonar System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0044",
+      "text": "Lead the maintenance of a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0046",
+      "text": "Start/Stop a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0047",
+      "text": "Repair a Sonobuoy Processing System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0048",
+      "text": "Maintain a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0049",
+      "text": "Lead Repair on Sonobuoy Processing System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0051",
+      "text": "Lead the maintenance of a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0053",
+      "text": "Start/Stop an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0054",
+      "text": "Repair an Underwater Telephone System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0055",
+      "text": "Maintain an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0056",
+      "text": "Lead the repair of an Underwater Telephone System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0058",
+      "text": "Lead the maintenance of an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0060",
+      "text": "Start/Stop a bathythermograph (Bathy) System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0061",
+      "text": "Repair a Bathy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0062",
+      "text": "Maintain a Bathy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0063",
+      "text": "Lead the repair of a Bathy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "IT0065",
+      "text": "Lead the maintenance of a Bathy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "AT0001",
+      "text": "Report on a sonar contact",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "AT0003",
+      "text": "Lead the reporting of sonar contacts",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "AT0004",
+      "text": "Lead Underwater telephone reporting",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "AT0010",
+      "text": "Report on sub-surface terrain (Victoria class)",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "AT0011",
+      "text": "Lead the reporting of sonar contacts (Victoria class)",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "BT0007",
+      "text": "Report on sonar contacts intelligence (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "BT0008",
+      "text": "Lead sonar contact intelligence reporting (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "BT0012",
+      "text": "Lead Tactical Oceanographic information collection (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0010",
+      "text": "Lead Underwater telephone monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0027",
+      "text": "Report Marine Mammal activity",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0028",
+      "text": "Lead Marine Mammal Mitigation activities",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0036",
+      "text": "Lead Victoria class Sonar suite monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0037",
+      "text": "Lead Echo Sounder system monitoring (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0038",
+      "text": "Lead mobile arrays monitoring (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0040",
+      "text": "Report a surface sonar contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0042",
+      "text": "Report a sub-surface contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0044",
+      "text": "Report an air contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0046",
+      "text": "Report on sub-surface terrain (Victoria Class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0047",
+      "text": "Lead the reporting of a surface sonar contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0048",
+      "text": "Lead the reporting of a sub-surface contact (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "CT0049",
+      "text": "Lead the reporting of sub-surface terrain (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "DT0002",
+      "text": "Lead noise control activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "DT0006",
+      "text": "Lead mine reporting activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "MS",
+      "code": "ET0008",
+      "text": "Report acoustic intelligence data using Victoria class Sonar suite",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "BT0028",
+      "text": "Lead sonar contact intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "ET0004",
+      "text": "Lead acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "ET0009",
+      "text": "Report on Acoustic Intelligence (ACINT) analysis",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "ET0010",
+      "text": "Lead Acoustic Intelligence (ACINT) analysis reporting",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "ET0011",
+      "text": "Lead Acoustic Intelligence (ACINT) analysis teams",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "MS",
+      "code": "FT0006",
+      "text": "Instruct Acoustic Analysis (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "MS",
+      "code": "FT0007",
+      "text": "Develop Acoustic Analysis courseware (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "MS",
+      "code": "FT0008",
+      "text": "Instruct Passive aural analysis (PAL) (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "MS",
+      "code": "FT0009",
+      "text": "Develop PAL courseware (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "MS",
+      "code": "FT0010",
+      "text": "Lead acoustic analysis monthly training CRR",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "MS",
+      "code": "FT0112",
+      "text": "Lead ARIES Equipment instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "BT0021",
+      "text": "Lead acoustic intelligence information reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "CT0092",
+      "text": "Lead Neptune/Venus arrays data monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "ET0009",
+      "text": "Report on Acoustic Intelligence (ACINT) analysis",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "ET0018",
+      "text": "Lead acoustic equipment trials",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "MS",
+      "code": "BT0020",
+      "text": "Report acoustic intelligence information",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "MS",
+      "code": "ET0001",
+      "text": "Identify acoustic intelligence (ACINT) data",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "MS",
+      "code": "ET0003",
+      "text": "Report acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "MS",
+      "code": "ET0004",
+      "text": "Lead acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "MS",
+      "code": "ET0021",
+      "text": "Lead Acoustic Intelligence (ACINT) publication update",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "AT0003",
+      "text": "Lead the reporting of sonar contacts",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "BT0028",
+      "text": "Lead sonar contact intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "CT0061",
+      "text": "Monitor Integrated Undersea Surveillance System",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "CT0062",
+      "text": "Lead Integrated Undersea Surveillance System monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "CT0063",
+      "text": "Monitor SURTASS (Surface Towed Array Surveillance Sytem)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "CT0070",
+      "text": "Lead sub-surface acoustic sensors contact identification (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "CT0071",
+      "text": "Lead surface acoustic sensors contact identification (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "CT0072",
+      "text": "Lead the reporting of a surface acoustic sensors contact (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "CT0073",
+      "text": "Lead the reporting of a sub-surface acoustic sensors contact (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "ET0004",
+      "text": "Lead acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "MS",
+      "code": "ET0010",
+      "text": "Lead Acoustic Intelligence (ACINT) analysis reporting",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "MS",
+      "code": "BT0002",
+      "text": "Report on oceanographic data",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "MS",
+      "code": "BT0015",
+      "text": "Lead Oceanographic data reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "MS",
+      "code": "BT0017",
+      "text": "Report on Acoustic Range Prediction (ARP) analysis",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "MS",
+      "code": "BT0018",
+      "text": "Lead Acoustic Range Prediction (ARP) reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "MS",
+      "code": "FT0093",
+      "text": "Lead Underwater Warfare (UWW) synthetic trainer support",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0015",
+      "text": "Instruct Victoria class Sonar suite system",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0019",
+      "text": "Instruct ship noise, quiet states and noise monitoring organization",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0023",
+      "text": "Instruct Underwater telephone",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0026",
+      "text": "Instruct Hull Mounted Sonar (HMS) system",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0029",
+      "text": "Instruct Sonobuoy processing system (SPS)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0032",
+      "text": "Instruct Towed Array system",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0035",
+      "text": "Instruct Target Motion Analysis (TMA)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0038",
+      "text": "Instruct surface vessel torpedo tube (SVTT) weapon system",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0042",
+      "text": "Instruct oceanography",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0046",
+      "text": "Instruct Combat Management System (CMS)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0049",
+      "text": "Instruct Expendable Mobile ASW Training Target (EMATT)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0052",
+      "text": "Instruct Bathythermograph/Expendable Sound Velocity",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0055",
+      "text": "Instruct Underwater warfare (UWW) expendable",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0058",
+      "text": "Instruct sensors range prediction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0061",
+      "text": "Instruct NIXIE",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0065",
+      "text": "Instruct Torpedo Detection and Tracking (TDT)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0069",
+      "text": "Instruct ASW Tactics",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0077",
+      "text": "Instruct UWW intelligence gathering",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0115",
+      "text": "Instruct Torpedo handling system",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0121",
+      "text": "Instruct Torpedo Tube Assembly",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0127",
+      "text": "Instruct Towed Array System operation and maintenance",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0133",
+      "text": "Instruct Torpedo Decoy System operation and maintenance",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0139",
+      "text": "Instruct Hull Mounted Sonar System maintenance",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0145",
+      "text": "Instruct Sonobuoy Processing System maintenance",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0151",
+      "text": "Instruct Underwater Telephone System maintenance",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "FT0157",
+      "text": "Instruct Bathythermograph System maintenance",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "HT0002",
+      "text": "Draft Defence Resource Management Information System (DRMIS) Work Orders",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "HT0003",
+      "text": "Draft DRMIS Notifications",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "HT0018",
+      "text": "Lead work period maintenance requirements",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "HT0031",
+      "text": "Lead Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0005",
+      "text": "Lead the repair of a Torpedo handling System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0012",
+      "text": "Lead the repair of a Torpedo Tube Assembly System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0023",
+      "text": "Lead the repair of a Towed Array System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0033",
+      "text": "Lead the repair of a Torpedo Decoy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0042",
+      "text": "Lead the repair of a Hull Mounted Sonar System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0049",
+      "text": "Lead Repair on Sonobuoy Processing System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0056",
+      "text": "Lead the repair of an Underwater Telephone System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "IT0063",
+      "text": "Lead the repair of a Bathy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0016",
+      "text": "Develop Victoria class Sonar suite system courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0020",
+      "text": "Develop ship noise, quiet states and noise monitoring organization courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0024",
+      "text": "Develop Underwater telephone courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0027",
+      "text": "Develop Hull Mounted Sonar (HMS) system courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0030",
+      "text": "Develop Sonobuoy processing system (SPS) courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0033",
+      "text": "Develop Towed Array system courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0036",
+      "text": "DevelopTarget Motion Analysis (TMA) courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0039",
+      "text": "Develop surface vessel torpedo tube (SVTT) weapon system courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0043",
+      "text": "Develop oceanography courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0050",
+      "text": "Develop EMATT courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0053",
+      "text": "Develop Bathythermograph/Expendable Sound Velocity courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0056",
+      "text": "Develop Underwater warfare (UWW) expendable courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0059",
+      "text": "Develop sensors range prediction courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0062",
+      "text": "Develop NIXIE courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0067",
+      "text": "Develop TDT courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0070",
+      "text": "Develop ASW Tactics courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0078",
+      "text": "Manage UWW intelligence gathering courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0098",
+      "text": "Develop UWW publication",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0101",
+      "text": "Lead Fleet collective training support",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0118",
+      "text": "Develop Torpedo handling system courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0124",
+      "text": "Develop Torpedo Tube Assembly courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0130",
+      "text": "Develop Towed Array System operation and maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0136",
+      "text": "Develop Torpedo Decoy System operation and maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0142",
+      "text": "Develop Hull Mounted Sonar System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0148",
+      "text": "Develop Sonobuoy Processing System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0154",
+      "text": "Develop Underwater Telephone System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "MS",
+      "code": "FT0160",
+      "text": "Develop Bathythermograph System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "AT0005",
+      "text": "Supervise sonar reporting activities",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "AT0006",
+      "text": "Supervise the communication with external units",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "BT0005",
+      "text": "Supervise Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "CT0021",
+      "text": "Supervise acoustic sensors contact reporting activities",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "CT0022",
+      "text": "Supervise acoustic sensors monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "CT0023",
+      "text": "Supervise Sonobuoy launch",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "CT0024",
+      "text": "Supervise Data Fusion (DFO) monitoring (UWSU)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "CT0029",
+      "text": "Supervise Marine Mammal Mitigation activities",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "CT0033",
+      "text": "Supervise Target Motion Analysis (TMA) reporting",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0003",
+      "text": "Supervise noise control activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0007",
+      "text": "Supervise mine reporting activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0008",
+      "text": "Supervise mine avoidance activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0013",
+      "text": "Supervise Underwater warfare ship's defense",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0014",
+      "text": "Supervise NIXIE operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0017",
+      "text": "Supervise surface vessel torpedo tube (SVTT) weapon system",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0020",
+      "text": "Engage a target with surface vessel torpedo tube (SVTT) system (CMS)",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0021",
+      "text": "Report surface vessel torpedo tube (SVTT) engagement",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0023",
+      "text": "Supervise Combat Management System (CMS) operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0026",
+      "text": "Supervise Torpedo Detect and Track (TDT) operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "DT0032",
+      "text": "Supervise Tactical picture monitoring",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "ET0005",
+      "text": "Supervise acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "HT0004",
+      "text": "Draft DRMIS Notification of Defects (ND)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "HT0008",
+      "text": "Draft a Pre Installation Failure (PIF)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "HT0011",
+      "text": "Draft a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "HT0019",
+      "text": "Supervise work period maintenance",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "HT0032",
+      "text": "Supervise Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0006",
+      "text": "Supervise the repair of a Torpedo handling System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0008",
+      "text": "Supervise the maintenance of a Torpedo handling System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0013",
+      "text": "Supervise Repair on Torpedo Tube Assembly System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0015",
+      "text": "Supervise the maintenance of a Torpedo Tube Assembly",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0018",
+      "text": "Supervise the loading/unloading of Torpedoes",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0024",
+      "text": "Supervise the repair of a Towed Array System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0026",
+      "text": "Supervise the maintenance of a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0028",
+      "text": "Supervise the deployment/retrieval of a Towed Array System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0034",
+      "text": "Supervise the repair of a Torpedo Decoy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0036",
+      "text": "Supervise the deployment/retrieval of a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0038",
+      "text": "Supervise the maintenance of a Torpedo Decoy System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0043",
+      "text": "Supervise the repair of a Hull Mounted Sonar System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0045",
+      "text": "Supervise the maintenance of a Hull Mounted Sonar",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0050",
+      "text": "Supervise the repair of a Sonobuoy Processing System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0052",
+      "text": "Supervise the maintenance of a Sonobuoy Processing System",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0057",
+      "text": "Supervise the repair of an Underwater Telephone System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0059",
+      "text": "Supervise the maintenance of an Underwater Telephone",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "IT0064",
+      "text": "Supervise the repair of a Bathy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "AT0005",
+      "text": "Supervise sonar reporting activities",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "AT0006",
+      "text": "Supervise the communication with external units",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "BT0001",
+      "text": "Report naval platform capabilities",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "BT0009",
+      "text": "Supervise sonar intelligence reporting (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "BT0010",
+      "text": "Report acoustic and oceanographic intelligence (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "BT0013",
+      "text": "Supervise Tactical Oceanographic information collection (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0029",
+      "text": "Supervise Marine Mammal Mitigation activities",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0050",
+      "text": "Supervise Victoria class Sonar suite monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0051",
+      "text": "Supervise Underwater telephone monitoring (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0052",
+      "text": "Supervise Echo Sounder system monitoring (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0053",
+      "text": "Supervise contact reporting activities (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0054",
+      "text": "Supervise sub-surface terrain reporting activities (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0055",
+      "text": "Supervise mobile array monitoring (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "CT0058",
+      "text": "Supervise sonar monitoring (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "DT0003",
+      "text": "Supervise noise control activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "DT0007",
+      "text": "Supervise mine reporting activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "DT0008",
+      "text": "Supervise mine avoidance activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "DT0032",
+      "text": "Supervise Tactical picture monitoring",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "ET0008",
+      "text": "Report acoustic intelligence data using Victoria class Sonar suite",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "FT0003",
+      "text": "Lead Sonar Operator evaluation (Victoria class)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "FT0004",
+      "text": "Supervise Sonar Operator proficiencie development (Victoria class)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO2",
+      "code": "BT0029",
+      "text": "Supervise Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO2",
+      "code": "ET0005",
+      "text": "Supervise acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO2",
+      "code": "ET0012",
+      "text": "Supervise Acoustic Intelligence (ACINT) analysis reporting",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO2",
+      "code": "ET0013",
+      "text": "Supervise Acoustic Intelligence (ACINT) analysis teams",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "PO2",
+      "code": "FT0011",
+      "text": "Supervise Acoustic Analysis instruction (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "PO2",
+      "code": "FT0012",
+      "text": "Supervise Passive aural analysis (PAL) instruction (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "PO2",
+      "code": "FT0096",
+      "text": "Supervise underwater warfare courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "PO2",
+      "code": "FT0113",
+      "text": "Supervise ARIES Equipment instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "PO2",
+      "code": "BT0022",
+      "text": "Supervise acoustic intelligence information reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "PO2",
+      "code": "BT0035",
+      "text": "Supervise acoustic equipment trials results reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "PO2",
+      "code": "CT0093",
+      "text": "Supervise Neptune/Venus arrays data monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "PO2",
+      "code": "ET0012",
+      "text": "Supervise Acoustic Intelligence (ACINT) analysis reporting",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "PO2",
+      "code": "ET0019",
+      "text": "Supervise acoustic equipment trials planning",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "PO2",
+      "code": "FT0096",
+      "text": "Supervise underwater warfare courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "AT0005",
+      "text": "Supervise sonar reporting activities",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "BT0029",
+      "text": "Supervise Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "CT0064",
+      "text": "Supervise Integrated Undersea Surveillance System monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "CT0074",
+      "text": "Supervise acoustic sensors contact reporting activities (IUSS)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "DT0034",
+      "text": "Supervise mobile assets employment",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "DT0036",
+      "text": "Supervise Integrated Undersea Surveillance System (IUSS) operations",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "ET0005",
+      "text": "Supervise acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "PO2",
+      "code": "ET0012",
+      "text": "Supervise Acoustic Intelligence (ACINT) analysis reporting",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00030",
+      "rank": "PO2",
+      "code": "BT0016",
+      "text": "Supervise Oceanographic data reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00030",
+      "rank": "PO2",
+      "code": "BT0019",
+      "text": "Supervise Acoustic Range Prediction (ARP) reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00030",
+      "rank": "PO2",
+      "code": "FT0044",
+      "text": "Supervise oceanography instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "PO2",
+      "code": "BT0032",
+      "text": "Report on Side Scan Sonars (SSS), Remotely Operated Vehicle (ROV) and  Automated Underwater vehicle (AUV) data collection",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "PO2",
+      "code": "CT0083",
+      "text": "Supervise ROVs and REMUS monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "PO2",
+      "code": "CT0084",
+      "text": "Supervise Side Scan Sonars (SSS) monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "PO2",
+      "code": "CT0085",
+      "text": "Supervise seafloor objects reporting",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "PO2",
+      "code": "CT0088",
+      "text": "Supervise SSS and UUV reporting",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "PO2",
+      "code": "DT0007",
+      "text": "Supervise mine reporting activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00032",
+      "rank": "PO2",
+      "code": "FT0094",
+      "text": "Supervise UWW synthetic trainer support",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "HT0004",
+      "text": "Draft DRMIS Notification of Defects (ND)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "HT0008",
+      "text": "Draft a Pre Installation Failure (PIF)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "HT0011",
+      "text": "Draft a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "HT0019",
+      "text": "Supervise work period maintenance",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "IT0006",
+      "text": "Supervise the repair of a Torpedo handling System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "IT0013",
+      "text": "Supervise Repair on Torpedo Tube Assembly System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "IT0024",
+      "text": "Supervise the repair of a Towed Array System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "IT0034",
+      "text": "Supervise the repair of a Torpedo Decoy System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "IT0043",
+      "text": "Supervise the repair of a Hull Mounted Sonar System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00033",
+      "rank": "PO2",
+      "code": "IT0050",
+      "text": "Supervise the repair of a Sonobuoy Processing System Component",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0064",
+      "text": "Supervise NIXIE courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0068",
+      "text": "Supervise TDT courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0096",
+      "text": "Supervise underwater warfare courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0099",
+      "text": "Supervise UWW publication development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0102",
+      "text": "Supervise Fleet collective training support",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0119",
+      "text": "Supervise Torpedo handling system courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0125",
+      "text": "Supervise Torpedo Tube Assembly courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0131",
+      "text": "Supervise Towed Array System operation and maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0137",
+      "text": "Supervise Torpedo Decoy System operation and maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0143",
+      "text": "Supervise Hull Mounted Sonar System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0149",
+      "text": "Supervise Sonobuoy Processing System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0155",
+      "text": "Supervise Underwater Telephone System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00034",
+      "rank": "PO2",
+      "code": "FT0161",
+      "text": "Supervise Bathythermograph System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0017",
+      "text": "Supervise Victoria class Sonar suite system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0021",
+      "text": "Supervise ship noise, quiet states and noise monitoring organization instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0025",
+      "text": "Supervise Underwater telephone instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0028",
+      "text": "Supervise Hull Mounted Sonar (HMS) system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0031",
+      "text": "Supervise Sonobuoy processing system (SPS) instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0034",
+      "text": "Supervise Towed Array system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0037",
+      "text": "Supervise Target Motion Analysis (TMA) instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0040",
+      "text": "Supervise surface vessel torpedo tube (SVTT) weapon system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0044",
+      "text": "Supervise oceanography instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0047",
+      "text": "Supervise Combat Management System (CMS) instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0051",
+      "text": "Supervise Expendable Mobile ASW Training Target (EMATT) instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0054",
+      "text": "Supervise Bathythermograph/Expendable Sound Velocity instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0057",
+      "text": "Supervise UWW expendable instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0060",
+      "text": "Supervise sensors range prediction instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0063",
+      "text": "Supervise NIXIE instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0066",
+      "text": "Supervise Torpedo Detection and Tracking (TDT) instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0071",
+      "text": "Supervise ASW Tactics instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0074",
+      "text": "Supervise UWW messaging instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0079",
+      "text": "Supervise UWW intelligence gathering instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0087",
+      "text": "Supervise UWW weapons firing instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0089",
+      "text": "Supervise UWW weapons firing courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0091",
+      "text": "Supervise Simulator/Trainer system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0116",
+      "text": "Supervise Torpedo handling system courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0122",
+      "text": "Supervise Torpedo Tube Assembly courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0128",
+      "text": "Supervise Towed Array System operation and maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0134",
+      "text": "Supervise Torpedo Decoy System operation and maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0140",
+      "text": "Supervise Hull Mounted Sonar System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0146",
+      "text": "Supervise Sonobuoy Processing System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0152",
+      "text": "Supervise Underwater Telephone System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00035",
+      "rank": "PO2",
+      "code": "FT0158",
+      "text": "Supervise Bathythermograph System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "AT0007",
+      "text": "Manage sonar contact reporting activities",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "AT0009",
+      "text": "Manage surface vessel torpedo tube (SVTT) reporting",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "AT0013",
+      "text": "Manage the communication with external units",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "BT0006",
+      "text": "Manage Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "CT0025",
+      "text": "Manage acoustic sensors monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "CT0030",
+      "text": "Manage Marine Mammal Mitigation activities",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0004",
+      "text": "Manage noise control activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0009",
+      "text": "Manage mine detection activites",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0010",
+      "text": "Manage mine avoidance activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0015",
+      "text": "Manage Underwater warfare ship's defense",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0018",
+      "text": "Manage surface vessel torpedo tube (SVTT) weapon system",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0020",
+      "text": "Engage a target with surface vessel torpedo tube (SVTT) system (CMS)",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0021",
+      "text": "Report surface vessel torpedo tube (SVTT) engagement",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0024",
+      "text": "Manage Combat Management System (CMS) operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0027",
+      "text": "Manage Torpedo Detect and Track (TDT) operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0028",
+      "text": "Manage underwater warfare planning",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0030",
+      "text": "Manage underwater warfare activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "DT0033",
+      "text": "Manage Tactical picture",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "ET0006",
+      "text": "Manage acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0005",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0006",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0007",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0013",
+      "text": "Draft a Combat Systems (CS) Equipment trial agenda",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0014",
+      "text": "Draft an Equipment Transfer Request (TRAN REQ)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0015",
+      "text": "Manage TRAN REQs",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0016",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0020",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0021",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0023",
+      "text": "Manage Pre-sail checks",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0024",
+      "text": "Manage departmental Corrective Maintenance (CM) activities",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0025",
+      "text": "Manage departmental Planned Maintenance (PM) activities",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0026",
+      "text": "Manage departmental personnel readiness Report",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0027",
+      "text": "Manage a Technical Investigation",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0028",
+      "text": "Advise Command on Sonar equipment status",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0029",
+      "text": "Advise Command on Sonar maintenance priorities",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0030",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "HT0033",
+      "text": "Manage Lockout/Tagout policy",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00036",
+      "rank": "PO1",
+      "code": "IT0067",
+      "text": "Manage Sonar Equipment",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "AT0012",
+      "text": "Manage sonar reporting activities (Victoria class)",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "AT0013",
+      "text": "Manage the communication with external units",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "BT0014",
+      "text": "Manage Tactical information (Victoria class)",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "CT0030",
+      "text": "Manage Marine Mammal Mitigation activities",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "CT0056",
+      "text": "Manage contact identification activities (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "CT0057",
+      "text": "Manage sub-surface terrain identification activities (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "CT0059",
+      "text": "Manage sensors monitoring (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "CT0060",
+      "text": "Manage Target Motion Analysis (TMA) (Victoria class)",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "DT0004",
+      "text": "Manage noise control activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "DT0009",
+      "text": "Manage mine detection activites",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "DT0010",
+      "text": "Manage mine avoidance activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "DT0029",
+      "text": "Manage underwater weapon system (Victoria class)",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "DT0030",
+      "text": "Manage underwater warfare activities",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00037",
+      "rank": "PO1",
+      "code": "DT0033",
+      "text": "Manage Tactical picture",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "CT0094",
+      "text": "Manage Neptune/Venus arrays data monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "ET0006",
+      "text": "Manage acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "ET0014",
+      "text": "Manage Acoustic Intelligence (ACINT) analysis reporting",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "ET0015",
+      "text": "Manage Acoustic Intelligence (ACINT) analysis teams",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "ET0016",
+      "text": "Manage Acoustic Intelligence (ACINT) data classification",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "ET0020",
+      "text": "Manage acoustic equipment trials planning",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0013",
+      "text": "Manage Acoustic Analysis instruction (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0014",
+      "text": "Manage Passive aural analysis (PAL) instruction (ADAC)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0097",
+      "text": "Manage underwater warfare courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0114",
+      "text": "Manage ARIES Equipment instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0120",
+      "text": "Manage Torpedo handling system courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0126",
+      "text": "Manage Torpedo Tube Assembly courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0132",
+      "text": "Manage Towed Array System operation and maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0138",
+      "text": "Manage Torpedo Decoy System operation and maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0144",
+      "text": "Manage Hull Mounted Sonar System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0150",
+      "text": "Manage Sonobuoy Processing System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0156",
+      "text": "Manage Underwater Telephone System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00038",
+      "rank": "PO1",
+      "code": "FT0162",
+      "text": "Manage Bathythermograph System maintenance courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00039",
+      "rank": "PO1",
+      "code": "AT0007",
+      "text": "Manage sonar contact reporting activities",
+      "duty_area": "Duty Area A - COMMUNICATION"
+    },
+    {
+      "jobcode": "T00039",
+      "rank": "PO1",
+      "code": "BT0030",
+      "text": "Manage Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00039",
+      "rank": "PO1",
+      "code": "CT0065",
+      "text": "Manage Integrated Undersea Surveillance System monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00039",
+      "rank": "PO1",
+      "code": "DT0035",
+      "text": "Manage mobile assets employment",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00039",
+      "rank": "PO1",
+      "code": "DT0037",
+      "text": "Manage Integrated Undersea Surveillance System (IUSS) operations",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00039",
+      "rank": "PO1",
+      "code": "ET0006",
+      "text": "Manage acoustic intelligence (ACINT) data collection",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00039",
+      "rank": "PO1",
+      "code": "ET0014",
+      "text": "Manage Acoustic Intelligence (ACINT) analysis reporting",
+      "duty_area": "Duty Area E - ACOUSTIC DATA COLLECTION"
+    },
+    {
+      "jobcode": "T00040",
+      "rank": "PO1",
+      "code": "BT0033",
+      "text": "Manage SSS, ROV and AUV data collection reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00040",
+      "rank": "PO1",
+      "code": "BT0034",
+      "text": "Manage geological, geographic, geodetic and bathymetric support services",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00040",
+      "rank": "PO1",
+      "code": "CT0089",
+      "text": "Manage SBIS monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00040",
+      "rank": "PO1",
+      "code": "CT0090",
+      "text": "Manage SSS and UUV reporting",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00040",
+      "rank": "PO1",
+      "code": "DT0009",
+      "text": "Manage mine detection activites",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00041",
+      "rank": "PO1",
+      "code": "FT0095",
+      "text": "Manage UWW synthetic trainer support",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00042",
+      "rank": "PO1",
+      "code": "BT0001",
+      "text": "Report naval platform capabilities",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00042",
+      "rank": "PO1",
+      "code": "BT0024",
+      "text": "Manage UW platform intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00042",
+      "rank": "PO1",
+      "code": "BT0025",
+      "text": "Manage Naval intelligence assessment",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00042",
+      "rank": "PO1",
+      "code": "BT0026",
+      "text": "Manage Naval intelligence publication",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00042",
+      "rank": "PO1",
+      "code": "BT0030",
+      "text": "Manage Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0073",
+      "text": "Manage ASW Tactics courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0076",
+      "text": "Manage UWW messaging courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0078",
+      "text": "Manage UWW intelligence gathering courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0082",
+      "text": "Manage UWW exercise/mission preparation courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0084",
+      "text": "Manage UWW exercise/mission execution courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0086",
+      "text": "Manage UWW Tactics/plan courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0090",
+      "text": "Manage UWW weapons firing courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0097",
+      "text": "Manage underwater warfare courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0100",
+      "text": "Manage UWW publication development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00043",
+      "rank": "PO1",
+      "code": "FT0103",
+      "text": "Manage Fleet collective training support",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00044",
+      "rank": "PO1",
+      "code": "BT0030",
+      "text": "Manage Underwater Warfare intelligence reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00044",
+      "rank": "PO1",
+      "code": "BT0031",
+      "text": "Manage Operational Test and Evaluation (OT&E) reporting",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00044",
+      "rank": "PO1",
+      "code": "CT0075",
+      "text": "Manage Operational Test and Evaluation (OT&E) process",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00044",
+      "rank": "PO1",
+      "code": "DT0038",
+      "text": "Manage an UWW Operational Test and Evaluation (OT&E)",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00044",
+      "rank": "PO1",
+      "code": "FT0100",
+      "text": "Manage UWW publication development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00044",
+      "rank": "PO1",
+      "code": "FT0163",
+      "text": "Manage Underwater Warfare doctrine development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0001",
+      "text": "Manage Engineering Changes (EC)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0005",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0006",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0009",
+      "text": "Manage a PIF",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0010",
+      "text": "Draft a Statement of Work (SOW)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0012",
+      "text": "Manage a UCR",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0020",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0027",
+      "text": "Manage a Technical Investigation",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "HT0034",
+      "text": "Manage Equipment Technical Data",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00045",
+      "rank": "PO1",
+      "code": "IT0067",
+      "text": "Manage Sonar Equipment",
+      "duty_area": "Duty Area I - SONAR SYSTEMS MAINTENANCE"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0018",
+      "text": "Manage Victoria class Sonar suite system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0022",
+      "text": "Manage ship noise, quiet states and noise monitoring organization instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0041",
+      "text": "Manage surface vessel torpedo tube (SVTT) weapon system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0045",
+      "text": "Manage oceanography instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0048",
+      "text": "Manage Combat Management System (CMS) instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0072",
+      "text": "Manage ASW Tactics instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0075",
+      "text": "Manage UWW messaging instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0080",
+      "text": "Manage UWW intelligence gathering instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0081",
+      "text": "Manage UWW exercise/mission preparation instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0083",
+      "text": "Manage UWW exercise/mission execution instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0085",
+      "text": "Manage UWW Tactics/plan instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0088",
+      "text": "Manage UWW weapons firing instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0092",
+      "text": "Manage Simulator/Trainer system instruction",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0117",
+      "text": "Manage Torpedo handling system courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0123",
+      "text": "Manage Torpedo Tube Assembly courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0129",
+      "text": "Manage Towed Array System operation and maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0135",
+      "text": "Manage Torpedo Decoy System operation and maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0141",
+      "text": "Manage Hull Mounted Sonar System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0147",
+      "text": "Manage Sonobuoy Processing System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0153",
+      "text": "Manage Underwater Telephone System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00046",
+      "rank": "PO1",
+      "code": "FT0159",
+      "text": "Manage Bathythermograph System maintenance courseware",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00047",
+      "rank": "CPO2",
+      "code": "CT0076",
+      "text": "Advise on Marine Mammal Mitigation procedures",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00047",
+      "rank": "CPO2",
+      "code": "DT0039",
+      "text": "Advise Fleet Coast Combat Officer on Underwater Warfare",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00047",
+      "rank": "CPO2",
+      "code": "DT0041",
+      "text": "Advise Underwater warfare operational readiness of Maritime Forces",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00047",
+      "rank": "CPO2",
+      "code": "DT0042",
+      "text": "Advise Underwater warfare operations and exercises impacts",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00047",
+      "rank": "CPO2",
+      "code": "FT0110",
+      "text": "Manage Underwater warfare Combat Readiness Requirement (CRR)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00047",
+      "rank": "CPO2",
+      "code": "FT0111",
+      "text": "Manage UWW fleet collective training (DMT, CREST, AFT)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00048",
+      "rank": "CPO2",
+      "code": "BT0034",
+      "text": "Manage geological, geographic, geodetic and bathymetric support services",
+      "duty_area": "Duty Area B - UNDERWATER WARFARE INFORMATION"
+    },
+    {
+      "jobcode": "T00048",
+      "rank": "CPO2",
+      "code": "CT0089",
+      "text": "Manage SBIS monitoring",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00048",
+      "rank": "CPO2",
+      "code": "CT0090",
+      "text": "Manage SSS and UUV reporting",
+      "duty_area": "Duty Area C - ACOUSTIC OPERATION"
+    },
+    {
+      "jobcode": "T00048",
+      "rank": "CPO2",
+      "code": "DT0011",
+      "text": "Manage RCN mine counter measure operation",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00048",
+      "rank": "CPO2",
+      "code": "DT0012",
+      "text": "Advise route survey plan and Q-route",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00049",
+      "rank": "CPO2",
+      "code": "DT0040",
+      "text": "Advise Fleet Commanders on Underwater Warfare operations",
+      "duty_area": "Duty Area D - UNDERWATER WARFARE"
+    },
+    {
+      "jobcode": "T00049",
+      "rank": "CPO2",
+      "code": "FT0005",
+      "text": "Manage Sonar Op training needs analysis (TNA)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00050",
+      "rank": "CPO2",
+      "code": "FT0097",
+      "text": "Manage underwater warfare courseware development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00050",
+      "rank": "CPO2",
+      "code": "FT0099",
+      "text": "Supervise UWW publication development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00050",
+      "rank": "CPO2",
+      "code": "FT0104",
+      "text": "Coordinate occupational QSP writing boards",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00050",
+      "rank": "CPO2",
+      "code": "FT0105",
+      "text": "Manage occupational training development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00050",
+      "rank": "CPO2",
+      "code": "FT0106",
+      "text": "Advise on occupational prior learning assessment and recognition (PLAR) applications",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00050",
+      "rank": "CPO2",
+      "code": "FT0107",
+      "text": "Advise on occupational training needs analysis (TNA)",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00050",
+      "rank": "CPO2",
+      "code": "FT0108",
+      "text": "Advise on Naval Training System Requirements",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00051",
+      "rank": "CPO2",
+      "code": "HT0001",
+      "text": "Manage Engineering Changes (EC)",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00051",
+      "rank": "CPO2",
+      "code": "HT0005",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00051",
+      "rank": "CPO2",
+      "code": "HT0006",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00051",
+      "rank": "CPO2",
+      "code": "HT0009",
+      "text": "Manage a PIF",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00051",
+      "rank": "CPO2",
+      "code": "HT0012",
+      "text": "Manage a UCR",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00051",
+      "rank": "CPO2",
+      "code": "HT0020",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area H - TECHNICAL ADMINISTRATION"
+    },
+    {
+      "jobcode": "T00052",
+      "rank": "CPO2",
+      "code": "FT0098",
+      "text": "Develop UWW publication",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00052",
+      "rank": "CPO2",
+      "code": "FT0099",
+      "text": "Supervise UWW publication development",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00052",
+      "rank": "CPO2",
+      "code": "FT0109",
+      "text": "Manage underwater warfare sea units readiness",
+      "duty_area": "Duty Area F - TRAINING AND STANDARD"
+    },
+    {
+      "jobcode": "T00053",
+      "rank": "CPO2",
+      "code": "GT0004",
+      "text": "Advise on Sonar Operator career management",
+      "duty_area": "Duty Area G - PERSONNEL MANAGEMENT"
+    },
+    {
+      "jobcode": "T00054",
+      "rank": "CPO2",
+      "code": "GT0001",
+      "text": "Advise on Sonar Operator Personnel Generation Requirements",
+      "duty_area": "Duty Area G - PERSONNEL MANAGEMENT"
+    },
+    {
+      "jobcode": "T00054",
+      "rank": "CPO2",
+      "code": "GT0002",
+      "text": "Advise on Sonar Operator taskings / deployments",
+      "duty_area": "Duty Area G - PERSONNEL MANAGEMENT"
+    },
+    {
+      "jobcode": "T00054",
+      "rank": "CPO2",
+      "code": "GT0003",
+      "text": "Advise on Sonar Operator Professional Development requirements",
+      "duty_area": "Duty Area G - PERSONNEL MANAGEMENT"
+    }
+  ]
+}

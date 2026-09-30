@@ -1,0 +1,5088 @@
+{
+  "source_files": [
+    "Electromagnetic Warfare Specialist_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Electromagnetic Warfare Specialist_FlatJobTaskRequirements.json": "2314b30fe5bf93f51cb0e257b7dc8a4f"
+  },
+  "source_hash": "3530957fdb5d8ae704f818424893ee6b",
+  "tasks_metadata": [
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "AT0010",
+      "text": "Produce an electromagnetic order of battle (EOB)",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "AT0040",
+      "text": "Report on EW/sensing capabilities and limitations",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0010",
+      "text": "Maintain the EW stateboard",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0020",
+      "text": "Monitor electromagnetic spectrum (EMS) with Halifax Class (HFX)/Joint Support Ship (JSS) radar electromagnetic support measure (RESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0040",
+      "text": "Monitor electromagnetic spectrum (EMS) with HFX/JSS electronic intelligence (ELINT) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0080",
+      "text": "Monitor electromagnetic spectrum (EMS) with Global Situational Awareness (GSA) Integrated Broadcast System (IBS) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0110",
+      "text": "Identify an electromagnetic emission",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0120",
+      "text": "Collect electromagnetic emission with HFX/JSS ELINT systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0150",
+      "text": "Report on an electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0160",
+      "text": "Report on an ELINT collect",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0180",
+      "text": "Maintain unit emission control (EMCON) state",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0210",
+      "text": "Load/Unload HFX electromagnetic attack (EA) decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0010",
+      "text": "Flashup/Shutdown HFX/JSS RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0020",
+      "text": "Maintain HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0030",
+      "text": "Monitor HFX/JSS RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0040",
+      "text": "Identify HFX/JSS RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0050",
+      "text": "Repair HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0090",
+      "text": "Flashup/Shutdown HFX/JSS ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0110",
+      "text": "Monitor HFX/JSS ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0120",
+      "text": "Identify HFX/JSS ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0570",
+      "text": "Flashup/shutdown SOPD",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0590",
+      "text": "Monitor SOPD equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0600",
+      "text": "Identify SOPD equipment fault",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0650",
+      "text": "Monitor HFX EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0660",
+      "text": "Identify HFX EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0830",
+      "text": "Monitor HFX multi-functional workstation (MFW)/CMS 330 status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0840",
+      "text": "Identify HFX MFW/CMS 330 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510258",
+      "rank": "S2",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "AT0010",
+      "text": "Produce an electromagnetic order of battle (EOB)",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "AT0020",
+      "text": "Produce EW component of order of battle (OOB)/threat card",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "AT0040",
+      "text": "Report on EW/sensing capabilities and limitations",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "AT0050",
+      "text": "Report on unit EW, electro-optical (EO)/infrared (IR) and radar cross section (RCS) characteristics",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "AT0060",
+      "text": "Report on changes to the electromagnetic spectrum (EMS) based on atmospheric conditions",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "AT0070",
+      "text": "Report on changes of the electromagnetic spectrum (EMS) based on space weather",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Maintain the EW stateboard",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Monitor electromagnetic spectrum (EMS) with Halifax Class (HFX)/Joint Support Ship (JSS) radar electromagnetic support measure (RESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0040",
+      "text": "Monitor electromagnetic spectrum (EMS) with HFX/JSS electronic intelligence (ELINT) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0060",
+      "text": "Monitor electromagnetic spectrum (EMS) with HFX/JSS communication electromagnetic support measure (CESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Monitor electromagnetic spectrum (EMS) with Global Situational Awareness (GSA) Integrated Broadcast System (IBS) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0090",
+      "text": "Monitor electromagnetic spectrum (EMS) with common operating picture (COP) applications",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0110",
+      "text": "Identify an electromagnetic emission",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0120",
+      "text": "Collect electromagnetic emission with HFX/JSS ELINT systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0150",
+      "text": "Report on an electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0160",
+      "text": "Report on an ELINT collect",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0180",
+      "text": "Maintain unit emission control (EMCON) state",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0190",
+      "text": "Maintain unit deception operations",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0210",
+      "text": "Load/Unload HFX electromagnetic attack (EA) decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "CT0010",
+      "text": "Monitor electromagnetic battlespace management (EMBM)",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "CT0020",
+      "text": "Identify EM spectrum usage",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "CT0030",
+      "text": "Report on EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0010",
+      "text": "Flashup/Shutdown HFX/JSS RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0020",
+      "text": "Maintain HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0030",
+      "text": "Monitor HFX/JSS RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0040",
+      "text": "Identify HFX/JSS RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0050",
+      "text": "Repair HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0090",
+      "text": "Flashup/Shutdown HFX/JSS ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0100",
+      "text": "Maintain HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0110",
+      "text": "Monitor HFX/JSS ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0120",
+      "text": "Identify HFX/JSS ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0130",
+      "text": "Repair HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0410",
+      "text": "Flashup/Shutdown HFX/JSS CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0420",
+      "text": "Maintain HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0430",
+      "text": "Monitor HFX/JSS CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0440",
+      "text": "Identify HFX/JSS CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0450",
+      "text": "Repair HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0570",
+      "text": "Flashup/shutdown SOPD",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0580",
+      "text": "Maintain SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0590",
+      "text": "Monitor SOPD equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0600",
+      "text": "Identify SOPD equipment fault",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0610",
+      "text": "Repair SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0650",
+      "text": "Monitor HFX EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0660",
+      "text": "Identify HFX EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0710",
+      "text": "Flashup/Shutdown HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0720",
+      "text": "Maintain HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0730",
+      "text": "Monitor HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0740",
+      "text": "Identify HFX EA jamming equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0750",
+      "text": "Repair HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0830",
+      "text": "Monitor HFX multi-functional workstation (MFW)/CMS 330 status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0840",
+      "text": "Identify HFX MFW/CMS 330 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510262",
+      "rank": "S1",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510264",
+      "rank": "S1",
+      "code": "AT0040",
+      "text": "Report on EW/sensing capabilities and limitations",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510264",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Monitor electromagnetic spectrum (EMS) with Global Situational Awareness (GSA) Integrated Broadcast System (IBS) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510264",
+      "rank": "S1",
+      "code": "BT0110",
+      "text": "Identify an electromagnetic emission",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510264",
+      "rank": "S1",
+      "code": "BT0150",
+      "text": "Report on an electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510264",
+      "rank": "S1",
+      "code": "ET0110",
+      "text": "Support EW intelligence product production",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510264",
+      "rank": "S1",
+      "code": "ET0120",
+      "text": "Report on EW intelligence product production",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510265",
+      "rank": "S1",
+      "code": "ET0010",
+      "text": "Validate ELINT collects",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510265",
+      "rank": "S1",
+      "code": "ET0020",
+      "text": "Report on ELINT collection validation",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510265",
+      "rank": "S1",
+      "code": "ET0060",
+      "text": "Maintain naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510265",
+      "rank": "S1",
+      "code": "ET0070",
+      "text": "Report on naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0010",
+      "text": "Produce an electromagnetic order of battle (EOB)",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Produce EW component of order of battle (OOB)/threat card",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Lead unit EW estimate production",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0040",
+      "text": "Report on EW/sensing capabilities and limitations",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Report on unit EW, electro-optical (EO)/infrared (IR) and radar cross section (RCS) characteristics",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0060",
+      "text": "Report on changes to the electromagnetic spectrum (EMS) based on atmospheric conditions",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0070",
+      "text": "Report on changes of the electromagnetic spectrum (EMS) based on space weather",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "AT0080",
+      "text": "Lead unit EW estimate reporting",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0010",
+      "text": "Maintain the EW stateboard",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0020",
+      "text": "Monitor electromagnetic spectrum (EMS) with Halifax Class (HFX)/Joint Support Ship (JSS) radar electromagnetic support measure (RESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0040",
+      "text": "Monitor electromagnetic spectrum (EMS) with HFX/JSS electronic intelligence (ELINT) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0060",
+      "text": "Monitor electromagnetic spectrum (EMS) with HFX/JSS communication electromagnetic support measure (CESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0080",
+      "text": "Monitor electromagnetic spectrum (EMS) with Global Situational Awareness (GSA) Integrated Broadcast System (IBS) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0090",
+      "text": "Monitor electromagnetic spectrum (EMS) with common operating picture (COP) applications",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0100",
+      "text": "Lead unit electromagnetic support (ES)/electromagnetic protection (EP) monitoring",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0110",
+      "text": "Identify an electromagnetic emission",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0120",
+      "text": "Collect electromagnetic emission with HFX/JSS ELINT systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0140",
+      "text": "Lead electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0150",
+      "text": "Report on an electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Report on an ELINT collect",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0170",
+      "text": "Lead unit ES/EP reporting",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0180",
+      "text": "Maintain unit emission control (EMCON) state",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0190",
+      "text": "Maintain unit deception operations",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0200",
+      "text": "Lead unit electromagnetic protection (EP)",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0210",
+      "text": "Load/Unload HFX electromagnetic attack (EA) decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0240",
+      "text": "Defend ship against threat with HFX EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0260",
+      "text": "Lead unit defensive EA decoy readiness",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "BT0270",
+      "text": "Lead unit defensive EA decoy reporting",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "CT0010",
+      "text": "Monitor electromagnetic battlespace management (EMBM)",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "CT0020",
+      "text": "Identify EM spectrum usage",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "CT0030",
+      "text": "Report on EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "CT0040",
+      "text": "Lead unit EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "CT0050",
+      "text": "Lead unit EMBM reporting",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0010",
+      "text": "Flashup/Shutdown HFX/JSS RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0020",
+      "text": "Maintain HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0030",
+      "text": "Monitor HFX/JSS RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0040",
+      "text": "Identify HFX/JSS RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0050",
+      "text": "Repair HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0060",
+      "text": "Lead HFX/JSS RESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0070",
+      "text": "Lead HFX/JSS RESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0080",
+      "text": "Lead HFX/JSS RESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0090",
+      "text": "Flashup/Shutdown HFX/JSS ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0100",
+      "text": "Maintain HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0110",
+      "text": "Monitor HFX/JSS ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0120",
+      "text": "Identify HFX/JSS ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0130",
+      "text": "Repair HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0140",
+      "text": "Lead HFX/JSS ELINT maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0150",
+      "text": "Lead HFX/JSS ELINT equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0160",
+      "text": "Lead HFX/JSS ELINT repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0380",
+      "text": "Lead ES IBS maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0390",
+      "text": "Lead ES IBS equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0400",
+      "text": "Lead ES IBS repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0410",
+      "text": "Flashup/Shutdown HFX/JSS CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0420",
+      "text": "Maintain HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0430",
+      "text": "Monitor HFX/JSS CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0440",
+      "text": "Identify HFX/JSS CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0450",
+      "text": "Repair HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0460",
+      "text": "Lead HFX/JSS CESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0470",
+      "text": "Lead HFX/JSS CESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0480",
+      "text": "Lead HFX/JSS CESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0570",
+      "text": "Flashup/shutdown SOPD",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0580",
+      "text": "Maintain SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0590",
+      "text": "Monitor SOPD equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0600",
+      "text": "Identify SOPD equipment fault",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0610",
+      "text": "Repair SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0620",
+      "text": "Lead SOPD maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0630",
+      "text": "Lead SOPD equipment fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0640",
+      "text": "Lead SOPD repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0650",
+      "text": "Monitor HFX EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0660",
+      "text": "Identify HFX EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0670",
+      "text": "Lead HFX EA decoy equipment fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0710",
+      "text": "Flashup/Shutdown HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0720",
+      "text": "Maintain HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0730",
+      "text": "Monitor HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0740",
+      "text": "Identify HFX EA jamming equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0750",
+      "text": "Repair HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0760",
+      "text": "Lead HFX EA jamming equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0790",
+      "text": "Lead COP application fault identification for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0820",
+      "text": "Lead EW C2 fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0830",
+      "text": "Monitor HFX multi-functional workstation (MFW)/CMS 330 status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0840",
+      "text": "Identify HFX MFW/CMS 330 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510269",
+      "rank": "MS",
+      "code": "DT0880",
+      "text": "Lead EW equipment operational status reporting",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510270",
+      "rank": "MS",
+      "code": "ET0010",
+      "text": "Validate ELINT collects",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510270",
+      "rank": "MS",
+      "code": "ET0020",
+      "text": "Report on ELINT collection validation",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510270",
+      "rank": "MS",
+      "code": "ET0030",
+      "text": "Lead ELINT collection validation and reporting",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510270",
+      "rank": "MS",
+      "code": "ET0060",
+      "text": "Maintain naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510270",
+      "rank": "MS",
+      "code": "ET0070",
+      "text": "Report on naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510270",
+      "rank": "MS",
+      "code": "ET0080",
+      "text": "Lead naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510272",
+      "rank": "MS",
+      "code": "GT0010",
+      "text": "Instruct EW estimate",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510272",
+      "rank": "MS",
+      "code": "GT0020",
+      "text": "Instruct electromagnetic warfare (EW)",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510272",
+      "rank": "MS",
+      "code": "GT0030",
+      "text": "Instruct ELINT",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510272",
+      "rank": "MS",
+      "code": "GT0040",
+      "text": "Instruct electromagnetic battlespace management (EMBM)",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510272",
+      "rank": "MS",
+      "code": "GT0050",
+      "text": "Administer EW collective training (CT) certification examinations",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510272",
+      "rank": "MS",
+      "code": "GT0320",
+      "text": "Report on the quality of EW Sp individual training and education (IT&E)",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510272",
+      "rank": "MS",
+      "code": "GT0330",
+      "text": "Report on EW Sp student performance during IT&E",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510273",
+      "rank": "MS",
+      "code": "GT0250",
+      "text": "Lead EW synthetic trainer support",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510273",
+      "rank": "MS",
+      "code": "GT0320",
+      "text": "Report on the quality of EW Sp individual training and education (IT&E)",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "AT0090",
+      "text": "Supervise unit EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "AT0100",
+      "text": "Supervise TG EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0240",
+      "text": "Defend ship against threat with HFX EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0260",
+      "text": "Lead unit defensive EA decoy readiness",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0270",
+      "text": "Lead unit defensive EA decoy reporting",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0280",
+      "text": "Engage target with EA jamming",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0290",
+      "text": "Supervise unit EW onboard HFX/JSS",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0310",
+      "text": "Supervise TG EW onboard HFX/JSS",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "BT0330",
+      "text": "Supervise surface action group (SAG) EW onboard HFX/JSS",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "CT0060",
+      "text": "Supervise unit EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "CT0070",
+      "text": "Supervise TG EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "DT0890",
+      "text": "Supervise HFX/JSS EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "DT0900",
+      "text": "Supervise HFX/JSS EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "DT0910",
+      "text": "Supervise HFX/JSS EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "DT0950",
+      "text": "Supervise EW engineering changes (EC)",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "DT0960",
+      "text": "Supervise TG EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510276",
+      "rank": "PO2",
+      "code": "DT0970",
+      "text": "Supervise SAG EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510279",
+      "rank": "PO2",
+      "code": "ET0040",
+      "text": "Supervise ELINT collection validation and reporting",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510279",
+      "rank": "PO2",
+      "code": "ET0090",
+      "text": "Supervise naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510279",
+      "rank": "PO2",
+      "code": "ET0140",
+      "text": "Supervise naval EW operational test and evaluation (OT&E)",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0180",
+      "text": "Supervise EW estimate courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0190",
+      "text": "Supervise EW courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0200",
+      "text": "Supervise ELINT courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0210",
+      "text": "Supervise EMBM courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0220",
+      "text": "Supervise EW CT examination development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0280",
+      "text": "Supervise quality of EW Sp individual training and education (IT&E) performance",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0290",
+      "text": "Supervise the EW Sp qualification standard",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510281",
+      "rank": "PO2",
+      "code": "GT0320",
+      "text": "Report on the quality of EW Sp individual training and education (IT&E)",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510282",
+      "rank": "PO2",
+      "code": "GT0260",
+      "text": "Supervise EW synthetic trainer support",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510283",
+      "rank": "PO2",
+      "code": "ET0130",
+      "text": "Supervise maritime imagery analysis requirements",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "AT0110",
+      "text": "Manage unit EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "AT0120",
+      "text": "Manage TG EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "BT0350",
+      "text": "Manage unit EW",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "BT0360",
+      "text": "Manage TG EW",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "BT0370",
+      "text": "Manage SAG EW",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "CT0090",
+      "text": "Manage unit EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "CT0100",
+      "text": "Manage TG EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "CT0110",
+      "text": "Manage SAG EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT0990",
+      "text": "Manage HFX/JSS EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT1000",
+      "text": "Manage HFX/JSS EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT1010",
+      "text": "Manage HFX/JSS EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT1020",
+      "text": "Manage RCD EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT1030",
+      "text": "Manage RCD EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT1040",
+      "text": "Manage RCD EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT1050",
+      "text": "Manage EW engineering changes (EC)",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO1",
+      "code": "DT1060",
+      "text": "Manage SAG EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO2",
+      "code": "GT0060",
+      "text": "Supervise EW estimate instruction",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO2",
+      "code": "GT0070",
+      "text": "Supervise EW instruction",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO2",
+      "code": "GT0080",
+      "text": "Supervise ELINT instruction",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO2",
+      "code": "GT0090",
+      "text": "Supervise EMBM instruction",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510284",
+      "rank": "PO2",
+      "code": "GT0100",
+      "text": "Supervise EW CT examination grading",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510289",
+      "rank": "PO1",
+      "code": "ET0150",
+      "text": "Manage naval EW operational test and evaluation (OT&E)",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510289",
+      "rank": "PO1",
+      "code": "ET0160",
+      "text": "Manage EW doctrine development",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510290",
+      "rank": "PO1",
+      "code": "GT0270",
+      "text": "Manage EW synthetic trainer support",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510291",
+      "rank": "PO1",
+      "code": "GT0110",
+      "text": "Manage EW/ELINT/EMBM instruction",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510291",
+      "rank": "PO1",
+      "code": "GT0120",
+      "text": "Manage EW CT examination grading",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510292",
+      "rank": "PO1",
+      "code": "ET0050",
+      "text": "Manage ELINT collection validation and reporting",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510292",
+      "rank": "PO1",
+      "code": "ET0100",
+      "text": "Manage naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510292",
+      "rank": "PO1",
+      "code": "ET0150",
+      "text": "Manage naval EW operational test and evaluation (OT&E)",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510292",
+      "rank": "PO1",
+      "code": "ET0160",
+      "text": "Manage EW doctrine development",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510294",
+      "rank": "PO1",
+      "code": "GT0340",
+      "text": "Manage EW collective training program development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510294",
+      "rank": "PO1",
+      "code": "GT0350",
+      "text": "Manage EW performance during collective training programs",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510297",
+      "rank": "CPO2",
+      "code": "ET0050",
+      "text": "Manage ELINT collection validation and reporting",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510297",
+      "rank": "CPO2",
+      "code": "ET0100",
+      "text": "Manage naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510297",
+      "rank": "CPO2",
+      "code": "ET0150",
+      "text": "Manage naval EW operational test and evaluation (OT&E)",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510297",
+      "rank": "CPO2",
+      "code": "ET0160",
+      "text": "Manage EW doctrine development",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "510298",
+      "rank": "CPO2",
+      "code": "GT0300",
+      "text": "Manage quality of EW Sp individual training and education (IT&E) performance",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510298",
+      "rank": "CPO2",
+      "code": "GT0310",
+      "text": "Manage the EW Sp qualification standard",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510298",
+      "rank": "CPO2",
+      "code": "GT0320",
+      "text": "Report on the quality of EW Sp individual training and education (IT&E)",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "AT0110",
+      "text": "Manage unit EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "AT0120",
+      "text": "Manage TG EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "AT0130",
+      "text": "Manage fleet EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "BT0360",
+      "text": "Manage TG EW",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "BT0370",
+      "text": "Manage SAG EW",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "BT0380",
+      "text": "Manage EW fleet staff",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "CT0100",
+      "text": "Manage TG EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "CT0110",
+      "text": "Manage SAG EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "CT0120",
+      "text": "Manage fleet EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "DT0990",
+      "text": "Manage HFX/JSS EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "DT1000",
+      "text": "Manage HFX/JSS EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "DT1010",
+      "text": "Manage HFX/JSS EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "DT1020",
+      "text": "Manage RCD EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "DT1030",
+      "text": "Manage RCD EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "DT1060",
+      "text": "Manage SAG EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510300",
+      "rank": "CPO2",
+      "code": "DT1070",
+      "text": "Manage fleet EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "AT0140",
+      "text": "Manage operational level EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "BT0390",
+      "text": "Manage operational level EW",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "CT0130",
+      "text": "Manage operational level EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "DT1080",
+      "text": "Manage RCN EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "GT0340",
+      "text": "Manage EW collective training program development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "GT0340",
+      "text": "Manage EW collective training program development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "GT0350",
+      "text": "Manage EW performance during collective training programs",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "510302",
+      "rank": "CPO2",
+      "code": "GT0350",
+      "text": "Manage EW performance during collective training programs",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "AT0010",
+      "text": "Produce an electromagnetic order of battle (EOB)",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "AT0010",
+      "text": "Produce an electromagnetic order of battle (EOB)",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0010",
+      "text": "Produce an electromagnetic order of battle (EOB)",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "AT0020",
+      "text": "Produce EW component of order of battle (OOB)/threat card",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Produce EW component of order of battle (OOB)/threat card",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Lead unit EW estimate production",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "AT0040",
+      "text": "Report on EW/sensing capabilities and limitations",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "AT0040",
+      "text": "Report on EW/sensing capabilities and limitations",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0040",
+      "text": "Report on EW/sensing capabilities and limitations",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "AT0050",
+      "text": "Report on unit EW, electro-optical (EO)/infrared (IR) and radar cross section (RCS) characteristics",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0050",
+      "text": "Report on unit EW, electro-optical (EO)/infrared (IR) and radar cross section (RCS) characteristics",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "AT0060",
+      "text": "Report on changes to the electromagnetic spectrum (EMS) based on atmospheric conditions",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0060",
+      "text": "Report on changes to the electromagnetic spectrum (EMS) based on atmospheric conditions",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "AT0070",
+      "text": "Report on changes of the electromagnetic spectrum (EMS) based on space weather",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0070",
+      "text": "Report on changes of the electromagnetic spectrum (EMS) based on space weather",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "AT0080",
+      "text": "Lead unit EW estimate reporting",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "AT0090",
+      "text": "Supervise unit EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "AT0100",
+      "text": "Supervise TG EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "AT0140",
+      "text": "Manage operational level EW estimate",
+      "duty_area": "Duty Area\u00a0A - Electromagnetic Warfare (EW) Estimate"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Maintain the EW stateboard",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0010",
+      "text": "Maintain the EW stateboard",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0030",
+      "text": "Monitor electromagnetic spectrum (EMS) with River Class Destroyer (RCD) radar electromagnetic support measure (RESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0030",
+      "text": "Monitor electromagnetic spectrum (EMS) with River Class Destroyer (RCD) radar electromagnetic support measure (RESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0030",
+      "text": "Monitor electromagnetic spectrum (EMS) with River Class Destroyer (RCD) radar electromagnetic support measure (RESM) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0050",
+      "text": "Monitor electromagnetic spectrum (EMS) with RCD ELINT systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0050",
+      "text": "Monitor electromagnetic spectrum (EMS) with RCD ELINT systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0050",
+      "text": "Monitor electromagnetic spectrum (EMS) with RCD ELINT systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0070",
+      "text": "Monitor electromagnetic spectrum (EMS) with RCD CESM systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0070",
+      "text": "Monitor electromagnetic spectrum (EMS) with RCD CESM systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0080",
+      "text": "Monitor electromagnetic spectrum (EMS) with Global Situational Awareness (GSA) Integrated Broadcast System (IBS) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Monitor electromagnetic spectrum (EMS) with Global Situational Awareness (GSA) Integrated Broadcast System (IBS) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0080",
+      "text": "Monitor electromagnetic spectrum (EMS) with Global Situational Awareness (GSA) Integrated Broadcast System (IBS) systems",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0090",
+      "text": "Monitor electromagnetic spectrum (EMS) with common operating picture (COP) applications",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0090",
+      "text": "Monitor electromagnetic spectrum (EMS) with common operating picture (COP) applications",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0100",
+      "text": "Lead unit electromagnetic support (ES)/electromagnetic protection (EP) monitoring",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0110",
+      "text": "Identify an electromagnetic emission",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0110",
+      "text": "Identify an electromagnetic emission",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0110",
+      "text": "Identify an electromagnetic emission",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0130",
+      "text": "Collect electromagnetic emission with RCD ELINT system",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0130",
+      "text": "Collect electromagnetic emission with RCD ELINT system",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0130",
+      "text": "Collect electromagnetic emission with RCD ELINT system",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0140",
+      "text": "Lead electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0150",
+      "text": "Report on an electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0150",
+      "text": "Report on an electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0150",
+      "text": "Report on an electromagnetic emission identification",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0160",
+      "text": "Report on an ELINT collect",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0160",
+      "text": "Report on an ELINT collect",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Report on an ELINT collect",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0170",
+      "text": "Lead unit ES/EP reporting",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0180",
+      "text": "Maintain unit emission control (EMCON) state",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0180",
+      "text": "Maintain unit emission control (EMCON) state",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0180",
+      "text": "Maintain unit emission control (EMCON) state",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0190",
+      "text": "Maintain unit deception operations",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0190",
+      "text": "Maintain unit deception operations",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0200",
+      "text": "Lead unit electromagnetic protection (EP)",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0220",
+      "text": "Load/Unload RCD electromagnetic attack (EA) decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0220",
+      "text": "Load/Unload RCD electromagnetic attack (EA) decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0220",
+      "text": "Load/Unload RCD electromagnetic attack (EA) decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "BT0230",
+      "text": "Defend ship against threat with EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0250",
+      "text": "Defend ship against threat with RCD EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "BT0250",
+      "text": "Defend ship against threat with RCD EA decoys",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0260",
+      "text": "Lead unit defensive EA decoy readiness",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "BT0260",
+      "text": "Lead unit defensive EA decoy readiness",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "BT0270",
+      "text": "Lead unit defensive EA decoy reporting",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "BT0270",
+      "text": "Lead unit defensive EA decoy reporting",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "BT0300",
+      "text": "Supervise unit EW onboard RCD",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "BT0320",
+      "text": "Supervise TG EW onboard RCD",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "BT0340",
+      "text": "Supervise surface action group (SAG) EW onboard RCD",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "BT0390",
+      "text": "Manage operational level EW",
+      "duty_area": "Duty Area B - Electromagnetic Warfare"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "CT0010",
+      "text": "Monitor electromagnetic battlespace management (EMBM)",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "CT0010",
+      "text": "Monitor electromagnetic battlespace management (EMBM)",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "CT0020",
+      "text": "Identify EM spectrum usage",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "CT0020",
+      "text": "Identify EM spectrum usage",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "CT0030",
+      "text": "Report on EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "CT0030",
+      "text": "Report on EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "CT0040",
+      "text": "Lead unit EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "CT0050",
+      "text": "Lead unit EMBM reporting",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "CT0060",
+      "text": "Supervise unit EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "CT0070",
+      "text": "Supervise TG EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "CT0130",
+      "text": "Manage operational level EMBM",
+      "duty_area": "Duty Area C - Electromagnetic Battlespace Management (EMBM)"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0010",
+      "text": "Flashup/Shutdown HFX/JSS RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0010",
+      "text": "Flashup/Shutdown HFX/JSS RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0020",
+      "text": "Maintain HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0020",
+      "text": "Maintain HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0030",
+      "text": "Monitor HFX/JSS RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0030",
+      "text": "Monitor HFX/JSS RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0040",
+      "text": "Identify HFX/JSS RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0040",
+      "text": "Identify HFX/JSS RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0050",
+      "text": "Repair HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0050",
+      "text": "Repair HFX/JSS RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0060",
+      "text": "Lead HFX/JSS RESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0070",
+      "text": "Lead HFX/JSS RESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0080",
+      "text": "Lead HFX/JSS RESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0090",
+      "text": "Flashup/Shutdown HFX/JSS ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0090",
+      "text": "Flashup/Shutdown HFX/JSS ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0100",
+      "text": "Maintain HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0100",
+      "text": "Maintain HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0110",
+      "text": "Monitor HFX/JSS ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0110",
+      "text": "Monitor HFX/JSS ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0120",
+      "text": "Identify HFX/JSS ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0120",
+      "text": "Identify HFX/JSS ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0130",
+      "text": "Repair HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0130",
+      "text": "Repair HFX/JSS ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0140",
+      "text": "Lead HFX/JSS ELINT maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0150",
+      "text": "Lead HFX/JSS ELINT equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0160",
+      "text": "Lead HFX/JSS ELINT repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0170",
+      "text": "Flashup/Shutdown RCD RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0170",
+      "text": "Flashup/Shutdown RCD RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0170",
+      "text": "Flashup/Shutdown RCD RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0170",
+      "text": "Flashup/Shutdown RCD RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0170",
+      "text": "Flashup/Shutdown RCD RESM systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0180",
+      "text": "Maintain RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0180",
+      "text": "Maintain RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0180",
+      "text": "Maintain RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0180",
+      "text": "Maintain RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0180",
+      "text": "Maintain RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0190",
+      "text": "Monitor RCD RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0190",
+      "text": "Monitor RCD RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0190",
+      "text": "Monitor RCD RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0190",
+      "text": "Monitor RCD RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0190",
+      "text": "Monitor RCD RESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0200",
+      "text": "Identify RCD RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0200",
+      "text": "Identify RCD RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0200",
+      "text": "Identify RCD RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0200",
+      "text": "Identify RCD RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0200",
+      "text": "Identify RCD RESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0210",
+      "text": "Repair RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0210",
+      "text": "Repair RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0210",
+      "text": "Repair RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0210",
+      "text": "Repair RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0210",
+      "text": "Repair RCD RESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0220",
+      "text": "Lead RCD RESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0220",
+      "text": "Lead RCD RESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0230",
+      "text": "Lead RCD RESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0230",
+      "text": "Lead RCD RESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0240",
+      "text": "Lead RCD RESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0240",
+      "text": "Lead RCD RESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0250",
+      "text": "Flashup/Shutdown RCD ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0250",
+      "text": "Flashup/Shutdown RCD ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0250",
+      "text": "Flashup/Shutdown RCD ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0250",
+      "text": "Flashup/Shutdown RCD ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0250",
+      "text": "Flashup/Shutdown RCD ELINT systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0260",
+      "text": "Maintain RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0260",
+      "text": "Maintain RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0260",
+      "text": "Maintain RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0260",
+      "text": "Maintain RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0270",
+      "text": "Monitor RCD ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0270",
+      "text": "Monitor RCD ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0270",
+      "text": "Monitor RCD ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0270",
+      "text": "Monitor RCD ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0270",
+      "text": "Monitor RCD ELINT equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0280",
+      "text": "Identify RCD ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0280",
+      "text": "Identify RCD ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0280",
+      "text": "Identify RCD ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0280",
+      "text": "Identify RCD ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0280",
+      "text": "Identify RCD ELINT equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0290",
+      "text": "Repair RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0290",
+      "text": "Repair RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0290",
+      "text": "Repair RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0290",
+      "text": "Repair RCD ELINT equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0300",
+      "text": "Lead RCD ELINT maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0300",
+      "text": "Lead RCD ELINT maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0310",
+      "text": "Lead RCD ELINT equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0310",
+      "text": "Lead RCD ELINT equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0320",
+      "text": "Lead RCD ELINT repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0320",
+      "text": "Lead RCD ELINT repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0330",
+      "text": "Flashup/Shutdown ESM IBS systems",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0340",
+      "text": "Maintain ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0350",
+      "text": "Monitor ESM IBS equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0360",
+      "text": "Identify ESM IBS equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0370",
+      "text": "Repair ESM IBS equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0380",
+      "text": "Lead ES IBS maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0380",
+      "text": "Lead ES IBS maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0380",
+      "text": "Lead ES IBS maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0390",
+      "text": "Lead ES IBS equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0390",
+      "text": "Lead ES IBS equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0390",
+      "text": "Lead ES IBS equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0400",
+      "text": "Lead ES IBS repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0400",
+      "text": "Lead ES IBS repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0400",
+      "text": "Lead ES IBS repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0410",
+      "text": "Flashup/Shutdown HFX/JSS CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0410",
+      "text": "Flashup/Shutdown HFX/JSS CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0420",
+      "text": "Maintain HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0420",
+      "text": "Maintain HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0430",
+      "text": "Monitor HFX/JSS CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0430",
+      "text": "Monitor HFX/JSS CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0440",
+      "text": "Identify HFX/JSS CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0440",
+      "text": "Identify HFX/JSS CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0450",
+      "text": "Repair HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0450",
+      "text": "Repair HFX/JSS CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0460",
+      "text": "Lead HFX/JSS CESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0470",
+      "text": "Lead HFX/JSS CESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0480",
+      "text": "Lead HFX/JSS CESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0490",
+      "text": "Flashup/Shutdown RCD CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0490",
+      "text": "Flashup/Shutdown RCD CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0490",
+      "text": "Flashup/Shutdown RCD CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0490",
+      "text": "Flashup/Shutdown RCD CESM system",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0500",
+      "text": "Maintain RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0500",
+      "text": "Maintain RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0500",
+      "text": "Maintain RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0500",
+      "text": "Maintain RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0510",
+      "text": "Monitor RCD CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0510",
+      "text": "Monitor RCD CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0510",
+      "text": "Monitor RCD CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0510",
+      "text": "Monitor RCD CESM equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0520",
+      "text": "Identify RCD CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0520",
+      "text": "Identify RCD CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0520",
+      "text": "Identify RCD CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0520",
+      "text": "Identify RCD CESM equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0530",
+      "text": "Repair RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0530",
+      "text": "Repair RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0530",
+      "text": "Repair RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0530",
+      "text": "Repair RCD CESM equipment and software",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0540",
+      "text": "Lead RCD CESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0540",
+      "text": "Lead RCD CESM maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0550",
+      "text": "Lead RCD CESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0550",
+      "text": "Lead RCD CESM equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0560",
+      "text": "Lead RCD CESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0560",
+      "text": "Lead RCD CESM repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0570",
+      "text": "Flashup/shutdown SOPD",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0570",
+      "text": "Flashup/shutdown SOPD",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0580",
+      "text": "Maintain SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0580",
+      "text": "Maintain SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0590",
+      "text": "Monitor SOPD equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0590",
+      "text": "Monitor SOPD equipment performance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0600",
+      "text": "Identify SOPD equipment fault",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0600",
+      "text": "Identify SOPD equipment fault",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0610",
+      "text": "Repair SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0610",
+      "text": "Repair SOPD equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0620",
+      "text": "Lead SOPD maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0630",
+      "text": "Lead SOPD equipment fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0640",
+      "text": "Lead SOPD repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0650",
+      "text": "Monitor HFX EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0650",
+      "text": "Monitor HFX EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0660",
+      "text": "Identify HFX EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0660",
+      "text": "Identify HFX EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0670",
+      "text": "Lead HFX EA decoy equipment fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0680",
+      "text": "Monitor RCD EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0680",
+      "text": "Monitor RCD EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0680",
+      "text": "Monitor RCD EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0680",
+      "text": "Monitor RCD EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0680",
+      "text": "Monitor RCD EA decoy equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0690",
+      "text": "Identify RCD EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0690",
+      "text": "Identify RCD EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0690",
+      "text": "Identify RCD EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0690",
+      "text": "Identify RCD EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0690",
+      "text": "Identify RCD EA decoy equipment faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0700",
+      "text": "Lead RCD EA decoy equipment identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0700",
+      "text": "Lead RCD EA decoy equipment identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0710",
+      "text": "Flashup/Shutdown HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0710",
+      "text": "Flashup/Shutdown HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0720",
+      "text": "Maintain HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0720",
+      "text": "Maintain HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0730",
+      "text": "Monitor HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0730",
+      "text": "Monitor HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0740",
+      "text": "Identify HFX EA jamming equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0740",
+      "text": "Identify HFX EA jamming equipment and software faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0750",
+      "text": "Repair HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0750",
+      "text": "Repair HFX EA jamming equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0760",
+      "text": "Lead HFX EA jamming equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0770",
+      "text": "Monitor COP application status for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0780",
+      "text": "Identify COP application faults for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0790",
+      "text": "Lead COP application fault identification for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0790",
+      "text": "Lead COP application fault identification for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0790",
+      "text": "Lead COP application fault identification for EW operations",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0800",
+      "text": "Monitor EW command and control (C2) status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0810",
+      "text": "Identify EW C2 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0820",
+      "text": "Lead EW C2 fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0820",
+      "text": "Lead EW C2 fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0820",
+      "text": "Lead EW C2 fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0830",
+      "text": "Monitor HFX multi-functional workstation (MFW)/CMS 330 status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0830",
+      "text": "Monitor HFX multi-functional workstation (MFW)/CMS 330 status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0840",
+      "text": "Identify HFX MFW/CMS 330 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0840",
+      "text": "Identify HFX MFW/CMS 330 faults",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0850",
+      "text": "Monitor RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0850",
+      "text": "Monitor RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0850",
+      "text": "Monitor RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0850",
+      "text": "Monitor RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0850",
+      "text": "Monitor RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0860",
+      "text": "Identify RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0860",
+      "text": "Identify RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0860",
+      "text": "Identify RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0860",
+      "text": "Identify RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0860",
+      "text": "Identify RCD MFW/AEGIS console status",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S2",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0870",
+      "text": "Report on operational status of EW equipment",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0880",
+      "text": "Lead EW equipment operational status reporting",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0880",
+      "text": "Lead EW equipment operational status reporting",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "DT0880",
+      "text": "Lead EW equipment operational status reporting",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0890",
+      "text": "Supervise HFX/JSS EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0900",
+      "text": "Supervise HFX/JSS EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0910",
+      "text": "Supervise HFX/JSS EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0920",
+      "text": "Supervise RCD EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0920",
+      "text": "Supervise RCD EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0930",
+      "text": "Supervise RCD EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0930",
+      "text": "Supervise RCD EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0940",
+      "text": "Supervise RCD EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0940",
+      "text": "Supervise RCD EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0950",
+      "text": "Supervise EW engineering changes (EC)",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0950",
+      "text": "Supervise EW engineering changes (EC)",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0950",
+      "text": "Supervise EW engineering changes (EC)",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0960",
+      "text": "Supervise TG EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0970",
+      "text": "Supervise SAG EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0980",
+      "text": "Supervise fleet EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "DT0980",
+      "text": "Supervise fleet EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT0990",
+      "text": "Manage HFX/JSS EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1000",
+      "text": "Manage HFX/JSS EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1010",
+      "text": "Manage HFX/JSS EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1020",
+      "text": "Manage RCD EW equipment and software fault identification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1030",
+      "text": "Manage RCD EW equipment maintenance",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1040",
+      "text": "Manage RCD EW equipment repair",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1050",
+      "text": "Manage EW engineering changes (EC)",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1050",
+      "text": "Manage EW engineering changes (EC)",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1070",
+      "text": "Manage fleet EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1070",
+      "text": "Manage fleet EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "DT1080",
+      "text": "Manage RCN EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "DT1080",
+      "text": "Manage RCN EW equipment status verification",
+      "duty_area": "Duty Area D - EW Maintenance and Repair"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "ET0010",
+      "text": "Validate ELINT collects",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "ET0010",
+      "text": "Validate ELINT collects",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "ET0020",
+      "text": "Report on ELINT collection validation",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "ET0020",
+      "text": "Report on ELINT collection validation",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "ET0030",
+      "text": "Lead ELINT collection validation and reporting",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "ET0040",
+      "text": "Supervise ELINT collection validation and reporting",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "ET0060",
+      "text": "Maintain naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "ET0060",
+      "text": "Maintain naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "S1",
+      "code": "ET0070",
+      "text": "Report on naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "ET0070",
+      "text": "Report on naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "ET0080",
+      "text": "Lead naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "ET0090",
+      "text": "Supervise naval EW reprogramming",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "ET0140",
+      "text": "Supervise naval EW operational test and evaluation (OT&E)",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "ET0150",
+      "text": "Manage naval EW operational test and evaluation (OT&E)",
+      "duty_area": "Duty Area E - EW Reprogramming, Intelligence, and Doctrine"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "FT0010",
+      "text": "Manage naval EW policy",
+      "duty_area": "Duty Area F - Strategic EW"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "FT0020",
+      "text": "Manage naval EW readiness",
+      "duty_area": "Duty Area F - Strategic EW"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "FT0030",
+      "text": "Manage naval EW project requirements",
+      "duty_area": "Duty Area F - Strategic EW"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "GT0130",
+      "text": "Develop EW estimate courseware",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "GT0140",
+      "text": "Develop EW courseware",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "GT0150",
+      "text": "Develop ELINT courseware",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "GT0160",
+      "text": "Develop EMBM courseware",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "GT0170",
+      "text": "Develop EW CT certification examinations",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "GT0180",
+      "text": "Supervise EW estimate courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "GT0190",
+      "text": "Supervise EW courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "GT0200",
+      "text": "Supervise ELINT courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "GT0210",
+      "text": "Supervise EMBM courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO2",
+      "code": "GT0220",
+      "text": "Supervise EW CT examination development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "GT0230",
+      "text": "Manage EW/ELINT/EMBM courseware development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "PO1",
+      "code": "GT0240",
+      "text": "Manage EW CT certification examination development",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "GT0300",
+      "text": "Manage quality of EW Sp individual training and education (IT&E) performance",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "GT0310",
+      "text": "Manage the EW Sp qualification standard",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "MS",
+      "code": "GT0320",
+      "text": "Report on the quality of EW Sp individual training and education (IT&E)",
+      "duty_area": "Duty Area G - Training and Standards"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "HT0010",
+      "text": "Advise on EW Sp personnel generation requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "HT0020",
+      "text": "Advise on EW Sp force employment requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "HT0030",
+      "text": "Advise on EW Sp professional development requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "HT0040",
+      "text": "Manage EW Sp career path",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "HT0050",
+      "text": "Advise on EW Sp career management",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "Unk",
+      "rank": "CPO2",
+      "code": "HT0050",
+      "text": "Advise on EW Sp career management",
+      "duty_area": "Duty Area H - Personnel Management"
+    }
+  ]
+}

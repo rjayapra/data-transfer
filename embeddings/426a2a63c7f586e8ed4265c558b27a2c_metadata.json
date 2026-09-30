@@ -1,0 +1,1385 @@
+{
+  "source_files": [
+    "Naval Warfare Officer_NWO-IW_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Naval Warfare Officer_NWO-IW_FlatJobTaskRequirements.json": "3bb1c91805d52eb7e12f79b9b035bd23"
+  },
+  "source_hash": "426a2a63c7f586e8ed4265c558b27a2c",
+  "tasks_metadata": [
+    {
+      "jobcode": "1",
+      "rank": "Captain(N)",
+      "code": "HT0720",
+      "text": "Direct the RCN IW Strategy",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Captain(N)",
+      "code": "HT0920",
+      "text": "Direct a defensive cyber operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Lieutenant Commander",
+      "code": "HT0980",
+      "text": "Determine the quality of METOC reports",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Lieutenant Commander",
+      "code": "HT1000",
+      "text": "Manage METOC input to the Common Operating Picture (COP)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Lieutenant Commander",
+      "code": "HT1260",
+      "text": "Report on the functional status of HMCS TRINITY",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0690",
+      "text": "Manage the Formation C4I capabilities",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0700",
+      "text": "Manage the Formation IRC",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0710",
+      "text": "Advise on Allied IW policy & doctrine",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0730",
+      "text": "Determine the quality of RCN MIW policy",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0750",
+      "text": "Determine the quality of a Fleet operational security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0760",
+      "text": "Determine the quality of a Fleet emissions security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0780",
+      "text": "Determine the quality of a Fleet network security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0790",
+      "text": "Determine the quality of a network security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0800",
+      "text": "Determine the quality of MIW doctrine & TTP",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0890",
+      "text": "Determine the quality of AC2 Doctrine & TTP",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "HT0900",
+      "text": "Determine the quality of AC2 Policy",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0020",
+      "text": "Review a Naval operational capability deficiency",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0030",
+      "text": "Plan to resolve a capability deficiency",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0040",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0050",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0060",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0070",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0080",
+      "text": "Draft a Statement of Work (SoW)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0090",
+      "text": "Advise on contractual requirements",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0100",
+      "text": "Draft a Request for Information (RFI)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0110",
+      "text": "Draft bid evaluation criteria",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0120",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0130",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0140",
+      "text": "Report on the operational suitability of a Contractor's proposal",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0150",
+      "text": "Draft a task for a contract",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0160",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0170",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0180",
+      "text": "Advise on a contractor's claim",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0220",
+      "text": "Report on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0230",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0240",
+      "text": "Advise on contract change",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0250",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0260",
+      "text": "Advise on DND project management publications",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0270",
+      "text": "Advise on DND project lifecycle / approval",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0280",
+      "text": "Draft project documentation",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0290",
+      "text": "Advise on project documentation",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0300",
+      "text": "Advise on a Sustainment Business Case Analysis (SBCA)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0310",
+      "text": "Draft a project's Gender Based Analysis+ (GBA+)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0320",
+      "text": "Draft a Statement of Operational Requirements (SOR)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0330",
+      "text": "Draft a project's High Level Mandatory Requirements (HLMRs)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0340",
+      "text": "Draft a project\u2019s Objectives and Key Results (OKRs)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0350",
+      "text": "Draft project performance metrics / indicators",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0360",
+      "text": "Draft a Responsible, Accountable, Consulted, Informed (RACI) chart",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0370",
+      "text": "Draft a project's stakeholder management plan",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0380",
+      "text": "Advise on a project's Work Breakdown Structure",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0390",
+      "text": "Manage a project's scope",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0400",
+      "text": "Draft a project's schedule",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0410",
+      "text": "Manage a project's schedule",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0420",
+      "text": "Draft a project's financial forecast",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0430",
+      "text": "Advise on a project's financial forecast",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0440",
+      "text": "Manage a project's budget",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0450",
+      "text": "Draft a project risk assessment",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0460",
+      "text": "Manage project's risks and opportunities",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "12",
+      "rank": "Lieutenant Commander",
+      "code": "KT0470",
+      "text": "Advise on the quality of a Contractor's project management deliverables",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "CT0070",
+      "text": "Manage maritime tactical reporting",
+      "duty_area": "Duty Area C - WARRIOR"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "CT0070",
+      "text": "Manage maritime tactical reporting",
+      "duty_area": "Duty Area C - WARRIOR"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0030",
+      "text": "Advise on Operation in the Information Environment (OIE) and strategic communications effects",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0030",
+      "text": "Advise on Operation in the Information Environment (OIE) and strategic communications effects",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0560",
+      "text": "Manage Ship's Information Related Capabilities (IRC)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0570",
+      "text": "Manage Ship's C4I capabilities",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0580",
+      "text": "Manage Ship's Cyber Security",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0600",
+      "text": "Manage River-Class IRC",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0620",
+      "text": "Manage River-Class C4I Capabilities",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0640",
+      "text": "Manage River-Class Cyber Security",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0650",
+      "text": "Plan the collection of SIGINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0650",
+      "text": "Plan the collection of SIGINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0660",
+      "text": "Plan the collection of ELINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "16",
+      "rank": "Lieutenant Commander",
+      "code": "HT0660",
+      "text": "Plan the collection of ELINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0670",
+      "text": "Manage the Fleet C4I capabilities",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0680",
+      "text": "Manage the Fleet IRC",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0820",
+      "text": "Advise on Naval fires and effects",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0830",
+      "text": "Manage a Fleet Information Warfare Operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0840",
+      "text": "Advise on the employment of IW assets",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0850",
+      "text": "Manage a Fleet Defensive Cyber Operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0860",
+      "text": "Report on the Fleet Tactical Situation (TACSIT)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0870",
+      "text": "Manage OIE planning and assessment",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT0880",
+      "text": "Manage a NetOp",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT1110",
+      "text": "Manage a ELINT collection operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT1130",
+      "text": "Manage a SIGINT collection operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT1150",
+      "text": "Determine the quality of EMSO Doctrine & TTP",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "HT1160",
+      "text": "Determine the quality of EMSO orders",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "CT0040",
+      "text": "Lead maritime tactical reporting",
+      "duty_area": "Duty Area C - WARRIOR"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0010",
+      "text": "Advise on the release and disclosure of classified information",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0020",
+      "text": "Advise on Maritime domain effectors",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0030",
+      "text": "Advise on Operation in the Information Environment (OIE) and strategic communications effects",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0040",
+      "text": "Advise on the Common Operating Picture",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0050",
+      "text": "Draft a Ship's emission security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0060",
+      "text": "Draft a Ship's network security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0070",
+      "text": "Draft a Ship's operational security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0110",
+      "text": "Lead a Space Support mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0120",
+      "text": "Lead a CIMIC mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0130",
+      "text": "Lead a deception mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0140",
+      "text": "Lead a defensive cyber operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0150",
+      "text": "Lead a Maritime response to a cyber incident",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0160",
+      "text": "Lead a naval cooperation and guidance of shipping mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0170",
+      "text": "Lead a psychological operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0180",
+      "text": "Lead a strategic/public communications mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0190",
+      "text": "Lead an engagement in the information enviornment",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0200",
+      "text": "Lead an information knowledge management plan",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0210",
+      "text": "Lead an intellgence evolution",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0220",
+      "text": "Lead an OIE assessment",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0230",
+      "text": "Lead the Intelligence Requirements for a mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0240",
+      "text": "Lead The Ship's Joint Targeting Cycle",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0250",
+      "text": "Lead Maritime ISR",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0260",
+      "text": "Lead a Ship's IW maritime evaluation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0270",
+      "text": "Report on ship's IW tiered readiness",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0280",
+      "text": "Draft the Ship's Schedule",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0290",
+      "text": "Draft a Ship's MTB Brief",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0650",
+      "text": "Plan the collection of SIGINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "28",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0660",
+      "text": "Plan the collection of ELINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0350",
+      "text": "Lead Meteorology and Oceanography (METOC) input to the common operating picture (COP)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0360",
+      "text": "Draft METOC reports",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Commander",
+      "code": "HT0740",
+      "text": "Advise on RCN MIW policy",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Commander",
+      "code": "HT0810",
+      "text": "Manage MIW doctrine & TTP",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Commander",
+      "code": "HT0910",
+      "text": "Advise on a Naval cyber mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0970",
+      "text": "Draft Meterology and Oceanography (METOC) reports",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0990",
+      "text": "Advise on METOC",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Commander",
+      "code": "HT0990",
+      "text": "Advise on METOC",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Commander",
+      "code": "HT1010",
+      "text": "Advise on Maritime Domain Awareness",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "CT0040",
+      "text": "Lead maritime tactical reporting",
+      "duty_area": "Duty Area C - WARRIOR"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0010",
+      "text": "Advise on the release and disclosure of classified information",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0020",
+      "text": "Advise on Maritime domain effectors",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0030",
+      "text": "Advise on Operation in the Information Environment (OIE) and strategic communications effects",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0040",
+      "text": "Advise on the Common Operating Picture",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0080",
+      "text": "Draft a River-class emission security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0090",
+      "text": "Draft a River-class network security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0100",
+      "text": "Draft a River-class operational security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0110",
+      "text": "Lead a Space Support mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0120",
+      "text": "Lead a CIMIC mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0130",
+      "text": "Lead a deception mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0140",
+      "text": "Lead a defensive cyber operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0150",
+      "text": "Lead a Maritime response to a cyber incident",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0160",
+      "text": "Lead a naval cooperation and guidance of shipping mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0170",
+      "text": "Lead a psychological operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0180",
+      "text": "Lead a strategic/public communications mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0190",
+      "text": "Lead an engagement in the information enviornment",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0200",
+      "text": "Lead an information knowledge management plan",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0210",
+      "text": "Lead an intellgence evolution",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0220",
+      "text": "Lead an OIE assessment",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0230",
+      "text": "Lead the Intelligence Requirements for a mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0240",
+      "text": "Lead The Ship's Joint Targeting Cycle",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0250",
+      "text": "Lead Maritime ISR",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0260",
+      "text": "Lead a Ship's IW maritime evaluation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0270",
+      "text": "Report on ship's IW tiered readiness",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0280",
+      "text": "Draft the Ship's Schedule",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0290",
+      "text": "Draft a Ship's MTB Brief",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0650",
+      "text": "Plan the collection of SIGINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0660",
+      "text": "Plan the collection of ELINT",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1030",
+      "text": "Determine the quality of RCN integrated fire Policy",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1040",
+      "text": "Manage a naval coordination and guidance of shipping mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1050",
+      "text": "Determine the quality of a targeting order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1060",
+      "text": "Manage a psychological operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1070",
+      "text": "Manage a deception mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1080",
+      "text": "Manage a CIMIC mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1090",
+      "text": "Manage a Strat/Public Communications mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1180",
+      "text": "Manage a space support mission",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1200",
+      "text": "Manage an engagement in the OIE",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1220",
+      "text": "Manage a TAA/IEA",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1230",
+      "text": "Advise on a special operation in the OIE",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "4",
+      "rank": "Lieutenant Commander",
+      "code": "HT1240",
+      "text": "Advise on a offensive cyber operation in the OIE",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "5",
+      "rank": "Lieutenant Commander",
+      "code": "HT0900",
+      "text": "Determine the quality of AC2 Policy",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "5",
+      "rank": "Lieutenant Commander",
+      "code": "HT0930",
+      "text": "Manage a fleet defensive cyber operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "5",
+      "rank": "Lieutenant Commander",
+      "code": "HT0940",
+      "text": "Manage a fleet response to a cyber threat",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "5",
+      "rank": "Lieutenant Commander",
+      "code": "HT0950",
+      "text": "Manage the defence against a cyber attack",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "5",
+      "rank": "Lieutenant Commander",
+      "code": "HT0960",
+      "text": "Manage a Joint Cyber Operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "5",
+      "rank": "Lieutenant (Navy)",
+      "code": "OT0110",
+      "text": "Instruct on Maritime Information Warfare",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0300",
+      "text": "Lead the Formation C4I capabities",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0310",
+      "text": "Lead Fleet C4I capabilities",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0320",
+      "text": "Lead a network operation (NetOp)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0330",
+      "text": "Lead a Fleeet defensive cyber operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0340",
+      "text": "Lead a fleet defensive cyber readiness activity",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0370",
+      "text": "Plan a MOC surveillance operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0380",
+      "text": "Lead a Target Audience Analysis and Information Envorinmental Assessment (TAA/IEA)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0390",
+      "text": "Advise on MOC Information Effects Management (IEM) planning",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0400",
+      "text": "Advise on IW input to the MOC targeting cycle",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0410",
+      "text": "Draft IW input to a tactical targeting mission plan",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0420",
+      "text": "Lead a MOC Electromagnetic Spectrum Operation (EMSO)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0430",
+      "text": "Draft an EMSO plan",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0440",
+      "text": "Lead tactical EM spectrum management",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0450",
+      "text": "Lead Command and Control in a Denied or Degreaded Envorinment (C2D2E) planning",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0460",
+      "text": "Lead the Ship's response to electromagnetic interference (EMI)",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0470",
+      "text": "Advise on Maritime IW",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0480",
+      "text": "Draft RCN MIW policy",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0490",
+      "text": "Draft Maritime IW doctrine & TTP",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0500",
+      "text": "Draft a Formation network security order",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0510",
+      "text": "Advise on an offensive cyber operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0520",
+      "text": "Lead a Fleet Communications Security (COMSEC) operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0530",
+      "text": "Report on Fleet COMSEC readiness",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0540",
+      "text": "Lead a Joint Cyber Operation",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant (Navy)",
+      "code": "HT0550",
+      "text": "Defend against a Fleet Cyber attack",
+      "duty_area": "Duty Area H - Information Warfare"
+    },
+    {
+      "jobcode": "7",
+      "rank": "Lieutenant Commander",
+      "code": "HT1010",
+      "text": "Advise on Maritime Domain Awareness",
+      "duty_area": "Duty Area H - Information Warfare"
+    }
+  ]
+}

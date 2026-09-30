@@ -1,0 +1,3184 @@
+{
+  "source_files": [
+    "Weapons Specialist_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Weapons Specialist_FlatJobTaskRequirements.json": "2a4185ec6ee782831cbc9b833310646b"
+  },
+  "source_hash": "0f92ff71cb5f180585b42b6f6525d8c1",
+  "tasks_metadata": [
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0170",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S1",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0170",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0170",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Draft DRMIS Notifications",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0170",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0180",
+      "text": "Lead work period maintenance requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "AT0380",
+      "text": "Lead Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0030",
+      "text": "Lead HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0060",
+      "text": "Lead HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0090",
+      "text": "Lead HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0120",
+      "text": "Lead CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0190",
+      "text": "Lead the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0260",
+      "text": "Lead the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "MS",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "MS",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Draft DRMIS Notifications",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0170",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0180",
+      "text": "Lead work period maintenance requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "AT0380",
+      "text": "Lead Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0030",
+      "text": "Lead HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0060",
+      "text": "Lead HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0090",
+      "text": "Lead HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0120",
+      "text": "Lead CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0190",
+      "text": "Lead the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0260",
+      "text": "Lead the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0300",
+      "text": "Maintain a torpedo log book",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0310",
+      "text": "Maintain a missile log book",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "MS",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Draft DRMIS Notifications",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0170",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0180",
+      "text": "Lead work period maintenance requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "AT0380",
+      "text": "Lead Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0030",
+      "text": "Lead HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0060",
+      "text": "Lead HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0090",
+      "text": "Lead HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0120",
+      "text": "Lead CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0190",
+      "text": "Lead the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0260",
+      "text": "Lead the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "MS",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Draft DRMIS Notifications",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0170",
+      "text": "Draft work period maintenance requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0180",
+      "text": "Lead work period maintenance requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0210",
+      "text": "Monitor CS equipment (Tech of the Watch)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0240",
+      "text": "Draft Personnel Aloft chit (CF 2145)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0380",
+      "text": "Lead Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0010",
+      "text": "Report on a Hazardous Materials (HAZMAT) incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0020",
+      "text": "Maintain HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0030",
+      "text": "Lead HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0050",
+      "text": "Maintain HAZMAT Safety Data Sheets (SDS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0060",
+      "text": "Lead HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0080",
+      "text": "Cleanup a HAZMAT spill",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0090",
+      "text": "Lead HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0120",
+      "text": "Lead CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0190",
+      "text": "Lead the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0250",
+      "text": "Dispose of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0260",
+      "text": "Lead the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0320",
+      "text": "Maintain ammunition data cards (CF 1040)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Draft Defence Resource Management Information system (DRMIS) Work Orders",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0030",
+      "text": "Draft DRMIS Notifications",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0370",
+      "text": "Maintain Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0380",
+      "text": "Lead Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "BT0150",
+      "text": "Maintain Test Equipment Maintenance Management Information system (TEMMIS)",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "BT0160",
+      "text": "Lead TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "AT0040",
+      "text": "Draft DRMIS Notification of Defects (ND)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "AT0080",
+      "text": "Draft a Pre Installation Failure (PIF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "AT0110",
+      "text": "Draft a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "AT0190",
+      "text": "Supervise work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "AT0390",
+      "text": "Supervise Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0040",
+      "text": "Supervise HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0070",
+      "text": "Supervise HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0100",
+      "text": "Supervise a HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0130",
+      "text": "Supervise CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0170",
+      "text": "Supervise TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0200",
+      "text": "Supervise the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0220",
+      "text": "Supervise loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0230",
+      "text": "Manage loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0270",
+      "text": "Supervise the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0280",
+      "text": "Manage the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0290",
+      "text": "Manage Ammunition administration and accounting",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0330",
+      "text": "Manage ammunition data cards",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0340",
+      "text": "Manage Ammunition Waivers",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0350",
+      "text": "Manage net explosive quantities onboard",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0360",
+      "text": "Manage ammunition Stowage Free From Explosive requirements",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0370",
+      "text": "Manage the ammunition safety program",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00013",
+      "rank": "PO2",
+      "code": "BT0400",
+      "text": "Manage ammunition inspections",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "AT0040",
+      "text": "Draft DRMIS Notification of Defects (ND)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "AT0080",
+      "text": "Draft a Pre Installation Failure (PIF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "AT0110",
+      "text": "Draft a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "AT0190",
+      "text": "Supervise work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "AT0390",
+      "text": "Supervise Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0040",
+      "text": "Supervise HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0070",
+      "text": "Supervise HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0100",
+      "text": "Supervise a HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0130",
+      "text": "Supervise CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0170",
+      "text": "Supervise TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0200",
+      "text": "Supervise the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0220",
+      "text": "Supervise loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0230",
+      "text": "Manage loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0270",
+      "text": "Supervise the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0280",
+      "text": "Manage the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0290",
+      "text": "Manage Ammunition administration and accounting",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0330",
+      "text": "Manage ammunition data cards",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0340",
+      "text": "Manage Ammunition Waivers",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0350",
+      "text": "Manage net explosive quantities onboard",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0360",
+      "text": "Manage ammunition Stowage Free From Explosive requirements",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0370",
+      "text": "Manage the ammunition safety program",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "PO2",
+      "code": "BT0400",
+      "text": "Manage ammunition inspections",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "AT0040",
+      "text": "Draft DRMIS Notification of Defects (ND)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "AT0080",
+      "text": "Draft a Pre Installation Failure (PIF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "AT0110",
+      "text": "Draft a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "AT0190",
+      "text": "Supervise work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "AT0390",
+      "text": "Supervise Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0040",
+      "text": "Supervise HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0070",
+      "text": "Supervise HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0100",
+      "text": "Supervise a HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0130",
+      "text": "Supervise CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0170",
+      "text": "Supervise TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0200",
+      "text": "Supervise the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0220",
+      "text": "Supervise loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0230",
+      "text": "Manage loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0270",
+      "text": "Supervise the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0280",
+      "text": "Manage the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0290",
+      "text": "Manage Ammunition administration and accounting",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0330",
+      "text": "Manage ammunition data cards",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0340",
+      "text": "Manage Ammunition Waivers",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0350",
+      "text": "Manage net explosive quantities onboard",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0360",
+      "text": "Manage ammunition Stowage Free From Explosive requirements",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0370",
+      "text": "Manage the ammunition safety program",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00015",
+      "rank": "PO2",
+      "code": "BT0400",
+      "text": "Manage ammunition inspections",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "AT0040",
+      "text": "Draft DRMIS Notification of Defects (ND)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "AT0080",
+      "text": "Draft a Pre Installation Failure (PIF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "AT0110",
+      "text": "Draft a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "AT0190",
+      "text": "Supervise work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "AT0390",
+      "text": "Supervise Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0040",
+      "text": "Supervise HAZMAT Storage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0070",
+      "text": "Supervise HAZMAT SDS",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0100",
+      "text": "Supervise a HAZMAT Cleanup",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0130",
+      "text": "Supervise CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0170",
+      "text": "Supervise TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0200",
+      "text": "Supervise the handling of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0220",
+      "text": "Supervise loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0230",
+      "text": "Manage loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0270",
+      "text": "Supervise the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0280",
+      "text": "Manage the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0290",
+      "text": "Manage Ammunition administration and accounting",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0330",
+      "text": "Manage ammunition data cards",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0340",
+      "text": "Manage Ammunition Waivers",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0350",
+      "text": "Manage net explosive quantities onboard",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0360",
+      "text": "Manage ammunition Stowage Free From Explosive requirements",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0370",
+      "text": "Manage the ammunition safety program",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "PO2",
+      "code": "BT0400",
+      "text": "Manage ammunition inspections",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "PO2",
+      "code": "AT0040",
+      "text": "Draft DRMIS Notification of Defects (ND)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "PO2",
+      "code": "AT0080",
+      "text": "Draft a Pre Installation Failure (PIF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "PO2",
+      "code": "AT0110",
+      "text": "Draft a Unsatisfactory Condition Report (UCR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "PO2",
+      "code": "AT0390",
+      "text": "Supervise Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "PO2",
+      "code": "BT0170",
+      "text": "Supervise TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0050",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0060",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0130",
+      "text": "Draft a Combat Systems (CS) Equipment trial agenda",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0140",
+      "text": "Draft an Equipment Transfer Request (TRAN REQ)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0150",
+      "text": "Manage TRAN REQs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0220",
+      "text": "Manage the status of CS equipment",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0260",
+      "text": "Manage Pre-sail checks",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0270",
+      "text": "Manage departmental Corrective Maintenance (CM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0280",
+      "text": "Manage departmental Planned Maintenance (PM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0290",
+      "text": "Manage CS suite level trials on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0300",
+      "text": "Manage CS suite level Inspections on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0360",
+      "text": "Advise Command on Power Isolation requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "AT0400",
+      "text": "Manage Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Manage response to a HAZMAT incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "BT0140",
+      "text": "Manage CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00018",
+      "rank": "PO1",
+      "code": "BT0410",
+      "text": "Manage Loading/Unloading of Weapon Systems",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0220",
+      "text": "Manage the status of CS equipment",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0260",
+      "text": "Manage Pre-sail checks",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0270",
+      "text": "Manage departmental Corrective Maintenance (CM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0280",
+      "text": "Manage departmental Planned Maintenance (PM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0290",
+      "text": "Manage CS suite level trials on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0300",
+      "text": "Manage CS suite level Inspections on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0360",
+      "text": "Advise Command on Power Isolation requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "AT0400",
+      "text": "Manage Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Manage response to a HAZMAT incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "BT0140",
+      "text": "Manage CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "PO1",
+      "code": "BT0410",
+      "text": "Manage Loading/Unloading of Weapon Systems",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0050",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0060",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0130",
+      "text": "Draft a Combat Systems (CS) Equipment trial agenda",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0140",
+      "text": "Draft an Equipment Transfer Request (TRAN REQ)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0150",
+      "text": "Manage TRAN REQs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0220",
+      "text": "Manage the status of CS equipment",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0260",
+      "text": "Manage Pre-sail checks",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0270",
+      "text": "Manage departmental Corrective Maintenance (CM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0280",
+      "text": "Manage departmental Planned Maintenance (PM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0290",
+      "text": "Manage CS suite level trials on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0300",
+      "text": "Manage CS suite level Inspections on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0360",
+      "text": "Advise Command on Power Isolation requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "AT0400",
+      "text": "Manage Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Manage response to a HAZMAT incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "BT0140",
+      "text": "Manage CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "PO1",
+      "code": "BT0410",
+      "text": "Manage Loading/Unloading of Weapon Systems",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0050",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0060",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0130",
+      "text": "Draft a Combat Systems (CS) Equipment trial agenda",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0140",
+      "text": "Draft an Equipment Transfer Request (TRAN REQ)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0150",
+      "text": "Manage TRAN REQs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0220",
+      "text": "Manage the status of CS equipment",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0260",
+      "text": "Manage Pre-sail checks",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0270",
+      "text": "Manage departmental Corrective Maintenance (CM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0280",
+      "text": "Manage departmental Planned Maintenance (PM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0290",
+      "text": "Manage CS suite level trials on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0300",
+      "text": "Manage CS suite level Inspections on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0360",
+      "text": "Advise Command on Power Isolation requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "AT0400",
+      "text": "Manage Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Manage response to a HAZMAT incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "BT0140",
+      "text": "Manage CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "PO1",
+      "code": "BT0410",
+      "text": "Manage Loading/Unloading of Weapon Systems",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0050",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0060",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0130",
+      "text": "Draft a Combat Systems (CS) Equipment trial agenda",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0140",
+      "text": "Draft an Equipment Transfer Request (TRAN REQ)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0150",
+      "text": "Manage TRAN REQs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0220",
+      "text": "Manage the status of CS equipment",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0260",
+      "text": "Manage Pre-sail checks",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0270",
+      "text": "Manage departmental Corrective Maintenance (CM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0280",
+      "text": "Manage departmental Planned Maintenance (PM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0290",
+      "text": "Manage CS suite level trials on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0300",
+      "text": "Manage CS suite level Inspections on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0360",
+      "text": "Advise Command on Power Isolation requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "AT0400",
+      "text": "Manage Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Manage response to a HAZMAT incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "BT0140",
+      "text": "Manage CS Emergency Response",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "PO1",
+      "code": "BT0410",
+      "text": "Manage Loading/Unloading of Weapon Systems",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0050",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0060",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0100",
+      "text": "Draft a Statement of Work (SOW)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0270",
+      "text": "Manage departmental Corrective Maintenance (CM) activities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0290",
+      "text": "Manage CS suite level trials on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0300",
+      "text": "Manage CS suite level Inspections on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "AT0400",
+      "text": "Manage Lockout/Tagout policy",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "BT0110",
+      "text": "Manage response to a HAZMAT incident",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "BT0180",
+      "text": "Manage TEMMIS Equipment Maintenance",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO1",
+      "code": "BT0410",
+      "text": "Manage Loading/Unloading of Weapon Systems",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0240",
+      "text": "Monitor the loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0270",
+      "text": "Supervise the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0280",
+      "text": "Manage the Disposal of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0290",
+      "text": "Manage Ammunition administration and accounting",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0330",
+      "text": "Manage ammunition data cards",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0340",
+      "text": "Manage Ammunition Waivers",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0350",
+      "text": "Manage net explosive quantities onboard",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0360",
+      "text": "Manage ammunition Stowage Free From Explosive requirements",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0370",
+      "text": "Manage the ammunition safety program",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0380",
+      "text": "Advise on the design of shipboard Ammunition Stowage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0390",
+      "text": "Advise on all ammunition related matters",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO1",
+      "code": "BT0400",
+      "text": "Manage ammunition inspections",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0010",
+      "text": "Manage Engineering Changes (EC)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0050",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0060",
+      "text": "Manage DRMIS logistical demands",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0090",
+      "text": "Manage a PIF",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0100",
+      "text": "Draft a Statement of Work (SOW)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0120",
+      "text": "Manage a UCR",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0410",
+      "text": "Manage Equipment Technical Data",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0420",
+      "text": "Manage obsolescence",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0430",
+      "text": "Manage CS equipment procurement",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "AT0470",
+      "text": "Advise on contract development",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "BT0380",
+      "text": "Advise on the design of shipboard Ammunition Stowage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO1",
+      "code": "BT0390",
+      "text": "Advise on all ammunition related matters",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0310",
+      "text": "Manage departmental personnel readiness Report",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0320",
+      "text": "Manage a Technical Investigation",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "CPO2",
+      "code": "AT0410",
+      "text": "Manage Equipment Technical Data",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0310",
+      "text": "Manage departmental personnel readiness Report",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0320",
+      "text": "Manage a Technical Investigation",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00027",
+      "rank": "CPO2",
+      "code": "AT0410",
+      "text": "Manage Equipment Technical Data",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0230",
+      "text": "Manage Shipboard Combat Readiness Requirement progress (CRR)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0250",
+      "text": "Manage Personnel Aloft chit",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0310",
+      "text": "Manage departmental personnel readiness Report",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0320",
+      "text": "Manage a Technical Investigation",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0330",
+      "text": "Advise Command on CS equipment Status",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0340",
+      "text": "Advise Command on CS maintenance priorities",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00028",
+      "rank": "CPO2",
+      "code": "AT0410",
+      "text": "Manage Equipment Technical Data",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0010",
+      "text": "Manage Engineering Changes (EC)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0050",
+      "text": "Manage DRMIS NDs",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0070",
+      "text": "Manage Maintenance Work Periods",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0090",
+      "text": "Manage a PIF",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0100",
+      "text": "Draft a Statement of Work (SOW)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0160",
+      "text": "Manage Operational Deficiency Messages (OPDEF)",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0200",
+      "text": "Manage work period maintenance",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0290",
+      "text": "Manage CS suite level trials on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0300",
+      "text": "Manage CS suite level Inspections on board",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0320",
+      "text": "Manage a Technical Investigation",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0350",
+      "text": "Advise on fleet technical readiness requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0410",
+      "text": "Manage Equipment Technical Data",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0420",
+      "text": "Manage obsolescence",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0430",
+      "text": "Manage CS equipment procurement",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0440",
+      "text": "Manage Technical Service requests",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0450",
+      "text": "Manage engineering project requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0460",
+      "text": "Manage training standards",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00029",
+      "rank": "CPO2",
+      "code": "AT0470",
+      "text": "Advise on contract development",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00030",
+      "rank": "CPO2",
+      "code": "AT0350",
+      "text": "Advise on fleet technical readiness requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00030",
+      "rank": "CPO2",
+      "code": "AT0460",
+      "text": "Manage training standards",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00030",
+      "rank": "CPO2",
+      "code": "BT0290",
+      "text": "Manage Ammunition administration and accounting",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00030",
+      "rank": "CPO2",
+      "code": "BT0390",
+      "text": "Advise on all ammunition related matters",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0240",
+      "text": "Monitor the loading/unloading of ammunition/explosives",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0290",
+      "text": "Manage Ammunition administration and accounting",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0340",
+      "text": "Manage Ammunition Waivers",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0350",
+      "text": "Manage net explosive quantities onboard",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0360",
+      "text": "Manage ammunition Stowage Free From Explosive requirements",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0370",
+      "text": "Manage the ammunition safety program",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0380",
+      "text": "Advise on the design of shipboard Ammunition Stowage",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0390",
+      "text": "Advise on all ammunition related matters",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00031",
+      "rank": "CPO2",
+      "code": "BT0400",
+      "text": "Manage ammunition inspections",
+      "duty_area": "Duty Area B - Safety and Ammunition"
+    },
+    {
+      "jobcode": "T00032",
+      "rank": "CPO2",
+      "code": "AT0350",
+      "text": "Advise on fleet technical readiness requirements",
+      "duty_area": "Duty Area A - Technical Administration"
+    },
+    {
+      "jobcode": "T00032",
+      "rank": "CPO2",
+      "code": "AT0460",
+      "text": "Manage training standards",
+      "duty_area": "Duty Area A - Technical Administration"
+    }
+  ]
+}

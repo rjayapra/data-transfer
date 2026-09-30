@@ -1,0 +1,2204 @@
+{
+  "source_files": [
+    "Naval Warfare Officer_NWO-USW_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Naval Warfare Officer_NWO-USW_FlatJobTaskRequirements.json": "64da30c38ad5c99ef4f1ee7e3a6b000e"
+  },
+  "source_hash": "0831b11c87dc105ec4b2098190a2bfa2",
+  "tasks_metadata": [
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0020",
+      "text": "Manage a dive team during an intermediate underwater search",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0040",
+      "text": "Manage a dive team during a jetty sweep",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0060",
+      "text": "Manage a dive team during a basic IWMAR mission",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0080",
+      "text": "Manage a dive team during a complex IWMAR mission",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0110",
+      "text": "Advise on a diving risk assessment",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0140",
+      "text": "Manage an advanced explosive ordnance disposal (EOD) mission",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0160",
+      "text": "Manage an advanced underwater demolition mission",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0200",
+      "text": "Manage a mine countermeasure (MCM) mission",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0220",
+      "text": "Manage a remote minhunting and disposal system team during a mine countermeasure mission (MCM)",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0240",
+      "text": "Manage a UUS detachment during an IWMAR mission",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0410",
+      "text": "Manage an expeditionary team's materiel readiness",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0420",
+      "text": "Manage an expeditionary team's personnel readiness",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "LT0430",
+      "text": "Manage an expeditionary team's combat readiness",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0300",
+      "text": "Report on quality of CLDO occupational performance",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0530",
+      "text": "Communicate using a contact block report",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0540",
+      "text": "Communicate using the situation, assessment, intentions, & priorities format",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0550",
+      "text": "Present documents and correspondence with supporting references and control measures",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0560",
+      "text": "Identify unsatisfactory conditions in equipment and capabilities",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0570",
+      "text": "Identify operational capablity deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0580",
+      "text": "Identify training capability deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0590",
+      "text": "Identify upcoming watch requirements",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0600",
+      "text": "Review doctrine, TTP, & orders",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0610",
+      "text": "Attend pre-watch and pre-serial briefings",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0620",
+      "text": "Plan the scheme of manoeuver of a watch",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0630",
+      "text": "Verify machinery state, maintainence, and training requirements",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0640",
+      "text": "Verify the threat, tactical situation, status of consorts, and operations training requirements",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0650",
+      "text": "Verify readiness of boats, equipment, and exterior state of the ship",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0660",
+      "text": "Verify primary, alternate, contingency, and emergency communication systems",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0670",
+      "text": "Verify physical logs and records",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0680",
+      "text": "Verify digital logs and recording systems",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0690",
+      "text": "Verify bridge equipment servicability",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0700",
+      "text": "Establish charge of The Ship",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0710",
+      "text": "Stand-to the Bridge Watch",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0720",
+      "text": "Draft a scheme of manoeuver",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0730",
+      "text": "Draft an order",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0740",
+      "text": "Draft an in-service support request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0750",
+      "text": "Draft a request for effect",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0760",
+      "text": "Draft a request for information",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0770",
+      "text": "Draft a prevention of mutual interference request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0780",
+      "text": "Draft an information brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0790",
+      "text": "Draft a decision brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0800",
+      "text": "Draft a mission brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0810",
+      "text": "Determine the quality of an order",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0820",
+      "text": "Determine the quality of an in-service support request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0830",
+      "text": "Determine the quality of a request for effect",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0840",
+      "text": "Determine the quality of a request for information",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0850",
+      "text": "Determine the quality of a prevention of mutual interference request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0860",
+      "text": "Determine the quality of an information brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0870",
+      "text": "Determine the quality of a decision brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0880",
+      "text": "Determine the quality of a mission brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0890",
+      "text": "Present a brief with supporting material",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0900",
+      "text": "Present an oral brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0910",
+      "text": "Identify fixing points visually from a navigation chart",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0920",
+      "text": "Identify fixing points for RADAR from a navigation chart",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0930",
+      "text": "Plot fixing points on a paper navigation chart",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0940",
+      "text": "Plot fixing points in a Warship Electronic Chart Display and Information System",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0950",
+      "text": "Calculate tide and current",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0960",
+      "text": "Calculate Course to Maintain PIM",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0970",
+      "text": "Calculate Course to Regain PIM",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0980",
+      "text": "Identify Visual fixing points",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT0990",
+      "text": "Identify RADAR fixing points",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1000",
+      "text": "Identify Fathometer fixing points",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1010",
+      "text": "FIX the position of THE SHIP in WECDIS",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1020",
+      "text": "FIX the position of THE SHIP on paper charts",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1030",
+      "text": "Identify errors in Navigation Equipment",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1040",
+      "text": "Identify vessel type",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1050",
+      "text": "Identify Risk of Collision",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1060",
+      "text": "Calculate manoeuvering requirements to mitigate Risk of Collision",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1070",
+      "text": "Calculate Speed Required",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1080",
+      "text": "Calculate Speed Made Good",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1090",
+      "text": "Visually Lookout to identify navigational hazards",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1100",
+      "text": "Audibly Lookout to identify navigational hazards",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1110",
+      "text": "Determine most accurate position source in WECDIS",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1120",
+      "text": "Evaluate DGPS Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1130",
+      "text": "Evaluate Fathometer Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1140",
+      "text": "Evaluate Gyro Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1150",
+      "text": "Evaluate RADAR Index Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1160",
+      "text": "Evaluate RADAR Azimuth Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1170",
+      "text": "Determine Safe Speed",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1180",
+      "text": "Manoeuver the ship with conning orders",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1190",
+      "text": "Evaluate Radar Image Overlay in WECDIS",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1200",
+      "text": "Calculate minimum depth for navigation",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1210",
+      "text": "Calculate visual clearing bearings for navigation",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1220",
+      "text": "Calculate Parallel Indicies on RADAR for navigation",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1230",
+      "text": "Tune Gain, Sea, and Rain on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1240",
+      "text": "Hook contacts on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1250",
+      "text": "Evaluate contacts on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1260",
+      "text": "Plan Trial Geometry on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1270",
+      "text": "Supervise PPE of HMG crew",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1280",
+      "text": "Order HMG crew to stand-to",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1290",
+      "text": "Order HMG crew to relax",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1300",
+      "text": "Order HMG crew to stand down",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1310",
+      "text": "Secure the HMG crew",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1320",
+      "text": "Draft Firing Orders for HMG firing exercise",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1330",
+      "text": "Brief safe firing procedures and exercise conduct for HMG firing exercise",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1340",
+      "text": "Maintain visual lookout of firing area for HMG firing exercise",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1350",
+      "text": "Designate targets for HMG crew",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1360",
+      "text": "Order HMG engagement with deliberate procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1370",
+      "text": "Order HMG engagement with warning shot procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1380",
+      "text": "Order HMG engagement with alarm procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1390",
+      "text": "Order HMG load procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1400",
+      "text": "Order HMG unload & clear gun procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1410",
+      "text": "Order HMG to make safe",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1420",
+      "text": "Order HMG to unload hot barrel",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1430",
+      "text": "Conduct pre-fire checks on HMG",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1440",
+      "text": "Conduct post-fire cleaning of HMG",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1450",
+      "text": "Conduct inspection of HMG mount",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1460",
+      "text": "Observe fall of shot and determine corrections",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1470",
+      "text": "Visually identify allied air order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1480",
+      "text": "Visually identify allied surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1490",
+      "text": "Visually identify allied sub-surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1500",
+      "text": "Visually identify non-allied air order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1510",
+      "text": "Visually identify non-allied surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1520",
+      "text": "Visually identify non-allied sub-surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1530",
+      "text": "Determine the proximity of a threat",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1540",
+      "text": "Determine the capability of a threat",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1550",
+      "text": "Review indications and warnings",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1560",
+      "text": "Identify hostile intent",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1570",
+      "text": "Escalate non-lethal force",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1580",
+      "text": "Escalate lethal force",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1590",
+      "text": "Communicate with morse code using an aldis lamp",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1600",
+      "text": "Communicate with signal flags",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1610",
+      "text": "Communicate with VHF/International maritime mobile",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1620",
+      "text": "Communicate with UHF/HF using Allied voice procedures and brevity code words",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1630",
+      "text": "Authenticate voice communications over a UHF/HF radio",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1640",
+      "text": "Communicate with an encrypted voice network",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1650",
+      "text": "Communicate with the main broadcast",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1660",
+      "text": "Communicate with an internal communication system",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1670",
+      "text": "Communicate with a portible radio system",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1680",
+      "text": "Communicate with a sound-powered telephone",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "0",
+      "rank": "Lieutenant Commander",
+      "code": "OT1690",
+      "text": "Communicate with an underwater telephone",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Commander",
+      "code": "OT0550",
+      "text": "Present documents and correspondence with supporting references and control measures",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Commander",
+      "code": "OT0560",
+      "text": "Identify unsatisfactory conditions in equipment and capabilities",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Commander",
+      "code": "OT0570",
+      "text": "Identify operational capablity deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "1",
+      "rank": "Commander",
+      "code": "OT0580",
+      "text": "Identify training capability deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0020",
+      "text": "Review a Naval operational capability deficiency",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0030",
+      "text": "Plan to resolve a capability deficiency",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0040",
+      "text": "Advise on DND contracting and procurement publications",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0050",
+      "text": "Advise on a requisition for the procurement of goods / services",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0060",
+      "text": "Advise on a Procurement Plan",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0070",
+      "text": "Advise on Indigenous procurement considerations",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0080",
+      "text": "Draft a Statement of Work (SoW)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0090",
+      "text": "Advise on contractual requirements",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0100",
+      "text": "Draft a Request for Information (RFI)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0110",
+      "text": "Draft bid evaluation criteria",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0120",
+      "text": "Advise on a Request for Proposal (RFP)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0130",
+      "text": "Advise on preparation for / conduct of bid evaluation",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0140",
+      "text": "Report on the operational suitability of a Contractor's proposal",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0150",
+      "text": "Draft a task for a contract",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0160",
+      "text": "Advise on contractual task authorization",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0170",
+      "text": "Report on the progress of contracted work",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0180",
+      "text": "Advise on a contractor's claim",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0220",
+      "text": "Report on the quality of goods / services received under a contractual agreement",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0230",
+      "text": "Advise on contract dispute resolution",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0240",
+      "text": "Advise on contract change",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0250",
+      "text": "Advise on contract close-out",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0260",
+      "text": "Advise on DND project management publications",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0270",
+      "text": "Advise on DND project lifecycle / approval",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0280",
+      "text": "Draft project documentation",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0290",
+      "text": "Advise on project documentation",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0300",
+      "text": "Advise on a Sustainment Business Case Analysis (SBCA)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0310",
+      "text": "Draft a project's Gender Based Analysis+ (GBA+)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0320",
+      "text": "Draft a Statement of Operational Requirements (SOR)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0330",
+      "text": "Draft a project's High Level Mandatory Requirements (HLMRs)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0340",
+      "text": "Draft a project\u2019s Objectives and Key Results (OKRs)",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0350",
+      "text": "Draft project performance metrics / indicators",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0360",
+      "text": "Draft a Responsible, Accountable, Consulted, Informed (RACI) chart",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0370",
+      "text": "Draft a project's stakeholder management plan",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0380",
+      "text": "Advise on a project's Work Breakdown Structure",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0390",
+      "text": "Manage a project's scope",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0400",
+      "text": "Draft a project's schedule",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0410",
+      "text": "Manage a project's schedule",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0420",
+      "text": "Draft a project's financial forecast",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0430",
+      "text": "Advise on a project's financial forecast",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0440",
+      "text": "Manage a project's budget",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0450",
+      "text": "Draft a project risk assessment",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0460",
+      "text": "Manage project's risks and opportunities",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "KT0470",
+      "text": "Advise on the quality of a Contractor's project management deliverables",
+      "duty_area": "Duty Area K - FORCE DEVELOPMENT AND DESIGN"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Commander",
+      "code": "LT0360",
+      "text": "Command a Fleet Diving Unit",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Lieutenant Commander",
+      "code": "LT0380",
+      "text": "Determine the quality of a diving doctrine & TTP",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Commander",
+      "code": "OT0300",
+      "text": "Report on quality of CLDO occupational performance",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Commander",
+      "code": "OT0550",
+      "text": "Present documents and correspondence with supporting references and control measures",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Commander",
+      "code": "OT0560",
+      "text": "Identify unsatisfactory conditions in equipment and capabilities",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Commander",
+      "code": "OT0570",
+      "text": "Identify operational capablity deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "2",
+      "rank": "Commander",
+      "code": "OT0580",
+      "text": "Identify training capability deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "LT0090",
+      "text": "Draft a diving risk assessment",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "LT0370",
+      "text": "Draft a diving doctrine & TTP",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "LT0390",
+      "text": "Draft a diving policy",
+      "duty_area": "Duty Area L - DIVING AND MINE WARFARE"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "MT0060",
+      "text": "Advise on CLDO professional development framework",
+      "duty_area": "Duty Area M - MILPERSMGMT"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "MT0070",
+      "text": "Advise on CLDO personnel generation framework",
+      "duty_area": "Duty Area M - MILPERSMGMT"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "MT0080",
+      "text": "Advise on CLDO personnel management framework",
+      "duty_area": "Duty Area M - MILPERSMGMT"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0300",
+      "text": "Report on quality of CLDO occupational performance",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "OT0440",
+      "text": "Instruct on Naval Diving",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant (Navy)",
+      "code": "OT0450",
+      "text": "Instruct on SBIS missions",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0490",
+      "text": "Report on quality of UWO occupational performance",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0500",
+      "text": "Manage a UWO qualification standard",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0530",
+      "text": "Communicate using a contact block report",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0540",
+      "text": "Communicate using the situation, assessment, intentions, & priorities format",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0550",
+      "text": "Present documents and correspondence with supporting references and control measures",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0560",
+      "text": "Identify unsatisfactory conditions in equipment and capabilities",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0570",
+      "text": "Identify operational capablity deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0580",
+      "text": "Identify training capability deficiencies",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0590",
+      "text": "Identify upcoming watch requirements",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0600",
+      "text": "Review doctrine, TTP, & orders",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0610",
+      "text": "Attend pre-watch and pre-serial briefings",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0620",
+      "text": "Plan the scheme of manoeuver of a watch",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0630",
+      "text": "Verify machinery state, maintainence, and training requirements",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0640",
+      "text": "Verify the threat, tactical situation, status of consorts, and operations training requirements",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0650",
+      "text": "Verify readiness of boats, equipment, and exterior state of the ship",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0660",
+      "text": "Verify primary, alternate, contingency, and emergency communication systems",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0670",
+      "text": "Verify physical logs and records",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0680",
+      "text": "Verify digital logs and recording systems",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0690",
+      "text": "Verify bridge equipment servicability",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0700",
+      "text": "Establish charge of The Ship",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0710",
+      "text": "Stand-to the Bridge Watch",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0720",
+      "text": "Draft a scheme of manoeuver",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0730",
+      "text": "Draft an order",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0740",
+      "text": "Draft an in-service support request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0750",
+      "text": "Draft a request for effect",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0760",
+      "text": "Draft a request for information",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0770",
+      "text": "Draft a prevention of mutual interference request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0780",
+      "text": "Draft an information brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0790",
+      "text": "Draft a decision brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0800",
+      "text": "Draft a mission brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0810",
+      "text": "Determine the quality of an order",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0820",
+      "text": "Determine the quality of an in-service support request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0830",
+      "text": "Determine the quality of a request for effect",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0840",
+      "text": "Determine the quality of a request for information",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0850",
+      "text": "Determine the quality of a prevention of mutual interference request",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0860",
+      "text": "Determine the quality of an information brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0870",
+      "text": "Determine the quality of a decision brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0880",
+      "text": "Determine the quality of a mission brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0890",
+      "text": "Present a brief with supporting material",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0900",
+      "text": "Present an oral brief",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0910",
+      "text": "Identify fixing points visually from a navigation chart",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0920",
+      "text": "Identify fixing points for RADAR from a navigation chart",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0930",
+      "text": "Plot fixing points on a paper navigation chart",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0940",
+      "text": "Plot fixing points in a Warship Electronic Chart Display and Information System",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0950",
+      "text": "Calculate tide and current",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0960",
+      "text": "Calculate Course to Maintain PIM",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0970",
+      "text": "Calculate Course to Regain PIM",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0980",
+      "text": "Identify Visual fixing points",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT0990",
+      "text": "Identify RADAR fixing points",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1000",
+      "text": "Identify Fathometer fixing points",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1010",
+      "text": "FIX the position of THE SHIP in WECDIS",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1020",
+      "text": "FIX the position of THE SHIP on paper charts",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1030",
+      "text": "Identify errors in Navigation Equipment",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1040",
+      "text": "Identify vessel type",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1050",
+      "text": "Identify Risk of Collision",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1060",
+      "text": "Calculate manoeuvering requirements to mitigate Risk of Collision",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1070",
+      "text": "Calculate Speed Required",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1080",
+      "text": "Calculate Speed Made Good",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1090",
+      "text": "Visually Lookout to identify navigational hazards",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1100",
+      "text": "Audibly Lookout to identify navigational hazards",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1110",
+      "text": "Determine most accurate position source in WECDIS",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1120",
+      "text": "Evaluate DGPS Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1130",
+      "text": "Evaluate Fathometer Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1140",
+      "text": "Evaluate Gyro Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1150",
+      "text": "Evaluate RADAR Index Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1160",
+      "text": "Evaluate RADAR Azimuth Errors",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1170",
+      "text": "Determine Safe Speed",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1180",
+      "text": "Manoeuver the ship with conning orders",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1190",
+      "text": "Evaluate Radar Image Overlay in WECDIS",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1200",
+      "text": "Calculate minimum depth for navigation",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1210",
+      "text": "Calculate visual clearing bearings for navigation",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1220",
+      "text": "Calculate Parallel Indicies on RADAR for navigation",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1230",
+      "text": "Tune Gain, Sea, and Rain on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1240",
+      "text": "Hook contacts on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1250",
+      "text": "Evaluate contacts on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1260",
+      "text": "Plan Trial Geometry on ARPA",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1270",
+      "text": "Supervise PPE of HMG crew",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1280",
+      "text": "Order HMG crew to stand-to",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1290",
+      "text": "Order HMG crew to relax",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1300",
+      "text": "Order HMG crew to stand down",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1310",
+      "text": "Secure the HMG crew",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1320",
+      "text": "Draft Firing Orders for HMG firing exercise",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1330",
+      "text": "Brief safe firing procedures and exercise conduct for HMG firing exercise",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1340",
+      "text": "Maintain visual lookout of firing area for HMG firing exercise",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1350",
+      "text": "Designate targets for HMG crew",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1360",
+      "text": "Order HMG engagement with deliberate procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1370",
+      "text": "Order HMG engagement with warning shot procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1380",
+      "text": "Order HMG engagement with alarm procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1390",
+      "text": "Order HMG load procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1400",
+      "text": "Order HMG unload & clear gun procedure",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1410",
+      "text": "Order HMG to make safe",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1420",
+      "text": "Order HMG to unload hot barrel",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1430",
+      "text": "Conduct pre-fire checks on HMG",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1440",
+      "text": "Conduct post-fire cleaning of HMG",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1450",
+      "text": "Conduct inspection of HMG mount",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1460",
+      "text": "Observe fall of shot and determine corrections",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1470",
+      "text": "Visually identify allied air order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1480",
+      "text": "Visually identify allied surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1490",
+      "text": "Visually identify allied sub-surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1500",
+      "text": "Visually identify non-allied air order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1510",
+      "text": "Visually identify non-allied surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1520",
+      "text": "Visually identify non-allied sub-surface order of battle",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1530",
+      "text": "Determine the proximity of a threat",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1540",
+      "text": "Determine the capability of a threat",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1550",
+      "text": "Review indications and warnings",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1560",
+      "text": "Identify hostile intent",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1570",
+      "text": "Escalate non-lethal force",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1580",
+      "text": "Escalate lethal force",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1590",
+      "text": "Communicate with morse code using an aldis lamp",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1600",
+      "text": "Communicate with signal flags",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1610",
+      "text": "Communicate with VHF/International maritime mobile",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1620",
+      "text": "Communicate with UHF/HF using Allied voice procedures and brevity code words",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1630",
+      "text": "Authenticate voice communications over a UHF/HF radio",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1640",
+      "text": "Communicate with an encrypted voice network",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1650",
+      "text": "Communicate with the main broadcast",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1660",
+      "text": "Communicate with an internal communication system",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1670",
+      "text": "Communicate with a portible radio system",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1680",
+      "text": "Communicate with a sound-powered telephone",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    },
+    {
+      "jobcode": "3",
+      "rank": "Lieutenant Commander",
+      "code": "OT1690",
+      "text": "Communicate with an underwater telephone",
+      "duty_area": "Duty Area O - DOCTRINE & TRAINING"
+    }
+  ]
+}

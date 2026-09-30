@@ -1,0 +1,2197 @@
+{
+  "source_files": [
+    "Combat Systems Operator_FlatJobTaskRequirements.json"
+  ],
+  "model_name": "text-embedding-3-large",
+  "model_version": "2.0",
+  "task_checksums": {
+    "/home/chellaa/Desktop/Repos/occupation-analysis/scripts/data/Combat Systems Operator_FlatJobTaskRequirements.json": "a75a6ceceff514045534dbb87816afc4"
+  },
+  "source_hash": "965e56f4321aadc249e6f3ce8ece89c6",
+  "tasks_metadata": [
+    {
+      "jobcode": "500232",
+      "rank": "PO1",
+      "code": "GT0012",
+      "text": "Supervise AAWC instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "500232",
+      "rank": "PO1",
+      "code": "GT0028",
+      "text": "Manage synthetic trainer support",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510234",
+      "rank": "PO2",
+      "code": "AT0060",
+      "text": "Supervise RAP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510234",
+      "rank": "PO2",
+      "code": "AT0260",
+      "text": "Lead FC equipment operational status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510234",
+      "rank": "PO2",
+      "code": "AT0280",
+      "text": "Supervise Halifax and Protecteur Class anti-air warfare (AAW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510234",
+      "rank": "PO2",
+      "code": "AT0290",
+      "text": "Supervise River Class anti-air warfare (AAW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510234",
+      "rank": "PO2",
+      "code": "BT0150",
+      "text": "Supervise AWW and FC equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "510234",
+      "rank": "PO2",
+      "code": "ET0003",
+      "text": "Supervise TDL Activities",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510234",
+      "rank": "PO2",
+      "code": "ET0008",
+      "text": "Synthesize the Multi-Tactical Data Links (MTN) as a component of the \nJoint Defence Network (JDN)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0003",
+      "text": "Supervise Submarine C4I system operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0006",
+      "text": "Supervise ESM operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0011",
+      "text": "Supervise signal of interest (SOI) analysis and reports",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0016",
+      "text": "Supervise signal of interest (SOI) fingerprinting",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0020",
+      "text": "Supervise submarine EMCON and EMSEC emitter status",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0021",
+      "text": "Supervise Submarine Data Collection",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0022",
+      "text": "Supervise digital imagery processing",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0025",
+      "text": "Supervise Navigational radar operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510235",
+      "rank": "PO2",
+      "code": "FT0027",
+      "text": "Supervise Threat Log maintenace",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510236",
+      "rank": "PO2",
+      "code": "GT0026",
+      "text": "Lead synthetic trainer support",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0004",
+      "text": "Instruct AAWC",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0006",
+      "text": "Instruct ASTAC",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0009",
+      "text": "Supervise SWS instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0010",
+      "text": "Supervise IDS / TIC instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0011",
+      "text": "Supervise ASuWC instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0012",
+      "text": "Supervise AAWC instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0014",
+      "text": "Supervise ASTAC instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0014",
+      "text": "Supervise ASTAC instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0015",
+      "text": "Supervise TDL instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0016",
+      "text": "Supervise CSO Submarine instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0021",
+      "text": "Develop CSO qualification standards (QS)",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0022",
+      "text": "Develop ASTAC Courseware",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510237",
+      "rank": "PO2",
+      "code": "GT0027",
+      "text": "Supervise synthetic trainer support",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510238",
+      "rank": "PO2",
+      "code": "ET0016",
+      "text": "Coordinate Tactical Data Links (TDL) testing",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510239",
+      "rank": "PO2",
+      "code": "AT0040",
+      "text": "Manage RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510239",
+      "rank": "PO2",
+      "code": "AT0100",
+      "text": "Manage Global Command and Control System Maritime (GCCS-M)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "AT0040",
+      "text": "Manage RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "AT0100",
+      "text": "Manage Global Command and Control System Maritime (GCCS-M)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "AT0130",
+      "text": "Manage the Ship embedded training tool (SETT) configuration",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "AT0140",
+      "text": "Manage Circuit Management Functions",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "AT0150",
+      "text": "Manage EMCON restrictions",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage CIC performance during ASuW / AAW and helo operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "BT0160",
+      "text": "Manage AWW and FC equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "BT0170",
+      "text": "Manage AWW and FC equipment fault identification",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "510240",
+      "rank": "PO1",
+      "code": "ET0004",
+      "text": "Manage TDL Activities",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510243",
+      "rank": "PO1",
+      "code": "ET0006",
+      "text": "Advise Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510243",
+      "rank": "PO1",
+      "code": "ET0007",
+      "text": "Manage Track Data in a Multi-Tactical Data Links Network (MTN)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510243",
+      "rank": "PO1",
+      "code": "ET0009",
+      "text": "Promulgate Multi-Tactical Data Links (MTN) interoperability \n(operational/ mission environment)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510243",
+      "rank": "PO1",
+      "code": "ET0014",
+      "text": "Validate the Tactical Data Links (TDL) Architecture Interface and Contingency Plans",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510243",
+      "rank": "PO1",
+      "code": "ET0018",
+      "text": "Coordinate the establishment of a Joint Interface Control Cell (JICC)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510243",
+      "rank": "PO1",
+      "code": "GT0007",
+      "text": "Instruct TDL",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510244",
+      "rank": "PO1",
+      "code": "CT0012",
+      "text": "Supervise Air Controller administrative functions",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "510244",
+      "rank": "PO1",
+      "code": "CT0013",
+      "text": "Manage Fleet SAC's during operations and exercises",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "510244",
+      "rank": "PO1",
+      "code": "GT0033",
+      "text": "Manage collective training program development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510244",
+      "rank": "PO1",
+      "code": "GT0035",
+      "text": "Manage CSO performance during collective training programs",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510244",
+      "rank": "PO1",
+      "code": "GT0036",
+      "text": "Report on the quality of collective training",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510244",
+      "rank": "PO1",
+      "code": "GT0037",
+      "text": "Report on section performance during CT program",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510245",
+      "rank": "PO1",
+      "code": "GT0017",
+      "text": "Manage CSO instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510245",
+      "rank": "PO1",
+      "code": "GT0018",
+      "text": "Manage ASTAC instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510245",
+      "rank": "PO1",
+      "code": "GT0019",
+      "text": "Manage TDL instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510245",
+      "rank": "PO1",
+      "code": "GT0020",
+      "text": "Manage CSO Submarine instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510246",
+      "rank": "PO1",
+      "code": "AT0040",
+      "text": "Manage RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510247",
+      "rank": "PO1",
+      "code": "GT0038",
+      "text": "Manage OT&E program",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510247",
+      "rank": "PO1",
+      "code": "GT0039",
+      "text": "Report on the quality of OT&E",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510248",
+      "rank": "PO1",
+      "code": "GT0021",
+      "text": "Develop CSO qualification standards (QS)",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510248",
+      "rank": "PO1",
+      "code": "GT0028",
+      "text": "Manage synthetic trainer support",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510249",
+      "rank": "CPO2",
+      "code": "GT0033",
+      "text": "Manage collective training program development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510249",
+      "rank": "CPO2",
+      "code": "GT0035",
+      "text": "Manage CSO performance during collective training programs",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510249",
+      "rank": "CPO2",
+      "code": "GT0036",
+      "text": "Report on the quality of collective training",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510249",
+      "rank": "CPO2",
+      "code": "GT0037",
+      "text": "Report on section performance during CT program",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "CT0012",
+      "text": "Supervise Air Controller administrative functions",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "GT0033",
+      "text": "Manage collective training program development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "GT0035",
+      "text": "Manage CSO performance during collective training programs",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "GT0036",
+      "text": "Report on the quality of collective training",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "GT0037",
+      "text": "Report on section performance during CT program",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "HT0001",
+      "text": "Advise on CSO personnel generation requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "HT0002",
+      "text": "Advise on CSO force employment requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "510251",
+      "rank": "CPO2",
+      "code": "HT0003",
+      "text": "Advise on CSO professional development requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "510252",
+      "rank": "CPO2",
+      "code": "ET0010",
+      "text": "Plan a Multi-Link Network",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510252",
+      "rank": "CPO2",
+      "code": "ET0011",
+      "text": "Validate the Multi-Link Interface Design Plan",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510252",
+      "rank": "CPO2",
+      "code": "ET0012",
+      "text": "Manage Tactical Data Links (TDL) Network Architecture",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510252",
+      "rank": "CPO2",
+      "code": "ET0013",
+      "text": "Manage Joint Tactical Information Distribution System (JTIDS/Multi-functional \nInformation Distribution System (MIDS) Frequency Clearance Compliance)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510252",
+      "rank": "CPO2",
+      "code": "ET0014",
+      "text": "Validate the Tactical Data Links (TDL) Architecture Interface and Contingency Plans",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510252",
+      "rank": "CPO2",
+      "code": "ET0019",
+      "text": "Manage Joint Interface Control Cell (JICC)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510252",
+      "rank": "CPO2",
+      "code": "GT0007",
+      "text": "Instruct TDL",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510253",
+      "rank": "CPO2",
+      "code": "ET0013",
+      "text": "Manage Joint Tactical Information Distribution System (JTIDS/Multi-functional \nInformation Distribution System (MIDS) Frequency Clearance Compliance)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510253",
+      "rank": "CPO2",
+      "code": "ET0014",
+      "text": "Validate the Tactical Data Links (TDL) Architecture Interface and Contingency Plans",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510253",
+      "rank": "CPO2",
+      "code": "ET0015",
+      "text": "Advise on Tactical Data Links (TDL) Policy & Procedure\n(Tactical, Operational & Strategic)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510254",
+      "rank": "CPO2",
+      "code": "AT0040",
+      "text": "Manage RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "510254",
+      "rank": "CPO2",
+      "code": "ET0014",
+      "text": "Validate the Tactical Data Links (TDL) Architecture Interface and Contingency Plans",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510254",
+      "rank": "CPO2",
+      "code": "GT0007",
+      "text": "Instruct TDL",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510254",
+      "rank": "CPO2",
+      "code": "GT0019",
+      "text": "Manage TDL instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510254",
+      "rank": "CPO2",
+      "code": "GT0020",
+      "text": "Manage CSO Submarine instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510254",
+      "rank": "CPO2",
+      "code": "GT0023",
+      "text": "Supervise CSO QSP development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "FT0003",
+      "text": "Supervise Submarine C4I system operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0033",
+      "text": "Manage collective training program development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0033",
+      "text": "Manage collective training program development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0033",
+      "text": "Manage collective training program development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0035",
+      "text": "Manage CSO performance during collective training programs",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0035",
+      "text": "Manage CSO performance during collective training programs",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0035",
+      "text": "Manage CSO performance during collective training programs",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0036",
+      "text": "Report on the quality of collective training",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0036",
+      "text": "Report on the quality of collective training",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0036",
+      "text": "Report on the quality of collective training",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0037",
+      "text": "Report on section performance during CT program",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0037",
+      "text": "Report on section performance during CT program",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510255",
+      "rank": "CPO2",
+      "code": "GT0037",
+      "text": "Report on section performance during CT program",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "510256",
+      "rank": "CPO2",
+      "code": "ET0007",
+      "text": "Manage Track Data in a Multi-Tactical Data Links Network (MTN)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510256",
+      "rank": "CPO2",
+      "code": "ET0015",
+      "text": "Advise on Tactical Data Links (TDL) Policy & Procedure\n(Tactical, Operational & Strategic)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "510256",
+      "rank": "CPO2",
+      "code": "GT0023",
+      "text": "Supervise CSO QSP development",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "58",
+      "rank": "CPO2",
+      "code": "ET0018",
+      "text": "Coordinate the establishment of a Joint Interface Control Cell (JICC)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "58",
+      "rank": "CPO2",
+      "code": "ET0019",
+      "text": "Manage Joint Interface Control Cell (JICC)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "59",
+      "rank": "CPO2",
+      "code": "HT0001",
+      "text": "Advise on CSO personnel generation requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "59",
+      "rank": "CPO2",
+      "code": "HT0002",
+      "text": "Advise on CSO force employment requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "59",
+      "rank": "CPO2",
+      "code": "HT0003",
+      "text": "Advise on CSO professional development requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "59",
+      "rank": "CPO2",
+      "code": "HT0004",
+      "text": "Manage CSO career path",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0001",
+      "text": "Advise on CSO personnel generation requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0001",
+      "text": "Advise on CSO personnel generation requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0002",
+      "text": "Advise on CSO force employment requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0002",
+      "text": "Advise on CSO force employment requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0003",
+      "text": "Advise on CSO professional development requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0003",
+      "text": "Advise on CSO professional development requirements",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0004",
+      "text": "Manage CSO career path",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0004",
+      "text": "Manage CSO career path",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0005",
+      "text": "Advise on CSO career management",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "G00114",
+      "rank": "CPO2",
+      "code": "HT0005",
+      "text": "Advise on CSO career management",
+      "duty_area": "Duty Area H - Personnel Management"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "AT0010",
+      "text": "Monitor Recongnized Maritime Picture",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "AT0070",
+      "text": "Report position of Persons Overboard",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "AT0080",
+      "text": "Maintain CIC / OPS stateboards",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "AT0090",
+      "text": "Monitor Global Command and Control System Maritime (GCCS-M)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "AT0110",
+      "text": "Report on standard Bathymetric data",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0010",
+      "text": "Monitor Navigational radar status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0020",
+      "text": "Report Navigational radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0050",
+      "text": "Monitor surface search radar status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0060",
+      "text": "Report surface search radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0100",
+      "text": "Monitor Halifax Class/ Protecteur Class / AOPV MFW / CMS 330 console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "BT0110",
+      "text": "Monitor River Class MFW/AEGIS console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "ET0001",
+      "text": "Monitor Tactical Data Links (TDL) systems",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00001",
+      "rank": "S2/S1",
+      "code": "ET0005",
+      "text": "Report Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "AT0010",
+      "text": "Monitor Recongnized Maritime Picture",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "AT0070",
+      "text": "Report position of Persons Overboard",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "AT0080",
+      "text": "Maintain CIC / OPS stateboards",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "AT0090",
+      "text": "Monitor Global Command and Control System Maritime (GCCS-M)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "AT0110",
+      "text": "Report on standard Bathymetric data",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "BT0010",
+      "text": "Monitor Navigational radar status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "BT0020",
+      "text": "Report Navigational radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "BT0050",
+      "text": "Monitor surface search radar status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "BT0060",
+      "text": "Report surface search radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "BT0100",
+      "text": "Monitor Halifax Class/ Protecteur Class / AOPV MFW / CMS 330 console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "BT0110",
+      "text": "Monitor River Class MFW/AEGIS console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "ET0001",
+      "text": "Monitor Tactical Data Links (TDL) systems",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00002",
+      "rank": "S2/S1",
+      "code": "ET0005",
+      "text": "Report Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0010",
+      "text": "Monitor Recongnized Maritime Picture",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0050",
+      "text": "Monitor Recognized Air Picture",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0070",
+      "text": "Report position of Persons Overboard",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0080",
+      "text": "Maintain CIC / OPS stateboards",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0110",
+      "text": "Report on standard Bathymetric data",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0120",
+      "text": "Monitor Cryptological devices for TDL and IFF sets",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0170",
+      "text": "Produce AWW component of order of battle (OOB) / threat card",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0180",
+      "text": "Produce AWW component of RECCE Pack",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "AT0190",
+      "text": "Report on AWW capabilities and limitations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Report Navigational radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0030",
+      "text": "Monitor air search radar status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0040",
+      "text": "Report on  air search radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0070",
+      "text": "Monitor IFF status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Monitor TDL status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0090",
+      "text": "Monitor AWW command and control (C2) status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0100",
+      "text": "Monitor Halifax Class/ Protecteur Class / AOPV MFW / CMS 330 console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0110",
+      "text": "Monitor River Class MFW/AEGIS console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "BT0120",
+      "text": "Report on operational status of AWW equipment",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "ET0001",
+      "text": "Monitor Tactical Data Links (TDL) systems",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "ET0005",
+      "text": "Report Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00003",
+      "rank": "S1",
+      "code": "ET0006",
+      "text": "Advise Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0010",
+      "text": "Monitor Recongnized Maritime Picture",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0050",
+      "text": "Monitor Recognized Air Picture",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0070",
+      "text": "Report position of Persons Overboard",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0080",
+      "text": "Maintain CIC / OPS stateboards",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0110",
+      "text": "Report on standard Bathymetric data",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0120",
+      "text": "Monitor Cryptological devices for TDL and IFF sets",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0170",
+      "text": "Produce AWW component of order of battle (OOB) / threat card",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0180",
+      "text": "Produce AWW component of RECCE Pack",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "AT0190",
+      "text": "Report on AWW capabilities and limitations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0020",
+      "text": "Report Navigational radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0030",
+      "text": "Monitor air search radar status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0040",
+      "text": "Report on  air search radar faults",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0070",
+      "text": "Monitor IFF status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0080",
+      "text": "Monitor TDL status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0090",
+      "text": "Monitor AWW command and control (C2) status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0100",
+      "text": "Monitor Halifax Class/ Protecteur Class / AOPV MFW / CMS 330 console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0110",
+      "text": "Monitor River Class MFW/AEGIS console status",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "BT0120",
+      "text": "Report on operational status of AWW equipment",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "ET0001",
+      "text": "Monitor Tactical Data Links (TDL) systems",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "ET0005",
+      "text": "Report Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00004",
+      "rank": "S1",
+      "code": "ET0006",
+      "text": "Advise Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0001",
+      "text": "Monitor Submarine C4I system",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0004",
+      "text": "Monitor ESM operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0009",
+      "text": "Report on a signal of interest (SOI)",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0013",
+      "text": "Report on a fingerprinted signal of interest (SOI)",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0014",
+      "text": "Monitor signal of interest (SOI) fingerprinting",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0018",
+      "text": "Report on emission control (EMCON)/emission security (EMSEC) Status",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0023",
+      "text": "Monitor navigational radar",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00005",
+      "rank": "S1",
+      "code": "FT0026",
+      "text": "Maintain Threat Log",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00006",
+      "rank": "S1",
+      "code": "GT0001",
+      "text": "Instruct SWS",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "GT0001",
+      "text": "Instruct SWS",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00007",
+      "rank": "S1",
+      "code": "GT0025",
+      "text": "Provide Syntetic Trainer Support",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "CT0003",
+      "text": "Lead air control in response to an Aircraft Emergency",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "CT0004",
+      "text": "Advise on air asset employment",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "CT0005",
+      "text": "Report on maintenance of a Recognized Air, Surface and Sub Surface Pictures",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "CT0006",
+      "text": "Plan a surveillance mission",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "CT0007",
+      "text": "Plan a SAR mission",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "CT0008",
+      "text": "Plan a Air Crew Briefing",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00008",
+      "rank": "S1",
+      "code": "CT0009",
+      "text": "Report Local Meterological Observations",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0001",
+      "text": "Control an aircraft using shipborne sensors",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0004",
+      "text": "Initiate Notices to Airmen (NOTAMS)",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0005",
+      "text": "Record flight information",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0006",
+      "text": "Communicate flight data information to external agencies",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0007",
+      "text": "Determine aircraft location using direction finding (DF) equipment",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0008",
+      "text": "Coordinate with other controllers",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0009",
+      "text": "Transfer control of aircraft between control facilities",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0010",
+      "text": "Coordinate airspace utilization",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0011",
+      "text": "Relay information, reports and requests to/from aircraft",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0012",
+      "text": "Maintain situational awareness in a given area of responsibility (AOR)",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0014",
+      "text": "Control the aerodrome manoeuvring area",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0015",
+      "text": "Provide tactical information to aircraft",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0016",
+      "text": "Control mission aircraft",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0017",
+      "text": "Maintain RAP",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0018",
+      "text": "Coordinate surveillance requirements",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00009",
+      "rank": "S1",
+      "code": "DT0019",
+      "text": "Link to external facilities",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Lead RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0040",
+      "text": "Manage RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0120",
+      "text": "Monitor Cryptological devices for TDL and IFF sets",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0200",
+      "text": "Lead AWW deliverable production",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0210",
+      "text": "Engage a target with Halifax Class surface-to-surface missile(s) (SSM)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0230",
+      "text": "Lead Halifax and Protecteur Class track/target identification, engagement and status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0240",
+      "text": "Lead River Class track/target identification, engagement and status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0250",
+      "text": "Lead Halifax and Protecteur Class anti-surface warfare (ASuW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0260",
+      "text": "Lead FC equipment operational status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "AT0270",
+      "text": "Lead River Class anti-surface warfare (ASuW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0130",
+      "text": "Lead AWW equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "BT0140",
+      "text": "Lead FC equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "ET0002",
+      "text": "Lead TDL Activites",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00010",
+      "rank": "MS",
+      "code": "ET0006",
+      "text": "Advise Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Lead RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0040",
+      "text": "Manage RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0120",
+      "text": "Monitor Cryptological devices for TDL and IFF sets",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0200",
+      "text": "Lead AWW deliverable production",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0210",
+      "text": "Engage a target with Halifax Class surface-to-surface missile(s) (SSM)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0230",
+      "text": "Lead Halifax and Protecteur Class track/target identification, engagement and status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0240",
+      "text": "Lead River Class track/target identification, engagement and status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0250",
+      "text": "Lead Halifax and Protecteur Class anti-surface warfare (ASuW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0260",
+      "text": "Lead FC equipment operational status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "AT0270",
+      "text": "Lead River Class anti-surface warfare (ASuW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "BT0130",
+      "text": "Lead AWW equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "BT0140",
+      "text": "Lead FC equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "ET0002",
+      "text": "Lead TDL Activites",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00011",
+      "rank": "MS",
+      "code": "ET0006",
+      "text": "Advise Tactical Data Links (TDL) network faults",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0001",
+      "text": "Monitor Submarine C4I system",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0002",
+      "text": "Lead Submarine C4I system operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0004",
+      "text": "Monitor ESM operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0005",
+      "text": "Lead ESM operations",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0009",
+      "text": "Report on a signal of interest (SOI)",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0010",
+      "text": "Lead signal of interest (SOI) analysis and reports",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0013",
+      "text": "Report on a fingerprinted signal of interest (SOI)",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0014",
+      "text": "Monitor signal of interest (SOI) fingerprinting",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0018",
+      "text": "Report on emission control (EMCON)/emission security (EMSEC) Status",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0019",
+      "text": "Lead EMCON and EMSEC reporting",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0023",
+      "text": "Monitor navigational radar",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0024",
+      "text": "Lead Navigational radar set up",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00012",
+      "rank": "MS",
+      "code": "FT0026",
+      "text": "Maintain Threat Log",
+      "duty_area": "Duty Area F - Submarine Operations"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "AT0070",
+      "text": "Report position of Persons Overboard",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0001",
+      "text": "Control F/W and R/W aircraft using shipborne sensors",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0002",
+      "text": "Supervise F/W amd R/W air controllers",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0003",
+      "text": "Lead air control in response to an Aircraft Emergency",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0004",
+      "text": "Advise on air asset employment",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0005",
+      "text": "Report on maintenance of a Recognized Air, Surface and Sub Surface Pictures",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0006",
+      "text": "Plan a surveillance mission",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0007",
+      "text": "Plan a SAR mission",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0008",
+      "text": "Plan a Air Crew Briefing",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0009",
+      "text": "Report Local Meterological Observations",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0010",
+      "text": "Lead  Flight Planning",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00014",
+      "rank": "MS",
+      "code": "CT0011",
+      "text": "Lead Air Crew Briefing",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "GT0001",
+      "text": "Instruct SWS",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "GT0002",
+      "text": "Instruct IDS / TIC",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "GT0003",
+      "text": "Instruct ASuWC",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "GT0007",
+      "text": "Instruct TDL",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "GT0008",
+      "text": "Instruct CSO Submarine",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00016",
+      "rank": "MS",
+      "code": "GT0016",
+      "text": "Supervise CSO Submarine instruction",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00017",
+      "rank": "MS",
+      "code": "GT0026",
+      "text": "Lead synthetic trainer support",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00019",
+      "rank": "MS",
+      "code": "GT0022",
+      "text": "Develop ASTAC Courseware",
+      "duty_area": "Duty Area G- Training, Standards, Doctrine, Readiness and Project"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "MS",
+      "code": "ET0001",
+      "text": "Monitor Tactical Data Links (TDL) systems",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00020",
+      "rank": "MS",
+      "code": "ET0016",
+      "text": "Coordinate Tactical Data Links (TDL) testing",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "ET0001",
+      "text": "Monitor Tactical Data Links (TDL) systems",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00021",
+      "rank": "MS",
+      "code": "ET0008",
+      "text": "Synthesize the Multi-Tactical Data Links (MTN) as a component of the \nJoint Defence Network (JDN)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "AT0020",
+      "text": "Lead RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00022",
+      "rank": "MS",
+      "code": "AT0090",
+      "text": "Monitor Global Command and Control System Maritime (GCCS-M)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO2",
+      "code": "AT0060",
+      "text": "Supervise RAP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO2",
+      "code": "AT0260",
+      "text": "Lead FC equipment operational status reporting",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO2",
+      "code": "AT0280",
+      "text": "Supervise Halifax and Protecteur Class anti-air warfare (AAW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO2",
+      "code": "AT0290",
+      "text": "Supervise River Class anti-air warfare (AAW) operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO2",
+      "code": "BT0150",
+      "text": "Supervise AWW and FC equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO2",
+      "code": "ET0003",
+      "text": "Supervise TDL Activities",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00023",
+      "rank": "PO2",
+      "code": "ET0008",
+      "text": "Synthesize the Multi-Tactical Data Links (MTN) as a component of the \nJoint Defence Network (JDN)",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    },
+    {
+      "jobcode": "T00024",
+      "rank": "PO2",
+      "code": "CT0012",
+      "text": "Supervise Air Controller administrative functions",
+      "duty_area": "Duty Area C - Fixed and Rotary Wing Air Control"
+    },
+    {
+      "jobcode": "T00025",
+      "rank": "PO2",
+      "code": "DT0003",
+      "text": "Manage Air Intercept Controlers",
+      "duty_area": "Duty Area D - Air Intercept Control"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "AT0040",
+      "text": "Manage RMP",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "AT0100",
+      "text": "Manage Global Command and Control System Maritime (GCCS-M)",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "AT0130",
+      "text": "Manage the Ship embedded training tool (SETT) configuration",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "AT0140",
+      "text": "Manage Circuit Management Functions",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "AT0150",
+      "text": "Manage EMCON restrictions",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "AT0160",
+      "text": "Manage CIC performance during ASuW / AAW and helo operations",
+      "duty_area": "Duty Area B - Above Water Warfare (AWW) Operations"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "BT0160",
+      "text": "Manage AWW and FC equipment operational status reporting",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "BT0170",
+      "text": "Manage AWW and FC equipment fault identification",
+      "duty_area": "Duty Area B - AWW Status Verification"
+    },
+    {
+      "jobcode": "T00026",
+      "rank": "PO1",
+      "code": "ET0004",
+      "text": "Manage TDL Activities",
+      "duty_area": "Duty Area E - Tactical Data Link"
+    }
+  ]
+}
